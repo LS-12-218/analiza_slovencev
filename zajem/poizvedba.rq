@@ -1,0 +1,40 @@
+SELECT 
+?id (SAMPLE(?ime) AS ?ime) (SAMPLE(?spol_ime) as ?spol)
+(SAMPLE(?rojstvo) AS ?rojstvo) (SAMPLE(?smrt) AS ?smrt) (SAMPLE(?kraj_ime) as ?kraj)
+(GROUP_CONCAT(DISTINCT ?poklic_ime; SEPARATOR=";") AS ?poklici)
+(SAMPLE(?WikiSlo) AS ?WikiSlo) (SAMPLE(?WikiAng) AS ?WikiAng)
+
+WHERE {
+  ?id wdt:P31 wd:Q5;
+      wdt:P21 ?spol;
+      wdt:P106 ?poklic;
+      wdt:P569 ?rojstvo.
+  {
+    {?id wdt:P27 wd:Q215.} #ima slovensko državljanstvo
+    UNION {?id wdt:P1412 wd:Q9063.} #je govoril slovensko
+    UNION {?id wdt:P19 [wdt:P17 wd:Q215].} #se je rodil v današnji Sloveniji
+  }
+  OPTIONAL {?id wdt:P570 ?smrt.}
+  OPTIONAL {?id wdt:P19 ?kraj.
+             {
+               {?kraj wdt:P31 wd:Q515}
+               UNION {?kraj wdt:P31 wd:Q3957}
+               UNION {?kraj wdt:P31 wd:Q486972} #je mesto, naselje ali vas
+             }
+           }
+  ?WikiSlo schema:about ?id.
+  ?WikiSlo schema:isPartOf <https://sl.wikipedia.org/>. #slovenska wiki stran
+  ?WikiAng schema:about ?id.
+  ?WikiAng schema:isPartOf <https://en.wikipedia.org/>. #angleška wiki stran
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "sl, en". #dobi imena objektov
+    ?id rdfs:label ?ime.
+    ?spol rdfs:label ?spol_ime.
+    ?kraj rdfs:label ?kraj_ime.
+    ?poklic rdfs:label ?poklic_ime.
+  }
+  FILTER(LANG(?poklic_ime) = "sl") #le poklici, za katere obstajajo slovenska imena
+  FILTER(LANG(?ime) = "sl")
+  FILTER(?rojstvo >= "1000-01-01T00:00:00Z"^^xsd:dateTime)
+}
+GROUP BY ?id
