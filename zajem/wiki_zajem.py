@@ -18,7 +18,12 @@ def koren(url):
     return najdi_prvo("wikipedia.org/wiki/(.+)$", url)
 
 def id(url):
-    return int(najdi_prvo("www.wikidata.org/entity/Q(\d+)$", url))
+    return najdi_prvo("www.wikidata.org/entity/Q(\d+)$", url)
+
+def datum(niz):
+    if niz:
+        if "-" in niz:
+            return tuple([int(st) for st in najdi_prvo("(^.+)T", niz).split("-")])
 
 def st_besed(url, vzorec):
     html = orodja.preberi_stran(url)
