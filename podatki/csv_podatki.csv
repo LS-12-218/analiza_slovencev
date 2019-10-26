@@ -1,0 +1,2443 @@
+ID,Ime,Spol,Rojstni Kraj,Leto Rojstva,Starost,Mrtev,Ogledi Slo,Ogledi Ang,Povezave Slo,Povezave Ang,Dolžina Slo,Dolžina Ang
+1031,France Prešeren,Moški,Vrba,1800,48,True,5194,2032,859,572,2118,3934
+1051,Ivan Regen,Moški,Gorenja vas,1868,78,True,23,54,24,102,667,684
+1783,Primož Kozmus,Moški,Novo mesto,1979,40,False,1066,751,98,320,1001,965
+5344,Roman Jerala,Moški,Jesenice,1962,57,False,27,40,52,5,884,509
+5345,Boris Sket,Moški,Ljubljana,1936,83,False,34,58,161,20,1110,586
+5346,Matija Gogala,Moški,Ljubljana,1937,81,False,15,39,25,15,652,452
+5347,Franc Gubenšek,Moški,Celje,1937,72,True,7,8,53,8,743,314
+5348,Jovan Hadži,Moški,Timișoara,1884,88,True,109,134,283,21,1368,515
+5349,Fran Jesenko,Moški,Škofja Loka,1875,57,True,54,32,17,14,566,610
+5352,Ernest Mayer,Moški,Zgornji Tuhinj,1920,88,True,10,102,18,14,278,453
+5364,Anton Polenec,Moški,Puštal,1910,90,True,14,24,11,6,441,259
+5365,Kazimir Tarman,Moški,Maribor,1930,89,False,9,19,15,6,517,211
+10085,Tina Maze,Ženska,Slovenj Gradec,1983,36,False,704,1899,272,416,3764,4933
+11884,Ferdinand Avguštin Hallerstein,Moški,Ljubljana,1703,71,True,91,136,32,50,1161,666
+11931,Tim Matavž,Moški,Šempeter pri Gorici,1989,30,False,79,2355,37,190,598,1158
+12890,Franko Luin,Moški,Trst,1941,64,True,5,53,9,21,687,452
+14962,Emil Adamič,Moški,"Dobrova, Dobrova - Polhov Gradec",1877,58,True,54,80,69,51,703,309
+15794,Tomaž Šalamun,Moški,Zagreb,1941,73,True,290,357,557,355,3462,2823
+15800,Fran Levstik,Moški,Dolnje Retje,1831,56,True,2215,310,243,150,2770,604
+15803,Simon Jenko,Moški,Podreča,1835,33,True,1274,202,108,116,776,580
+15806,Dragotin Kette,Moški,Prem,1876,23,True,899,235,205,217,1231,1258
+15809,Ivan Cankar,Moški,Vrhnika,1876,42,True,3467,1086,479,189,1600,3397
+15904,Milan Jesih,Moški,Ljubljana,1950,69,False,137,67,694,117,4735,1568
+15909,Jože Javoršek,Moški,Velike Lašče,1920,69,True,121,81,481,228,4243,3732
+16581,Jožef Stefan,Moški,,1835,57,True,342,1027,107,162,3780,1086
+26276,Klemen Lavrič,Moški,Trbovlje,1981,38,False,16,102,13,58,243,671
+26280,Sergej Šalamon,Moški,,1975,44,False,8,5,6,9,86,123
+26309,Amir Karič,Moški,Orahovica Donja,1973,45,False,96,260,49,91,254,840
+26315,Željko Milinovič,Moški,Ljubljana,1969,50,False,29,142,43,76,359,658
+39314,Romana Jordan,Ženska,Celje,1966,53,False,48,27,15,90,439,342
+45502,Anton Stres,Moški,Donačka Gora,1942,76,False,70,88,64,19,1312,1219
+46256,Žan Košir,Moški,Tržič,1984,35,False,340,138,22,66,485,378
+46662,Riccardo Divora,Moški,Koper,1908,42,True,0,21,12,9,71,73
+57329,Danilo Türk,Moški,Maribor,1952,67,False,242,1021,116,185,1602,2153
+57627,Janez Janša,Moški,Grosuplje,1958,61,False,1136,3536,1429,570,6792,7215
+58079,Karl Erjavec,Moški,,1960,59,False,277,369,193,81,1354,871
+58449,Anja Rupel,Ženska,Ljubljana,1966,53,False,285,714,75,36,486,413
+61219,Fredi Bobič,Moški,Maribor,1971,47,False,19,2822,6,235,121,1539
+78482,Friderik Pregl,Moški,Ljubljana,1869,61,True,545,734,91,279,3316,1089
+78592,Jakob Lorber,Moški,,1800,64,True,34,568,12,43,508,2394
+79131,Alma Maksimiljana Karlin,Ženska,Celje,1889,60,True,731,401,47,92,1351,1344
+84444,Jernej Kopitar,Moški,Repnje,1780,63,True,399,371,116,98,1139,1173
+85040,Stanko Bloudek,Moški,Idrija,1890,69,True,115,70,63,35,1960,923
+85079,Richard Verderber,Moški,Kočevje,1884,71,True,5,33,9,17,333,221
+86243,Blaž Kocen,Moški,Hotunje,1821,50,True,19,15,6,4,357,665
+87156,Franz Naval,Moški,Ljubljana,1865,74,True,2,23,5,5,456,305
+90003,Ernst Mally,Moški,Kranj,1879,65,True,12,195,10,33,1326,1269
+90558,Pavel Pachner,Moški,Maribor,1871,66,True,6,57,2,5,305,177
+93401,Franc Miklošič,Moški,Radomerščak,1813,77,True,218,288,102,173,811,997
+93520,Jurij Vega,Moški,Zagorica pri Dolskem,1754,48,True,582,423,103,134,3015,1426
+93955,Florjan Lipuš,Moški,Lobnik,1937,82,False,124,136,527,125,2718,1451
+93959,Maja Haderlap,Ženska,,1961,58,False,148,289,311,122,489,1947
+93975,Andrej Turjaški,Moški,Žužemberk,1556,37,True,187,168,16,79,127,896
+112301,Janez Žiga Valentin Popovič,Moški,Celje,1705,69,True,23,35,13,69,367,387
+112486,Lovrenc Košir,Moški,Spodnja Luša,1804,75,True,35,44,71,90,897,664
+112919,Zofka Kveder,Ženska,Ljubljana,1878,48,True,196,118,71,20,1609,470
+118513,Marko Simeunovič,Moški,Maribor,1967,51,False,46,216,48,74,180,436
+123878,Lojze Kovačič,Moški,,1928,75,True,223,100,707,124,4282,1897
+126968,Marjan Jelenko,Moški,Maribor,1991,28,False,10,14,4,30,72,112
+132193,Jožef Smej,Moški,Bogojina,1922,97,False,41,56,40,13,656,223
+137614,Simon Špilak,Moški,Tišina,1986,33,False,98,560,8,187,190,913
+147810,Anton Ingolič,Moški,Spodnja Polskava,1907,85,True,333,82,460,104,3271,589
+156902,Primož Trubar,Moški,,1508,77,True,5721,1198,293,465,2309,1695
+161900,Miško Kranjec,Moški,Velika Polana,1908,74,True,611,110,398,35,2221,336
+165852,Jaka Hvala,Moški,Ponikve,1993,26,False,10,47,40,37,225,284
+168948,Zdenko Verdenik,Moški,Ptuj,1949,70,False,50,106,28,161,167,527
+171228,Janez Drnovšek,Moški,Celje,1950,57,True,615,1637,1222,430,4566,3188
+174719,Grega Bole,Moški,Jesenice,1985,34,False,37,225,15,176,150,775
+175451,Jure Zdovc,Moški,Maribor,1966,52,False,123,880,78,181,1105,941
+177511,Srečko Katanec,Moški,Ljubljana,1963,56,False,192,2573,95,496,917,2112
+178639,Kristjan Fajt,Moški,Koper,1982,37,False,13,26,13,34,69,346
+179513,Franci Petek,Moški,Jesenice,1971,48,False,62,62,122,107,732,619
+183566,Rok Tičar,Moški,Jesenice,1989,30,False,16,43,36,52,510,225
+184750,Slavoj Žižek,Moški,Ljubljana,1949,70,False,782,63202,63,1722,2757,6363
+187761,Vladimir Vauhnik,Moški,Svetinje,1896,58,True,129,239,19,10,882,1081
+192041,Boris Kidrič,Moški,Dunaj,1912,41,True,355,539,104,89,1277,760
+194443,Milan Kučan,Moški,"Križevci, Gornji Petrovci",1941,78,False,916,1607,848,354,1170,2552
+196311,Nina Sovinek,Ženska,Velenje,1985,34,False,0,19,5,20,74,380
+197527,Vesna Fabjan,Ženska,Kranj,1985,34,False,26,47,42,61,287,588
+199899,Franc Kangler,Moški,Maribor,1965,54,False,269,136,296,19,1921,829
+200509,Žiga Zois,Moški,Trst,1747,71,True,1007,304,161,72,983,1314
+201156,Britta Bilač,Ženska,,1968,50,False,135,122,66,101,381,540
+203291,Ana Drev,Ženska,Slovenj Gradec,1985,34,False,35,53,23,35,139,479
+206471,Borut Pahor,Moški,Postojna,1963,55,False,713,3720,638,554,3713,3488
+207127,Zlatan Ljubijankić,Moški,Ljubljana,1983,35,False,168,441,44,124,234,694
+207158,Zlatko Dedič,Moški,Bihać,1984,35,False,74,426,40,300,396,1189
+207186,Zlatko Zahović,Moški,Maribor,1971,48,False,378,3113,75,239,860,1979
+209185,Katja Višnar,Ženska,Bled,1984,35,False,24,57,13,56,190,577
+213002,Samir Handanović,Moški,Ljubljana,1984,35,False,610,27463,49,259,362,7186
+213032,Robert Koren,Moški,Radlje ob Dravi,1980,39,False,44,1091,41,211,456,2053
+213085,Milivoje Novaković,Moški,Ljubljana,1979,40,False,136,845,46,317,664,2002
+213112,Valter Birsa,Moški,Šempeter pri Gorici,1986,33,False,95,1626,41,261,559,1380
+217358,Merlene Ottey,Ženska,,1960,59,False,224,14790,62,460,694,4132
+217903,Zmago Jelinčič Plemeniti,Moški,Maribor,1948,71,False,665,433,462,54,3158,418
+220521,Zoran Janković,Moški,Saraorci,1953,66,False,1205,1136,177,161,2612,4013
+220530,Zoran Lubej,Moški,Celje,1975,43,False,16,12,7,16,82,147
+220545,Zoran Mušič,Moški,"Bukovica, Renče - Vogrsko",1909,96,True,160,470,1006,131,9170,2242
+220547,Zoran Pavlovič,Moški,Tuzla,1976,43,False,33,145,50,70,498,517
+220554,Zoran Predin,Moški,Maribor,1958,61,False,199,575,135,44,633,313
+220572,Zoran Thaler,Moški,Kranj,1962,57,False,69,97,282,34,1979,829
+229079,Polona Hercog,Ženska,Maribor,1991,28,False,193,5282,79,826,931,8088
+229116,Katarina Srebotnik,Ženska,Slovenj Gradec,1981,38,False,66,737,179,1828,744,7054
+231305,Petra Majdič,Ženska,Ljubljana,1979,39,False,220,430,109,138,3027,2342
+231334,Barbara Celjska,Ženska,Celje,1392,59,True,749,1384,49,210,1490,1443
+231366,Alenka Gotar,Ženska,Ljubljana,1977,42,False,128,222,68,179,730,723
+231488,Zvonko Kurbos,Moški,Maribor,1960,59,False,12,79,3,83,270,544
+233613,Rebeka Dremelj,Ženska,Brežice,1980,39,False,219,277,81,210,1087,547
+236878,Ivana Kobilca,Ženska,Ljubljana,1861,64,True,474,354,51,54,908,1024
+239269,Jolanda Batagelj,Ženska,Celje,1976,43,False,294,492,121,248,882,1023
+239728,Mima Jaušovec,Ženska,Maribor,1956,63,False,68,486,110,582,630,2726
+240347,Katarina Kresal,Ženska,Ljubljana,1973,46,False,386,187,244,23,1939,738
+240351,Sara Isaković,Ženska,Bled,1988,31,False,256,238,55,134,658,742
+240996,Eva Boto,Ženska,Dravograd,1995,23,False,1299,495,72,215,997,582
+241010,Maja Keuc,Ženska,Maribor,1992,27,False,155,391,90,231,568,851
+241258,Ana Muzičuk,Ženska,,1990,29,False,19,824,16,95,250,1271
+249737,Andraž Kirm,Moški,Ljubljana,1984,35,False,35,248,41,84,444,1010
+250714,Gregor Gazvoda,Moški,Maribor,1981,38,False,9,30,8,37,102,393
+251428,Benjamin Ipavec,Moški,Šentjur,1829,78,True,118,87,174,129,1692,629
+252528,Jožef Pustai,Moški,Beltinci,1864,70,True,6,32,100,80,581,463
+256657,Miha Mazzini,Moški,Jesenice,1961,58,False,498,552,116,74,992,553
+258290,Andreja Klepač,Ženska,Koper,1986,33,False,27,275,65,715,173,1471
+258425,Teja Gregorin,Ženska,Ljubljana,1980,39,False,47,107,34,141,352,404
+258443,Mateja Svet,Ženska,Ljubljana,1968,51,False,110,167,113,126,752,909
+261710,Nastja Čeh,Moški,Ptuj,1978,41,False,105,314,40,136,325,1086
+261766,Ferenc Novak,Moški,Tešanovci,1791,44,True,3,34,18,62,187,334
+262711,Darja Kapš,Ženska,Novo mesto,1981,37,False,31,29,12,18,327,163
+262833,Janoš Slepec,Moški,Murska Sobota,1872,64,True,6,22,14,35,167,343
+266026,Igor Bavčar,Moški,Ljubljana,1955,63,False,226,176,1086,27,4493,939
+267826,Jožef Bagari,Moški,Murska Sobota,1840,79,True,8,24,95,74,544,380
+268003,Edvard Kardelj,Moški,Ljubljana,1910,69,True,390,1858,366,184,2161,1564
+268621,Števan Selmar,Moški,Grad,1820,56,True,7,17,99,65,495,485
+269029,Lucija Polavder,Ženska,Celje,1984,34,False,22,48,26,55,164,282
+269065,Urška Hrovat,Ženska,Ljubljana,1974,45,False,50,46,37,42,440,472
+269092,Karmen Stavec,Ženska,,1973,45,False,261,213,77,141,687,411
+269146,Andreja Mali,Ženska,Kamnik,1977,41,False,14,49,30,106,269,495
+271356,Brigita Bukovec,Ženska,Ljubljana,1970,49,False,167,147,98,107,619,650
+271363,Katja Koren,Ženska,Maribor,1975,44,False,51,73,33,37,210,447
+271378,Špela Pretnar,Ženska,Bled,1973,46,False,43,86,59,65,322,422
+277836,Vasja Pirc,Moški,Idrija,1907,72,True,80,397,28,76,167,377
+281838,Anton Števanec,Moški,Vanča vas,1861,59,True,0,20,17,35,349,205
+282217,Sašo Fornezzi,Moški,Slovenj Gradec,1982,36,False,21,68,4,17,131,323
+282653,Lojze Peterle,Moški,Čužnja vas,1948,71,False,133,434,1141,269,6477,1506
+284450,Tanja Ribič,Ženska,Trbovlje,1968,51,False,424,765,91,499,993,1151
+287014,Bojan Prašnikar,Moški,Šmartno ob Paki,1953,66,False,177,194,68,116,345,894
+287267,Tina Pisnik,Ženska,Maribor,1981,38,False,14,112,26,250,88,523
+287332,Bernarda Fink,Ženska,Buenos Aires,1955,64,False,28,482,298,175,1680,1675
+287352,Mojca Suhadolc,Ženska,Ljubljana,1975,44,False,24,20,25,22,226,237
+290571,Jurij Tepeš,Moški,Ljubljana,1989,30,False,117,118,66,97,588,655
+290705,Herman II. Celjski,Moški,Celje,1361,74,True,243,462,111,137,1465,1711
+298491,Rene Krhin,Moški,Maribor,1990,29,False,277,2248,40,149,285,2997
+301171,Oton Župančič,Moški,Vinica,1878,71,True,1736,1099,427,199,2783,2030
+310106,Janko Prunk,Moški,Loka pri Zidanem Mostu,1942,76,False,35,65,95,52,1119,1577
+311328,Mišo Brečko,Moški,Trbovlje,1984,35,False,58,295,43,90,270,476
+314736,Bojan Jokić,Moški,Kranj,1986,33,False,80,1756,36,136,206,1088
+314886,Jože Plečnik,Moški,Ljubljana,1872,84,True,1353,1854,528,264,2732,1411
+315246,Damir Skomina,Moški,Koper,1976,43,False,358,3657,3,568,1054,1114
+318926,Saša Vujačić,Moški,Maribor,1984,35,False,128,8471,21,316,985,2506
+319533,Juš Kozak,Moški,Ljubljana,1892,72,True,52,39,429,23,2515,384
+321636,Igor Ozim,Moški,Ljubljana,1931,88,False,29,153,956,34,2164,522
+322609,Alojz Uran,Moški,Ljubljana,1945,74,False,115,41,63,18,652,317
+322616,Avgust Ipavec,Moški,,1940,79,False,12,18,8,9,220,352
+322661,Jurij Slatkonja,Moški,Ljubljana,1456,66,True,160,100,123,134,469,734
+322818,Josip Plahuta,Moški,,1827,56,True,1,20,5,9,112,119
+324129,Kajetan Kovič,Moški,Maribor,1931,83,True,1017,226,442,35,2556,646
+324198,Renato Vugrinec,Moški,Ptuj,1975,44,False,52,186,7,45,83,1035
+328366,Borut Mavrič,Moški,Šempeter pri Gorici,1970,49,False,20,59,8,14,157,202
+328418,Igor Štuhec,Moški,,1932,86,False,58,33,307,116,1841,274
+328422,Aleš Brezavšček,Moški,,1972,46,False,11,18,8,7,88,159
+328436,Marko Pogačnik,Moški,Kranj,1944,75,False,70,205,315,198,1708,1931
+328492,Maks Bajc,Moški,Ljubljana,1919,63,True,225,30,14,7,182,109
+329536,Marko Šuler,Moški,Slovenj Gradec,1983,36,False,67,152,38,127,332,512
+329542,Aleksandar Radosavljevič,Moški,Kranj,1979,40,False,44,145,38,85,149,325
+331062,Gregor Grilc,Moški,Šenčur,1970,49,False,12,15,9,17,83,146
+336503,Teoman Alibegović,Moški,Zenica,1967,52,False,23,265,10,70,448,664
+337420,Jakov Fak,Moški,,1987,32,False,2109,743,30,214,943,1580
+338876,Matija Hvale,Moški,Vače,1470,48,True,14,26,5,12,456,129
+342406,Milenko Ačimovič,Moški,Ljubljana,1977,42,False,149,1156,55,142,541,782
+343307,Branko Elsner,Moški,Ljubljana,1929,82,True,74,246,17,95,287,390
+343329,Boštjan Hladnik,Moški,Kranj,1929,77,True,76,101,44,99,262,482
+343342,Martin Hvastija,Moški,Ljubljana,1969,49,False,27,26,12,53,74,116
+344599,Anton Mahnič,Moški,Kobdilj,1850,70,True,94,81,141,85,1799,691
+345330,Dejan Košir,Moški,Jesenice,1973,46,False,169,51,63,57,480,213
+345336,Valentin Areh,Moški,Ljubljana,1971,48,False,28,24,6,10,224,412
+346712,Boštjan Cesar,Moški,Ljubljana,1982,37,False,52,1021,44,202,409,1306
+348832,Adam Bohorič,Moški,Brestanica,1520,78,True,596,159,218,194,470,597
+350118,John Jakopin,Moški,Toronto,1975,44,False,5,73,7,38,346,503
+350121,Janez Ožbolt,Moški,Stari trg pri Ložu,1970,49,False,10,18,18,36,308,136
+350125,Tomas Globočnik,Moški,Škofja Loka,1972,47,False,10,7,14,23,66,120
+350345,Nejc Pečnik,Moški,Dravograd,1986,33,False,67,456,39,116,563,1310
+350372,Andrej Komac,Moški,Šempeter pri Gorici,1979,39,False,15,97,36,65,163,416
+351683,Vladimir Bartol,Moški,Trst,1903,64,True,183,737,81,51,564,707
+352413,Aleksander Beljavski,Moški,,1953,65,False,17,620,24,152,432,619
+352583,Matej Gnezda,Moški,,1979,40,False,7,24,9,13,43,143
+352593,Jožef Sakovič,Moški,Vadarci,1874,56,True,8,30,107,63,662,540
+352600,Alojzij Šuštar,Moški,"Grmada, Trebnje",1920,86,True,79,47,795,196,1202,588
+353534,Matjaž Kek,Moški,Maribor,1961,58,False,338,1374,87,243,919,1325
+354234,Leon Štukelj,Moški,Novo mesto,1898,100,True,513,551,889,382,885,1772
+357798,Milan Vidmar,Moški,Ljubljana,1885,77,True,142,427,116,138,1368,675
+358249,Tadej Valjavec,Moški,Kranj,1977,42,False,37,121,24,92,269,608
+358831,Dean Podgornik,Moški,Nova Gorica,1979,40,False,9,28,9,11,273,158
+359370,Radoslav Nesterovič,Moški,Ljubljana,1976,43,False,141,4183,53,333,813,2113
+360127,Jože Pučnik,Moški,Črešnjevec,1932,70,True,313,550,294,149,2516,2270
+360549,Peter Pen,Moški,Maribor,1973,46,False,8,68,7,14,108,94
+361024,Branko Ilič,Moški,Ljubljana,1983,36,False,52,463,38,153,316,1287
+361058,Aleksander Šeliga,Moški,Celje,1980,39,False,21,70,32,50,181,463
+363287,Anže Šetina,Moški,Kranj,1986,33,False,3,16,5,13,439,147
+363591,Peter Dokl,Moški,Ljubljana,1985,34,False,6,59,10,31,111,48
+363612,David Špiler,Moški,Kranj,1983,36,False,19,98,25,46,227,257
+365246,Anton Vovk,Moški,Vrba,1900,63,True,142,175,148,42,1123,945
+366766,Sani Bečirović,Moški,Maribor,1981,38,False,100,554,48,211,783,1213
+367383,Edvard Kocbek,Moški,Maribor,1904,77,True,681,396,406,112,2464,2706
+368106,Jure Pavlič,Moški,Ljubljana,1963,56,False,11,26,5,21,60,209
+368139,Srečko Kosovel,Moški,Sežana,1904,22,True,1077,415,208,131,3505,1932
+369532,Goran Dragić,Moški,Ljubljana,1986,33,False,618,12176,104,471,1822,4194
+370431,Mario Kraljevič,Moški,,1970,49,False,17,59,22,33,273,325
+371530,Gašper Krošelj,Moški,Ljubljana,1987,32,False,3,66,15,26,573,116
+372253,Dalibor Stevanovič,Moški,Ljubljana,1984,35,False,39,223,36,106,330,371
+373213,Janoš Županek,Moški,Šalovci,1861,90,True,4,35,19,26,256,327
+373570,Adrian Mihalčišin,Moški,,1954,64,False,8,142,12,44,199,632
+373612,Blaž Kavčič,Moški,Ljubljana,1987,32,False,61,417,30,702,1396,1611
+375189,Erazem Lorbek,Moški,Ljubljana,1984,35,False,29,650,23,247,1359,1869
+375787,Anže Kopitar,Moški,"Hrušica, Jesenice",1987,32,False,243,8063,98,465,1508,4891
+375811,Branko Oblak,Moški,Ljubljana,1947,72,False,191,997,122,244,708,1105
+378747,Boris Pahor,Moški,Trst,1913,106,False,465,1351,1035,89,3773,4158
+379172,Rok Petrovič,Moški,Ljubljana,1966,27,True,201,282,66,75,620,606
+379328,Lucijan Marija Škerjanc,Moški,,1900,72,True,98,161,323,207,1615,1783
+380035,Jaka Lakovič,Moški,Ljubljana,1978,41,False,61,1002,50,189,1111,1325
+382065,Jani Brajkovič,Moški,Metlika,1983,35,False,238,7132,33,171,320,1495
+382197,Željko Ivanek,Moški,Ljubljana,1957,62,False,70,22134,11,348,484,2004
+384991,Drago Jančar,Moški,Maribor,1948,71,False,524,1298,1342,317,5758,3497
+386941,Vid Kavtičnik,Moški,Slovenj Gradec,1984,35,False,143,339,60,88,760,317
+387671,Branko Hofman,Moški,Rogatec,1929,61,True,37,36,88,9,622,417
+388647,Katja Požun,Ženska,Trbovlje,1993,26,False,16,19,19,27,994,143
+392245,Špela Bračun,Ženska,Škofja Loka,1977,42,False,26,18,17,16,89,183
+392255,Špela Rogelj,Ženska,Ljubljana,1994,24,False,34,33,30,45,1130,271
+393407,Žarko Petan,Moški,Ljubljana,1929,85,True,62,52,389,130,1078,554
+393695,Željko Mitrakovič,Moški,,1972,46,False,18,46,4,14,156,149
+393996,Žiga Jeglič,Moški,Kranj,1988,31,False,13,234,34,53,611,561
+394003,Žiga Pance,Moški,Ljubljana,1989,30,False,8,108,38,49,541,303
+394008,Žiga Pavlin,Moški,Kranj,1985,34,False,30,35,36,21,624,130
+403662,Tomaž Humar,Moški,Ljubljana,1969,40,True,515,719,752,30,2516,925
+406925,Maša Zec Peškirič,Ženska,Jesenice,1987,32,False,12,69,5,237,139,924
+422608,Vida Tomšič,Ženska,Ljubljana,1913,85,True,137,58,26,15,1033,818
+431716,Urška Rabič,Ženska,,1985,34,False,9,9,9,16,82,159
+431743,Ljudmila Novak,Ženska,Maribor,1959,60,False,169,160,108,41,915,477
+431769,Dijana Ravnikar,Ženska,,1978,41,False,8,24,17,48,222,283
+431797,Alenka Dovžan,Ženska,Piran,1976,43,False,43,37,30,38,122,237
+431929,Verica Trstenjak,Ženska,,1962,56,False,85,65,6,20,1497,1714
+432473,Melania Trump,Ženska,Novo mesto,1970,49,False,611,240016,31,884,685,6725
+434177,Andrej Bajuk,Moški,Ljubljana,1943,67,True,164,192,299,64,3036,939
+434426,Ljubica Jelušič,Ženska,Koper,1960,59,False,52,49,84,18,801,153
+434431,Majda Širca Ravnikar,Ženska,Postojna,1953,66,False,44,34,415,27,3545,313
+434599,Mateja Robnik,Ženska,Celje,1987,32,False,19,18,6,17,84,238
+434609,Nataša Bokal,Ženska,Škofja Loka,1967,52,False,23,30,56,58,228,409
+436085,Mitja Šivic,Moški,Brezje,1979,40,False,15,26,47,21,572,123
+436736,Robert Hrgota,Moški,Celje,1988,31,False,3,12,9,17,188,205
+437556,Snežana Rodić,Ženska,,1982,37,False,84,236,3,44,89,210
+437935,Janez Potočnik,Moški,Kropa,1958,61,False,71,433,47,93,662,1372
+438758,Ivo Zupan,Moški,Jesenice,1956,63,False,0,8,8,6,86,125
+438778,Tomaž Dolar,Moški,,1966,52,False,5,5,5,6,120,124
+438790,Janez Krstnik Dolar,Moški,Kamnik,1620,53,True,27,190,8,18,299,413
+438813,Blaž Vrhovnik,Moški,Ljubljana,1981,38,False,5,9,15,9,166,124
+439708,Alenka Bikar,Ženska,Ljubljana,1974,45,False,56,382,44,132,242,610
+439813,Jakob Petelin Kranjec,Moški,,1550,41,True,357,721,105,152,372,1230
+439908,Jasmin Handanović,Moški,Ljubljana,1978,41,False,213,1922,58,118,386,570
+441316,Elvedin Džinič,Moški,,1985,34,False,14,78,32,72,243,343
+441575,Dejan Jekovec,Moški,,1974,45,False,2,15,8,6,105,124
+443716,Primož Brezec,Moški,Postojna,1979,40,False,84,589,34,160,549,1220
+443730,Boštjan Nachbar,Moški,Slovenj Gradec,1980,39,False,91,755,35,191,715,1721
+444483,Miha Rihtar,Moški,Ljubljana,1981,38,False,5,13,10,7,97,121
+446455,Andrea Bosic,Moški,Gomilsko,1919,92,True,7,156,2,64,149,538
+448891,Gorazd Škof,Moški,Novo mesto,1977,42,False,65,112,47,53,567,263
+449459,Marko Prezelj,Moški,Kamnik,1965,54,False,38,176,21,16,273,520
+450649,Alojzij Ambrožič,Moški,Gabrje,1930,81,True,14,358,24,96,907,720
+451561,Tadeja Brankovič Likozar,Ženska,Kranj,1979,39,False,24,19,40,58,135,447
+451570,Mojca Kleva,Ženska,Koper,1976,43,False,27,18,5,11,406,385
+451593,Eva Sršen,Ženska,Ljubljana,1951,68,False,83,112,21,94,184,354
+451604,Ilka Štuhec,Ženska,Slovenj Gradec,1990,28,False,306,371,101,105,2104,1133
+451632,Petra Robnik,Ženska,Jesenice,1984,35,False,11,17,9,17,80,200
+451662,Eva Logar,Ženska,Ljubljana,1991,28,False,17,23,13,26,962,137
+451674,Andreja Koblar,Ženska,Kranj,1971,48,False,13,33,24,37,71,549
+451870,Jana Krivec,Ženska,Šempeter pri Gorici,1980,39,False,26,36,13,12,213,175
+451875,Darja Švajger,Ženska,Maribor,1965,54,False,160,188,106,176,1321,499
+451882,Anja Tepeš,Ženska,Ljubljana,1991,28,False,35,31,11,13,742,159
+451899,Franka Anić,Ženska,,1991,28,False,3,31,3,32,61,180
+451933,Maja Vtič,Ženska,Novo mesto,1988,31,False,14,27,50,65,1266,265
+451945,Ida Kravanja,Ženska,Divača,1907,71,True,352,428,31,78,315,1184
+451954,Veronika Šarec,Ženska,Ljubljana,1968,51,False,22,24,19,35,186,315
+451982,Katjuša Pušnik,Ženska,,1969,50,False,27,21,15,23,88,113
+451988,Nataša Urbančič,Ženska,Celje,1945,65,True,23,52,39,51,453,313
+451997,Regina,Ženska,Murska Sobota,1965,54,False,95,183,86,128,3275,1028
+452853,Gašper Markič,Moški,Kranj,1986,33,False,5,9,4,4,94,165
+453273,Berta Ambrož,Ženska,Kranj,1944,58,True,61,106,19,61,465,133
+453497,Robert Kranjec,Moški,Kranj,1981,38,False,120,129,166,230,4798,839
+453622,Primož Peterka,Moški,Ljubljana,1979,40,False,110,188,258,297,1435,1742
+455335,Matej Mavrič Rožič,Moški,Koper,1979,40,False,134,113,31,62,284,329
+456136,Peter Prevc,Moški,Kranj,1992,27,False,410,559,254,348,3206,4153
+456643,Mitja Ferenc,Moški,Ljubljana,1960,59,False,252,87,15,17,377,405
+458584,Gregor Fučka,Moški,Kranj,1971,48,False,43,744,15,187,260,822
+460814,Marjan Mesec,Moški,Kranj,1947,72,False,17,11,10,8,147,124
+461559,Borut Božič,Moški,Idrija,1980,39,False,46,234,14,156,499,1510
+462744,Tanja Fajon,Ženska,Ljubljana,1971,48,False,235,1052,18,28,353,1242
+464922,Anton Rop,Moški,Ljubljana,1960,58,False,107,198,362,66,2319,595
+464939,Andrej Hebar,Moški,Ljubljana,1984,35,False,13,46,43,18,669,195
+468005,Marjana Lipovšek,Ženska,Ljubljana,1946,72,False,65,190,954,55,2915,317
+468144,Nuša Rajher,Ženska,Maribor,1983,36,False,10,21,3,28,104,112
+468159,Urša Bogataj,Ženska,Ljubljana,1995,24,False,17,33,23,41,1164,94
+468167,Marinka Ratej,Ženska,"Loče, Slovenske Konjice",1981,37,False,230,730,14,77,138,487
+468186,Taja Kramberger,Ženska,Ljubljana,1970,49,False,27,107,30,21,2280,5876
+468201,Nuša Derenda,Ženska,Brežice,1969,50,False,243,330,246,256,3103,1280
+468204,Tina Šutej,Ženska,Ljubljana,1988,30,False,81,444,7,65,352,752
+468208,Ema Klinec,Ženska,Kranj,1998,21,False,41,53,28,79,1810,197
+468211,Brina Švigelj Mérat,Ženska,Ljubljana,1954,65,False,21,64,38,13,95,226
+468216,Ana Srebrnič,Ženska,Ljubljana,1984,35,False,20,53,14,18,183,314
+468225,Barbara Brezigar,Ženska,Ljubljana,1953,65,False,60,48,50,23,367,513
+468593,Maja Tvrdy,Ženska,Ljubljana,1983,35,False,10,36,7,83,231,528
+468873,Mojca Kopač,Ženska,Ljubljana,1975,44,False,5,64,6,120,88,1165
+468883,Franc Rode,Moški,Rodica,1934,85,False,123,347,79,360,810,1484
+471587,Stojan Batič,Moški,Trbovlje,1925,90,True,61,57,398,50,2303,513
+472099,Marjan Štrukelj,Moški,Nova Gorica,1964,55,False,6,11,10,114,76,628
+472107,Damjan Dervarič,Moški,Ljubljana,1982,37,False,5,18,35,15,541,205
+472123,Stanko Vraz,Moški,Cerovec Stanka Vraza,1810,40,True,133,189,142,163,3659,677
+472138,Boštjan Goličič,Moški,Kranj,1989,30,False,19,35,25,31,569,184
+475761,Jure Natek,Moški,Ljubljana,1982,37,False,23,20,29,34,210,191
+476450,Boštjan Lekan,Moški,Domžale,1966,53,False,8,6,5,12,115,119
+481309,Peter Kozler,Moški,,1824,55,True,190,85,42,169,456,782
+487886,Zdenko Švigelj,Moški,Ljubljana,1905,,False,1,8,6,7,64,121
+487906,Vladimir Kajzelj,Moški,Ljubljana,1905,66,True,1,8,6,5,91,126
+495173,Marinko Galič,Moški,Koper,1970,49,False,86,143,44,65,330,419
+502843,Andrej Hauptman,Moški,Ljubljana,1975,44,False,80,121,44,74,243,283
+502854,Andrej Hočevar,Moški,Ljubljana,1984,34,False,14,39,40,25,673,120
+502870,Andrej Jerman,Moški,Tržič,1978,41,False,32,61,27,54,325,664
+502913,Andrej Križaj,Moški,,1986,33,False,3,18,9,12,67,112
+502944,Andrej Lanišek,Moški,Ljubljana,1957,62,False,0,7,4,8,80,120
+502985,Andrej Miklavc,Moški,Žabnica,1970,49,False,23,26,16,18,150,267
+503078,Andrej Tavželj,Moški,Kovor,1984,35,False,19,47,36,23,612,146
+503103,Andrej Štremfelj,Moški,Kranj,1956,62,False,133,133,31,82,158,231
+503115,Andrej Šporn,Moški,Kranjska Gora,1981,37,False,24,55,25,36,560,464
+503846,Robert Sabolič,Moški,Jesenice,1988,31,False,21,113,22,44,444,364
+504141,Damir Pekič,Moški,Maribor,1979,40,False,34,46,28,63,156,284
+505210,Jalen Pokorn,Moški,Kranj,1979,40,False,9,56,7,19,138,234
+506526,Bojan Križaj,Moški,Kranj,1957,62,False,235,293,90,122,814,1169
+508421,Ivan Vidav,Moški,Trst,1918,97,True,67,64,266,22,3519,251
+510462,Josip Iličić,Moški,Prijedor,1988,31,False,729,9402,14,214,111,1637
+515684,Anton Korošec,Moški,Biserjane,1872,68,True,205,535,120,138,1084,1087
+515727,Grega Žemlja,Moški,Jesenice,1986,33,False,24,166,24,514,1785,1911
+523567,Maja Kersnik,Ženska,,1981,38,False,4,25,1,28,74,91
+523769,Matjaž Smodiš,Moški,,1979,39,False,75,407,124,226,721,880
+524388,Francesco Bonifacio,Moški,Piran,1912,34,True,14,101,9,20,762,2256
+524864,Andrés Stanovnik,Moški,Buenos Aires,1949,69,False,7,27,2,16,142,195
+524968,Avguštin Stegenšek,Moški,"Tevče, Laško",1875,44,True,11,13,44,6,1940,324
+530609,Jan Polanc,Moški,Kranj,1992,27,False,49,201,6,114,125,505
+532832,Beno Udrih,Moški,Celje,1982,37,False,109,1869,31,305,575,2175
+533088,Valter Bonča,Moški,Ljubljana,1968,51,False,16,23,8,16,94,252
+535355,Matej Bor,Moški,Grgar,1913,80,True,349,148,955,209,2519,1279
+542412,Tina Križan,Ženska,Maribor,1974,45,False,14,95,20,473,166,1065
+542446,Barbara Korun,Ženska,Ljubljana,1963,56,False,17,25,33,9,734,269
+542949,Lea Dabič,Ženska,Bohinjska Bistrica,1981,38,False,6,13,7,10,75,48
+542961,Vera Albreht,Ženska,Krško,1895,76,True,47,63,26,24,1343,368
+542978,Maruša Krese,Ženska,Ljubljana,1947,65,True,26,72,13,14,248,397
+543026,Helena Javornik,Ženska,Celje,1966,53,False,31,68,21,152,253,785
+543037,Tina Robnik,Ženska,,1991,28,False,30,20,9,9,99,256
+543053,Tinkara Kovač,Ženska,Koper,1978,41,False,274,208,128,420,2360,1404
+543093,Saša Farič,Ženska,Radomlje,1984,35,False,7,9,7,17,248,280
+543553,Anton Janša,Moški,Breznica,1734,39,True,212,169,44,41,694,576
+544010,Jernej Damjan,Moški,Ljubljana,1983,36,False,51,52,83,129,830,460
+545456,Jure Velepec,Moški,Ljubljana,1965,54,False,11,12,7,19,83,119
+549347,Bernard Vajdič,Moški,Celje,1980,39,False,11,19,13,22,100,177
+551200,Anja Milenkovič,Ženska,Ljubljana,1982,37,False,5,22,2,19,211,372
+551267,Janez Vajkard Valvasor,Moški,Ljubljana,1641,52,True,1546,718,544,445,1439,1712
+551358,Jure Franko,Moški,Nova Gorica,1962,57,False,144,238,76,159,411,814
+553524,Suad Fileković,Moški,Ljubljana,1978,41,False,33,85,34,56,176,420
+554492,Josip Plemelj,Moški,Bled,1873,93,True,83,184,320,52,1260,1956
+560656,Dimitrij Rupel,Moški,Ljubljana,1946,73,False,276,197,1233,185,5043,1264
+561734,Rajmond Debevec,Moški,Postojna,1963,56,False,118,156,130,157,371,788
+561804,Anton Aškerc,Moški,Rimske Toplice,1856,56,True,872,165,151,126,3733,832
+563004,Vilko Filač,Moški,Ptuj,1950,58,True,60,84,8,18,200,162
+563349,Vekoslav Grmič,Moški,Dragotinci,1923,81,True,50,49,764,48,864,643
+569236,Mitja Brulc,Moški,Novo mesto,1979,39,False,10,25,7,21,254,148
+569241,Roman Bezjak,Moški,Slovenj Gradec,1989,30,False,114,1417,11,129,198,1342
+569368,Jernej Koblar,Moški,Jesenice,1971,48,False,10,46,9,26,132,64
+572461,Boris Podrecca,Moški,Beograd,1940,79,False,69,222,739,45,394,665
+574516,Marko Pohlin,Moški,Ljubljana,1735,65,True,260,69,61,20,354,352
+575492,Friderik Baraga,Moški,,1797,70,True,185,835,154,287,1279,2611
+579636,Ivan Pregelj,Moški,,1883,76,True,310,79,101,88,1500,613
+580185,Klemen Bauer,Moški,Ljubljana,1986,33,False,18,51,25,149,148,351
+581808,Janez Vesel,Moški,Spodnje Koseze,1798,85,True,70,29,112,96,1163,601
+581911,Mitja Mahorič,Moški,Ptuj,1976,43,False,5,28,6,15,44,363
+582807,Brigita Langerholc,Ženska,Kranj,1976,43,False,44,81,13,76,88,609
+586826,Mitja Valenčič,Moški,Cerklje na Gorenjskem,1978,41,False,5,17,14,27,208,99
+588808,Anton Dermota,Moški,Kropa,1910,79,True,24,202,17,50,430,684
+589469,Anton Funtek,Moški,Ljubljana,1862,69,True,15,26,35,8,528,324
+590116,Anton Haus,Moški,,1851,65,True,31,353,12,107,2983,765
+591809,Anton Martin Slomšek,Moški,Uniše,1800,61,True,1153,282,374,178,4769,1460
+591924,Anton Mervar,Moški,Trbovlje,1885,56,True,3,26,11,5,256,395
+594563,Stanko Tavčar,Moški,Dobrovo,1898,47,True,6,45,14,38,80,196
+594866,Anton Tomaž Linhart,Moški,,1756,38,True,2412,446,199,110,1104,1481
+596610,Anton Žlogar,Moški,Izola,1977,41,False,47,93,37,72,227,340
+597540,Miha Baloh,Moški,,1928,91,False,70,134,36,101,226,466
+597785,Franc Talanyi,Moški,Brezovci,1883,76,True,8,31,18,10,439,350
+597895,Maks Fabiani,Moški,Kobdilj,1865,97,True,395,334,104,86,2099,1539
+602275,Jožef Klekl,Moški,"Krajna, Tišina",1879,57,True,11,25,98,49,1810,401
+603418,Albin Planinc,Moški,Zagorje ob Savi,1944,64,True,51,167,18,30,1686,403
+603601,Rudi Šeligo,Moški,Sušak,1935,68,True,88,65,594,130,3046,1865
+603613,Dušan Šarotar,Moški,Murska Sobota,1968,51,False,49,75,12,16,451,341
+607638,Marko Fink,Moški,Buenos Aires,1950,68,False,24,123,297,119,1488,1576
+611832,Stanislav Hočevar,Moški,Jelendol,1945,73,False,18,82,11,61,872,569
+612798,Števan Žemlič,Moški,Murska Sobota,1840,51,True,6,25,18,42,357,315
+613843,Jožef Klekl,Moški,"Krajna, Tišina",1874,73,True,56,97,118,105,681,631
+615477,Anžej Dežan,Moški,Šentjur,1987,32,False,88,136,62,161,587,423
+616322,Aleš Pipan,Moški,Celje,1959,60,False,32,197,45,37,299,811
+619848,Majda Ankele,Ženska,Kranj,1940,79,False,14,17,10,12,85,125
+622403,Aleš Kokot,Moški,Šempeter pri Gorici,1979,40,False,21,71,6,25,173,340
+627869,Grega Benedik,Moški,Žirovnica,1962,57,False,13,20,18,23,240,248
+628070,Anton Vratuša,Moški,Dolnji Slaveči,1915,102,True,73,165,38,82,1043,914
+630584,Tine Urnaut,Moški,Slovenj Gradec,1988,31,False,2363,5719,8,53,151,327
+631856,Joško Janša,Moški,,1900,59,True,1,8,7,7,70,129
+640635,Igor Lukšič,Moški,Novo mesto,1961,57,False,145,120,203,18,1017,396
+642128,Ivan Prezelj,Moški,"Nova vas, Bloke",1895,77,True,23,108,14,8,235,384
+646767,Shenphen Rinpoče,Moški,,1969,50,False,25,43,6,29,609,291
+649437,Vilmoš Tkalec,Moški,Turnišče,1894,56,True,56,27,15,32,216,297
+654539,John Smrke,Moški,,1956,63,False,11,61,6,23,329,243
+655958,Sašo Ožbolt,Moški,,1981,38,False,46,86,23,25,369,145
+658393,Peter Dajnko,Moški,Črešnjevci,1787,85,True,34,37,36,122,541,832
+658622,Sonja Roman,Ženska,Hodoš,1979,40,False,7,59,11,59,156,596
+658969,Alojz Gradnik,Moški,Medana,1882,84,True,211,89,106,77,1434,1523
+659020,Alojz Knafelc,Moški,Novo mesto,1859,77,True,19,51,13,135,384,616
+660313,Mojca Drčar Murko,Ženska,Ljubljana,1942,77,False,40,25,39,17,323,265
+664963,Bruno Parovel,Moški,Koper,1913,80,True,2,13,12,9,75,92
+666436,Dominic Maroh,Moški,,1987,32,False,12,212,3,48,143,494
+666660,Jan Muršak,Moški,Maribor,1988,31,False,39,227,33,72,1276,1536
+666819,Aleš Pajovič,Moški,Celje,1979,40,False,55,78,10,19,331,138
+671454,Jure Kocjan,Moški,Ljubljana,1984,35,False,17,42,8,53,94,519
+683339,Vinko Globokar,Moški,,1934,85,False,49,336,274,220,1090,1297
+683397,Slavko Avsenik,Moški,Begunje na Gorenjskem,1929,85,True,625,783,780,112,3016,1244
+685146,Ivo Vajgl,Moški,Maribor,1943,76,False,92,118,174,39,906,463
+685704,Janez Filip Cobenzl,Moški,Ljubljana,1741,69,True,4,207,4,42,436,619
+685825,Nik Zupančič,Moški,Ljubljana,1968,51,False,31,38,91,7,1610,93
+686024,Jožef Ficko,Moški,Boreča,1772,71,True,5,26,11,31,361,458
+686170,Ivan Katzianer,Moški,Begunje na Gorenjskem,1491,48,True,29,102,22,14,446,518
+695479,Leon Rupnik,Moški,"Lokve, Nova Gorica",1880,66,True,428,794,157,289,2306,2733
+695841,Janez Puh,Moški,Sakušak,1862,52,True,299,317,31,35,403,546
+696768,Aleksander Knavs,Moški,Maribor,1975,43,False,68,188,49,75,273,1203
+696837,Josef Strobl,Moški,,1974,45,False,7,48,10,39,110,208
+697765,Rudolf Maister,Moški,Kamnik,1874,60,True,728,688,263,229,2161,1155
+698109,Darko Milanič,Moški,Izola,1967,51,False,239,881,63,238,562,1928
+700720,Žiga Herberstein,Moški,Vipava,1486,79,True,128,578,27,107,589,813
+700898,Ivan Tavčar,Moški,Poljane nad Škofjo Loko,1851,71,True,1742,349,326,141,2457,1562
+703064,Ulrik II. Celjski,Moški,Celje,1406,50,True,260,436,102,94,1252,1054
+706853,Matic Osovnikar,Moški,Kranj,1980,39,False,126,199,54,134,451,906
+709563,Jurij Dalmatin,Moški,Krško,1547,42,True,738,237,272,419,479,1147
+709567,Jure Košir,Moški,Jesenice,1972,47,False,286,198,99,103,570,892
+710497,France Bevk,Moški,Zakojca,1890,80,True,2110,255,483,72,4087,1445
+712261,Rok Benkovič,Moški,Ljubljana,1986,33,False,37,62,58,62,294,489
+713658,Louis Adamič,Moški,Praproče pri Grosupljem,1898,53,True,149,671,128,142,1091,1716
+714370,Slavko Osterc,Moški,Veržej,1895,45,True,57,88,77,31,4595,359
+714567,Tomaž Nose,Moški,,1982,37,False,9,24,8,16,195,68
+715928,Jožef Košič,Moški,,1788,79,True,28,53,126,61,691,398
+717534,Tomo Križnar,Moški,Jesenice,1954,65,False,148,94,54,41,554,789
+717816,Jure Šinkovec,Moški,Ljubljana,1985,34,False,2,21,21,25,190,136
+717835,Peter Mankoč,Moški,Ljubljana,1978,41,False,52,110,19,217,344,1401
+722550,Miroslav Cerar,Moški,Ljubljana,1939,79,False,603,548,79,234,409,1183
+722558,Matej Stare,Moški,Kranj,1978,41,False,4,13,5,18,45,182
+723186,Miran Tepeš,Moški,Ljubljana,1961,58,False,28,59,47,48,352,252
+723632,Martin Strel,Moški,Mokronog,1954,65,False,236,1613,732,49,2370,846
+723768,Karči Holec,Moški,,1969,50,False,11,12,8,12,123,341
+725515,Primož Ulaga,Moški,Ljubljana,1962,57,False,31,167,60,54,551,368
+725580,Miran Pavlin,Moški,Kranj,1971,48,False,41,247,51,90,153,548
+725593,Gorazd Štangelj,Moški,Novo mesto,1973,46,False,32,74,20,68,106,278
+725815,Aleksander Terplan,Moški,Ivanovci,1816,41,True,9,20,104,94,808,643
+725859,Herman Koroški,Moški,,1100,60,True,46,368,46,64,1406,1598
+725881,Uroš Zorman,Moški,Kranj,1980,39,False,207,288,54,65,300,382
+725915,Damjan Fras,Moški,Ljubljana,1973,46,False,28,33,41,45,286,270
+726172,Milan Osterc,Moški,Murska Sobota,1975,44,False,53,211,66,129,187,707
+726553,Rudolf Cipot,Moški,Hodoš,1825,75,True,6,26,11,51,459,553
+729527,Peter Kolar,Moški,Ratkovci,1855,53,True,23,17,100,70,602,358
+729535,Ivan Baša,Moški,Beltinci,1875,55,True,31,13,105,67,576,302
+737043,Števan Kühar,Moški,Gradišče,1887,34,True,1,27,5,33,313,304
+737297,Anton Melik,Moški,Črna vas,1890,76,True,44,66,328,26,1934,611
+739185,Sabina Veit,Ženska,Maribor,1985,33,False,7,39,7,33,109,365
+740556,Dragan Gajić,Moški,Celje,1984,35,False,41,275,35,83,302,283
+741899,Vasja Rupnik,Moški,Ljubljana,1977,42,False,5,19,8,33,83,103
+741920,Sašo Grajf,Moški,Maribor,1965,54,False,13,19,12,31,94,189
+742763,Omar Naber,Moški,Ljubljana,1981,38,False,232,380,93,325,1447,1769
+742985,Nebojša Joksimović,Moški,Koper,1981,37,False,32,147,5,34,139,344
+743146,Metod Trobec,Moški,Planina nad Horjulom,1948,57,True,1168,1250,17,11,581,417
+743213,Valentino Kanzyani,Moški,,2000,19,False,113,326,10,24,58,881
+746844,Barbara Jezeršek,Ženska,Kranj,1986,32,False,11,171,11,55,126,631
+750895,Sabahudin Kovačevič,Moški,Jesenice,1986,33,False,31,56,35,37,607,154
+752072,Karel Destovnik - Kajuh,Moški,Šoštanj,1922,21,True,525,100,67,44,2465,827
+760748,Mitja Ribičič,Moški,Trst,1919,94,True,139,337,39,136,687,1138
+766564,Matjaž Vrhovnik,Moški,Ljubljana,1972,47,False,21,19,17,21,152,179
+769006,Janoš Kardoš,Moški,Noršinci,1801,72,True,12,33,103,63,723,423
+769498,Luka Krajnc,Moški,Ptuj,1994,25,False,29,311,12,70,142,923
+773740,Anja Klinar,Ženska,Jesenice,1988,31,False,23,52,14,109,343,412
+774948,Vesna Rožič,Ženska,Ljubljana,1987,26,True,38,150,11,13,106,299
+774964,Indira Bajt,Ženska,,1980,39,False,8,48,5,11,134,173
+775607,Aurelio Juri,Moški,Pulj,1949,70,False,34,42,279,17,1561,343
+778552,Pavel Fonda,Moški,,1942,73,True,4,19,2,9,264,334
+779789,Alenka Rebula Tuta,Ženska,Loka pri Zidanem Mostu,1954,65,False,74,51,11,13,402,434
+780927,Luka Lenič,Moški,Ljubljana,1988,31,False,34,63,14,14,572,247
+781125,Imre Augustič,Moški,Murski Petrovci,1837,41,True,13,23,102,29,577,394
+783615,Maja Matevžič,Ženska,Ljubljana,1980,39,False,11,62,14,175,90,692
+784781,Andraž Struna,Moški,Piran,1989,30,False,72,578,4,84,171,751
+789050,Miháo Bakoš,Moški,Šalovci,1742,61,True,6,31,106,34,562,357
+789485,Števan Baler,Moški,Lončarovci,1760,74,True,5,15,13,55,172,192
+790323,Irena Barber,Ženska,,1939,67,True,6,19,11,8,151,139
+790518,Miháo Barla,Moški,Murska Sobota,1778,46,True,7,16,101,35,517,267
+793767,Miháo Bertalanitš,Moški,,1788,64,True,2,20,14,72,191,312
+799836,Iztok Jarc,Moški,,1963,56,False,77,87,56,14,380,628
+818085,Beno Lapajne,Moški,Ljubljana,1973,46,False,57,68,25,20,127,168
+826657,Jurij Japelj,Moški,Kamnik,1744,63,True,141,52,42,18,633,363
+827849,Fran Albreht,Moški,Kamnik,1889,73,True,32,92,480,231,1502,1056
+835330,Jožef Borovnjak,Moški,,1826,83,True,15,22,107,72,661,525
+836877,László Göncz,Moški,Murska Sobota,1960,59,False,9,20,150,18,551,269
+839217,Juri Cipot,Moški,Puconci,1793,41,True,12,24,98,36,542,284
+854181,Franc Rozman - Stane,Moški,Spodnje Pirniče,1912,32,True,309,170,74,69,1223,1310
+868889,Denis Avdić,Moški,,1982,37,False,1116,333,30,10,223,227
+876214,Frederik Detiček,Moški,Kranj,1943,76,False,0,38,9,7,59,178
+883237,Blaž Gregorc,Moški,Jesenice,1990,29,False,9,56,20,33,545,180
+883242,Blaž Rola,Moški,Ptuj,1990,29,False,57,559,12,493,1054,2068
+886453,Vanja Brodnik,Ženska,Trebnje,1989,30,False,19,14,9,11,83,122
+890434,Bogdan Norčič,Moški,Kranj,1953,50,True,20,32,32,17,218,160
+891134,Bojan Adamič,Moški,Ribnica,1912,83,True,139,166,1223,124,5667,893
+891153,Bojan Tokič,Moški,,1981,38,False,19,159,9,75,139,733
+891159,Bojan Čop,Moški,Ljubljana,1923,71,True,10,26,11,6,252,400
+892497,Blaž Emeršič,Moški,Ljubljana,1980,39,False,2,65,18,23,526,598
+893695,Boris Kalin,Moški,Nova Gorica,1905,69,True,42,71,281,95,1187,573
+893790,Boris Strel,Moški,Škofja Loka,1959,53,True,133,112,36,69,369,501
+894287,Borut Petrič,Moški,Kranj,1961,57,False,52,134,56,121,312,862
+894289,Borut Semler,Moški,Murska Sobota,1985,34,False,34,60,7,31,315,486
+896334,Boštjan Mervar,Moški,Novo mesto,1973,46,False,4,20,3,10,163,180
+896336,Boštjan Kline,Moški,Maribor,1991,28,False,26,30,17,29,311,760
+898265,Maria Pozsonec,Ženska,Lendava,1940,77,True,13,39,354,24,2210,307
+898475,Brane Benedik,Moški,Kranj,1960,59,False,9,5,7,6,92,127
+908321,Luka Žvižej,Moški,Celje,1980,38,False,144,250,45,71,274,331
+909708,Jožef Marko Dravec,Moški,Beltinci,1697,82,True,1,11,1,18,118,286
+909989,Jakob Aljaž,Moški,Zavrh pod Šmarno Goro,1845,81,True,201,86,48,48,967,387
+917958,Haris Vučkić,Moški,Ljubljana,1992,27,False,38,2540,7,140,341,2681
+923722,Peter Žonta,Moški,Ljubljana,1979,40,False,23,35,46,37,407,206
+923884,Vid Belec,Moški,Maribor,1990,29,False,41,1357,9,106,162,1201
+924983,Ciril Kosmač,Moški,Slap ob Idrijci,1910,69,True,833,163,461,102,3667,795
+925583,Luka Mislej,Moški,Vipava,1658,68,True,4,31,8,7,109,270
+928486,Ermin Šiljak,Moški,Ljubljana,1973,46,False,43,342,69,143,496,1019
+929468,Jure Robič,Moški,Jesenice,1965,45,True,238,526,35,25,353,625
+931742,Danilo Popivoda,Moški,Lovćenac,1947,72,False,76,342,17,143,368,456
+934288,Urban Franc,Moški,Bled,1975,44,False,10,32,24,18,175,180
+938769,Marko Milič,Moški,Kranj,1977,42,False,89,633,41,129,287,1015
+940527,Jure Radelj,Moški,Ljubljana,1977,41,False,14,10,20,11,265,115
+941440,Igor Škamperle,Moški,Trst,1962,56,False,39,49,29,25,262,556
+944304,Stane Dolanc,Moški,Hrastnik,1925,74,True,404,979,14,68,935,2037
+946403,Robert Vrečer,Moški,Celje,1980,39,False,11,29,5,39,295,515
+949189,Uroš Murn,Moški,Novo mesto,1975,44,False,16,31,11,39,180,301
+952068,Pavle Kozjek,Moški,,1959,49,True,120,139,17,17,209,377
+953886,Marko Tušek,Moški,Trbovlje,1975,44,False,24,66,16,42,534,222
+954678,Aleš Čeh,Moški,Maribor,1968,51,False,61,274,54,101,438,606
+955310,Edo Hafner,Moški,Jesenice,1955,64,False,18,53,19,16,201,165
+955463,Stanko Lorger,Moški,Buče,1931,83,True,54,74,30,127,333,351
+956353,Marjan Pečar,Moški,Mojstrana,1941,78,True,17,70,9,11,153,142
+956490,Kristjan Koren,Moški,Postojna,1986,32,False,54,280,13,133,157,943
+957051,Aleš Kranjc,Moški,Jesenice,1981,38,False,5,52,49,35,748,154
+959302,Kamilo Mašek,Moški,Ljubljana,1831,27,True,8,39,14,10,256,231
+959316,Matjaž Zupan,Moški,Kranj,1968,51,False,24,62,49,39,501,508
+960268,Jure Bogataj,Moški,Kranj,1985,34,False,11,19,19,16,149,115
+961199,Luka Mezgec,Moški,Kranj,1988,31,False,57,130,3,138,142,639
+962790,Luka Žagar,Moški,Ljubljana,1978,41,False,12,17,33,10,534,149
+963256,Dejan Zavec,Moški,Trdobojci,1976,43,False,318,394,59,99,1302,1618
+963905,Robert Pešut - Magnifico,Moški,Ljubljana,1965,53,False,800,988,66,392,404,847
+964655,Bruno Parma,Moški,Ljubljana,1941,77,False,34,155,731,55,2682,353
+965515,Lojze Grozde,Moški,Zgornje Vodale,1923,19,True,235,166,89,55,1981,1904
+966713,Jelko Kacin,Moški,Celje,1955,63,False,174,129,1014,119,3844,498
+969720,Dare Vršič,Moški,Maribor,1984,35,False,62,173,30,110,288,409
+971495,Mirza Begić,Moški,Bijeljina,1985,34,False,49,874,16,112,369,1439
+972064,Fran Saleški Finžgar,Moški,Doslovče,1871,91,True,559,124,454,63,1882,906
+973928,Simon Gregorčič,Moški,Vrsno,1844,62,True,1128,271,170,70,3023,697
+981034,Ivan Hribar,Moški,Trzin,1851,89,True,368,251,188,134,977,1589
+981817,Filip Flisar,Moški,Maribor,1987,32,False,115,112,15,37,536,697
+983877,Gregor Cankar,Moški,Celje,1975,44,False,79,96,53,102,360,460
+983930,Robert Kristan,Moški,Jesenice,1983,36,False,16,60,39,44,681,690
+984291,Sergej Kraigher,Moški,Postojna,1914,86,True,157,705,43,81,689,629
+984295,Rok Pajič,Moški,Jesenice,1985,34,False,7,37,17,17,617,204
+984303,Matjaž Debelak,Moški,Braslovče,1965,54,False,28,50,66,60,388,323
+999990,Primož Pikl,Moški,Celje,1982,37,False,17,17,18,23,170,195
+999994,Mitja Mežnar,Moški,Kranj,1988,31,False,4,17,17,31,113,141
+1002064,Janoš Flisar,Moški,Šalamenci,1856,91,True,10,18,101,69,711,393
+1002250,Duncan Haldane,Moški,London,1951,68,False,37,2559,200,289,1299,1642
+1020553,Mikloš Küzmič,Moški,Dolnji Slaveči,1737,66,True,41,33,147,82,613,435
+1024048,Vlado Kreslin,Moški,Beltinci,1953,65,False,659,330,124,53,792,900
+1027873,Rok Perko,Moški,Kranj,1985,34,False,33,31,17,30,114,293
+1029182,Matjaž Brumen,Moški,Ljubljana,1982,36,False,21,76,10,37,97,212
+1050640,Števan Küzmič,Moški,Strukovci,1723,56,True,74,48,147,76,1027,368
+1055212,Demetrij Volčič,Moški,Ljubljana,1931,87,False,2,61,726,27,2093,608
+1057929,Ferenc Hül,Moški,Tišina,1800,80,True,2,10,14,50,349,295
+1083392,Prežihov Voranc,Moški,Ravne na Koroškem,1893,56,True,1788,336,444,75,1932,1930
+1083404,Valentin Vodnik,Moški,,1758,60,True,2640,528,186,52,1646,890
+1091369,Aleksandar Ćapin,Moški,Sarajevo,1982,37,False,7,259,9,105,167,1035
+1100280,Veno Taufer,Moški,Ljubljana,1933,86,False,275,135,652,130,3001,2409
+1110015,Mladen Rudonja,Moški,Koper,1971,48,False,77,255,49,73,268,340
+1112771,Ivica Jurković,Moški,Tuzla,1973,46,False,19,34,12,25,226,394
+1115819,Vital Eiselt,Moški,Ljubljana,1941,78,False,16,33,5,33,105,273
+1132212,Alenka Kejžar,Ženska,Kranj,1979,40,False,22,26,17,58,112,365
+1145090,Matej Pučko,Moški,Murska Sobota,1993,26,False,10,90,3,60,76,210
+1158590,Damjan Vtič,Moški,,1985,34,False,0,8,5,9,89,123
+1159458,Dane Zajc,Moški,,1929,75,True,660,173,712,194,4812,2171
+1165504,Marko Ranilović,Moški,Maribor,1986,32,False,6,32,3,31,69,207
+1168126,Uroš Velepec,Moški,Dolsko,1967,52,False,20,25,6,13,205,122
+1176370,David Rodman,Moški,Jesenice,1983,36,False,13,97,61,68,636,273
+1178302,Davorin Jenko,Moški,Cerklje na Gorenjskem,1835,79,True,704,570,107,79,429,573
+1181096,Dean Komel,Moški,"Bilje, Miren - Kostanjevica",1960,59,False,19,70,74,36,701,686
+1183469,Dejan Grabič,Moški,Novo mesto,1980,39,False,20,31,1,24,115,170
+1183478,Dejan Judež,Moški,Trbovlje,1990,29,False,3,9,8,10,85,189
+1183480,Dejan Kelhar,Moški,Brežice,1984,35,False,34,122,12,50,338,1045
+1185395,Demeter Bitenc,Moški,Ljubljana,1922,95,True,131,169,50,45,456,208
+1225765,Lev Kreft,Moški,Ljubljana,1951,68,False,81,76,166,16,854,226
+1226523,Ferenc Ošlaj,Moški,Filovci,1883,48,True,5,31,15,56,270,343
+1230596,Slavko Ziherl,Moški,Ljubljana,1945,66,True,22,19,65,25,470,655
+1230878,Iztok Čop,Moški,Kranj,1972,47,False,73,207,105,269,705,1442
+1231405,Goran Šukalo,Moški,Koper,1981,38,False,34,331,5,36,168,1079
+1231561,Matt Stajan,Moški,Mississauga,1983,35,False,8,1979,3,82,279,2449
+1242668,Avgust Pavel,Moški,Cankova,1886,59,True,30,62,113,36,737,1635
+1247104,Fata Salkunič,Ženska,Ljubljana,1991,28,False,2,21,1,7,124,196
+1249359,Aleš Mušič,Moški,Ljubljana,1982,37,False,7,33,63,28,643,320
+1254183,Stjepan Spevec,Moški,Vukovci,1839,65,True,0,18,40,9,332,215
+1254746,Drago Grubelnik,Moški,Radlje ob Dravi,1976,39,True,22,23,16,22,199,307
+1256081,Dražen Sermek,Moški,,1969,50,False,2,33,10,18,73,346
+1260275,Franc Horvat,Moški,Kuštanovci,1941,78,False,40,75,355,37,2092,572
+1260371,Bojan Stupica,Moški,Ljubljana,1910,59,True,25,116,264,15,1110,3453
+1261547,Bruno Brun,Moški,Hrastnik,1910,66,True,3,47,1,41,193,559
+1262039,Špela Rozin,Ženska,Ljubljana,1943,76,False,40,153,9,25,375,265
+1263588,Oto Pestner,Moški,Celje,1956,63,False,576,266,115,90,1304,355
+1263976,Ernest Ačkun,Moški,Hrastnik,1930,71,True,8,106,2,39,168,610
+1268202,Dušan Podpečan,Moški,Celje,1975,44,False,4,13,8,8,90,126
+1268259,Duško Pavasović,Moški,,1976,43,False,17,189,17,27,85,218
+1271168,Aljaž Bedene,Moški,Ljubljana,1989,30,False,129,2758,39,585,1058,2189
+1272422,Tone Seliškar,Moški,Ljubljana,1900,69,True,497,68,346,19,2003,320
+1275522,Silvo Plut,Moški,Novo mesto,1968,38,True,624,579,14,10,337,306
+1277170,Taras Kermauner,Moški,Ljubljana,1930,78,True,110,54,509,212,2570,1879
+1278140,Josip Murn - Aleksandrov,Moški,Ljubljana,1879,22,True,524,129,81,39,911,887
+1280314,Sergej Mašera,Moški,,1912,28,True,74,70,11,28,771,1145
+1282852,Josip Vandot,Moški,Kranjska Gora,1884,60,True,271,126,68,43,1204,328
+1284327,Tita Kovač,Ženska,Novo mesto,1930,85,True,16,30,14,12,207,255
+1284332,Jana Milčinski,Ženska,Ljubljana,1920,86,True,22,20,10,10,288,214
+1285890,Sašo Bertoncelj,Moški,Kranj,1984,35,False,44,84,7,62,961,166
+1290226,Rok Kronaveter,Moški,Maribor,1986,32,False,222,435,46,126,369,1568
+1291392,Edvard Vecko,Moški,Hrastnik,1944,74,False,14,28,3,88,120,993
+1310829,Jože Poklukar,Moški,,1973,46,False,8,13,7,10,114,119
+1338151,Rok Urbanc,Moški,,1985,34,False,6,29,21,30,153,197
+1340325,Matjaž Kopitar,Moški,,1965,53,False,18,127,70,13,567,214
+1340371,Ivan Trajkovič,Moški,Zagreb,1991,28,False,111,82,3,32,94,123
+1345407,Aleš Gorza,Moški,Slovenj Gradec,1980,39,False,12,23,15,35,166,229
+1345485,Ignacij Knoblehar,Moški,Škocjan,1819,38,True,187,87,32,61,381,717
+1346264,Marko Dolenc,Moški,Ljubljana,1972,47,False,5,11,8,14,104,121
+1348474,Senad Tiganj,Moški,Jesenice,1975,44,False,29,90,36,52,222,545
+1353796,Mitja Kunc,Moški,Črna na Koroškem,1971,47,False,23,37,25,51,335,369
+1355934,Ermin Rakovič,Moški,Maribor,1977,42,False,37,115,13,46,164,715
+1361315,Miran Burgič,Moški,Trbovlje,1984,35,False,20,46,31,90,160,532
+1365796,Rok Flander,Moški,Kranj,1979,40,False,27,28,21,45,473,263
+1365887,Tomaž Čižman,Moški,Ljubljana,1965,54,False,18,21,14,26,145,141
+1366238,Janez Jazbec,Moški,Novo mesto,1984,34,False,10,25,10,7,76,107
+1369372,Luka Špik,Moški,Kranj,1979,40,False,47,120,43,155,316,814
+1369465,Andreja Gomboc,Ženska,Murska Sobota,1969,49,False,99,76,15,22,1160,1160
+1369725,Pedro Opeka,Moški,Buenos Aires,1948,71,False,261,558,16,15,560,1061
+1371533,Etien Velikonja,Moški,Šempeter pri Gorici,1988,30,False,35,479,34,122,276,1931
+1376233,Janez Lapajne,Moški,Celje,1967,52,False,18,80,30,99,993,1067
+1378416,Samuel Žbogar,Moški,Postojna,1962,57,False,28,270,71,45,457,540
+1379874,Janez Marič,Moški,Bled,1975,44,False,23,33,20,79,219,172
+1386018,Matej Mugerli,Moški,Nova Gorica,1981,38,False,7,40,12,57,171,506
+1389373,Rudi Istenič,Moški,,1971,48,False,13,53,28,48,194,299
+1389433,Igor Medved,Moški,Ljubljana,1981,38,False,8,23,13,12,181,109
+1389581,Mitja Dragšič,Moški,Maribor,1979,40,False,10,18,16,17,211,121
+1393163,Vasilij Melik,Moški,Ljubljana,1921,88,True,46,36,743,21,2692,481
+1395360,Primož Urh-Zupan,Moški,,1983,36,False,6,17,8,16,182,82
+1396203,Pia Tajnikar,Ženska,Ljubljana,1985,34,False,25,29,7,20,101,135
+1396691,Alenka Goljevšček Kermauner,Ženska,Ljubljana,1933,83,True,30,39,403,10,1212,376
+1397983,Josip Stritar,Moški,Velike Lašče,1836,87,True,298,78,143,120,3997,857
+1398041,Samo Kuščer,Moški,,1952,67,False,20,22,10,9,137,168
+1398765,Mitja Mörec,Moški,Murska Sobota,1983,36,False,10,128,7,32,103,565
+1399037,Vasja Bajc,Moški,Ljubljana,1962,57,False,13,29,26,8,421,214
+1399784,Goran Janus,Moški,Ljubljana,1970,49,False,25,28,22,11,527,474
+1399798,Rene Mihelič,Moški,Maribor,1988,31,False,19,783,5,109,119,653
+1399832,Robert Meglič,Moški,,1974,44,False,16,11,17,15,196,130
+1413662,Mihael Županek,Moški,Šalovci,1830,74,True,4,25,12,23,260,199
+1415458,Mihael Brejc,Moški,Beograd,1947,71,False,66,49,160,20,803,627
+1430463,Rajko Lotrič,Moški,,1962,57,False,8,23,23,16,135,171
+1447270,Franc de Paula Hladnik,Moški,Idrija,1773,71,True,14,23,28,27,891,488
+1476075,Michele Skatar,Moški,Koper,1985,33,False,6,51,0,13,157,342
+1491604,Gal Koren,Moški,Domžale,1992,27,False,6,33,8,10,502,101
+1492284,Jure Golčer,Moški,Maribor,1977,42,False,10,32,12,42,59,483
+1496745,Gašper Berlot,Moški,Slovenj Gradec,1990,29,False,2,13,6,25,123,146
+1502530,Janez Bernik,Moški,,1933,82,True,56,75,1216,277,3461,2435
+1509087,Matjaž Rozman,Moški,Ptuj,1987,32,False,12,28,2,30,138,374
+1545201,Gregor Virant,Moški,Ljubljana,1969,49,False,199,179,147,42,1247,935
+1545223,Gregor Žerjav,Moški,Lož,1882,46,True,15,31,18,45,504,740
+1545248,Matej Hočevar,Moški,Ljubljana,1982,37,False,3,25,38,21,492,186
+1556027,Gustav Ipavec,Moški,Šentjur,1831,77,True,61,20,162,120,818,580
+1564209,Matija Barl,Moški,Ljubljana,1940,78,True,149,199,11,11,154,363
+1564244,Sebastijan Cavazza,Moški,Kranj,1973,46,False,463,2028,33,14,275,96
+1581584,Matjaž Kladnik,Moški,Ljubljana,1975,44,False,4,7,14,11,193,127
+1587562,Marijan Pušnik,Moški,Slovenj Gradec,1960,58,False,39,153,36,140,531,891
+1605703,Edvard Ravnikar,Moški,Novo mesto,1907,85,True,264,267,774,376,2701,1239
+1605863,Marjan Šetinc,Moški,Brežice,1949,70,False,14,23,143,19,1081,937
+1613191,Herman Celjski,Moški,Celje,1383,38,True,19,46,12,9,472,540
+1628512,Milan Zver,Moški,Ljubljana,1962,57,False,78,149,213,42,1177,1044
+1642178,Alenka Zupančič Žerdin,Ženska,Ljubljana,1966,53,False,33,1379,4,27,158,582
+1647927,Alen Roj,Moški,Maribor,1992,26,False,2,31,3,31,194,268
+1657495,Ignacij Klemenčič,Moški,Trebnje,1853,48,True,14,80,12,21,286,126
+1657720,Igor Lazič,Moški,,1979,39,False,23,56,4,10,123,142
+1668109,Jožko Šavli,Moški,Zatolmin,1943,67,True,20,34,12,103,284,669
+1674888,Ištvan Korpa,Moški,,1945,73,False,15,50,2,78,134,775
+1675783,Ivo Lah,Moški,Cerknica,1896,82,True,16,69,13,21,138,354
+1676158,Iztok Osojnik,Moški,Ljubljana,1951,68,False,29,39,48,22,683,477
+1679332,Jakob Savinšek,Moški,Kamnik,1922,39,True,72,68,138,136,326,862
+1682686,Janez Drozg,Moški,Celje,1933,72,True,11,47,442,181,2256,1700
+1682690,Janez Strajnar,Moški,Ljubljana,1971,48,False,20,16,1,8,155,104
+1682818,Janko Ravnik,Moški,Bohinjska Bistrica,1891,91,True,33,50,300,15,1153,142
+1695374,Janez Ludvik Schönleben,Moški,Ljubljana,1618,62,True,30,36,18,9,224,251
+1695581,Luka Elsner,Moški,Ljubljana,1982,37,False,111,1770,29,102,309,505
+1706993,Klemen Štrajhar,Moški,Ljubljana,1994,25,False,3,14,3,18,91,122
+1707805,Goran Jagodnik,Moški,Koper,1974,45,False,34,407,29,65,590,619
+1708717,Josip Ipavec,Moški,Šentjur,1873,47,True,24,19,123,120,327,538
+1710276,Jože Mehle,Moški,Ljubljana,1980,39,False,2,22,8,11,103,121
+1710277,Jože Dežman,Moški,Lesce,1955,64,False,118,54,19,17,286,688
+1710280,Jože Prelogar,Moški,Ljubljana,1959,60,False,24,31,1,17,197,155
+1713830,Jure Dobelšek,Moški,Celje,1984,35,False,4,10,4,18,130,130
+1733874,Karlo Umek,Moški,Brežice,1917,93,True,18,19,132,11,132,217
+1740190,Kevin Kampl,Moški,,1990,29,False,218,5925,7,157,611,1544
+1743645,Marijan Lipovšek,Moški,Ljubljana,1910,85,True,72,77,1166,34,4599,557
+1754963,Nastja Govejšek,Ženska,Celje,1997,22,False,0,23,4,51,60,183
+1754970,Anja Čarman,Ženska,Škofja Loka,1985,34,False,18,25,12,91,177,399
+1773598,Siniša Anđelković,Moški,Kranj,1986,33,False,20,279,8,85,140,892
+1799194,Ludvik Zajc,Moški,Jesenice,1943,68,True,10,23,9,11,283,181
+1811902,Giovanni Plazzer,Moški,Koper,1909,73,True,0,16,10,8,82,68
+1812273,Giovanni Scher,Moški,Koper,1915,76,True,0,15,11,10,80,154
+1812361,Bruno Vattovaz,Moški,Koper,1912,31,True,0,9,10,8,82,76
+1819410,Leonid Pitamic,Moški,Postojna,1885,85,True,42,35,57,18,629,565
+1824937,Lili Drčar,Ženska,,1990,29,False,8,17,1,12,185,182
+1835239,Blaža Klemenčič,Ženska,Selca,1980,39,False,32,73,12,33,224,217
+1847011,Miljenko Licul,Moški,,1946,62,True,75,71,497,122,2533,1714
+1851802,Matic Skube,Moški,Kranj,1988,31,False,11,11,11,16,160,291
+1851922,Mitja Oranič,Moški,Kranj,1986,33,False,3,15,5,20,77,126
+1856006,Marcel Rodman,Moški,"Rodine, Žirovnica",1981,38,False,27,120,74,75,727,760
+1861677,Peter Bossman,Moški,Akra,1955,63,False,61,306,11,58,223,1108
+1873447,Lucija Larisi,Ženska,Jesenice,1975,43,False,9,26,9,13,149,117
+1876840,Luka Juhart,Moški,Celje,1982,37,False,15,25,3,4,217,306
+1876850,Luka Petrič,Moški,Maribor,1984,35,False,11,17,5,20,207,276
+1885997,Maja Pohar,Ženska,Ljubljana,1976,43,False,7,42,6,39,69,607
+1899746,Marjan Burgar,Moški,,1952,67,False,0,9,4,6,110,120
+1899757,Marjan Vidmar (biatlonec),Moški,Ljubljana,1960,59,False,0,7,2,6,72,118
+1900821,Marko Kmetec,Moški,Ptuj,1976,43,False,20,28,28,48,189,320
+1900836,Marko Elsner,Moški,Ljubljana,1960,59,False,59,423,19,80,171,464
+1900839,Marko Letonja,Moški,,1961,58,False,22,111,301,118,1456,171
+1908162,Matejka Mohorič,Ženska,Kranj,1978,41,False,3,11,7,7,74,119
+1908834,Matija Pintarič,Moški,Maribor,1989,30,False,3,51,22,21,461,168
+1908877,Matjaž Poklukar,Moški,,1973,46,False,12,10,10,17,136,121
+1908879,Matjaž Pungertar,Moški,Ljubljana,1990,29,False,9,10,9,15,183,132
+1932743,Miha Žvižej,Moški,Celje,1987,31,False,47,132,20,34,530,209
+1934173,Miladin Kozlina,Moški,Celje,1983,36,False,35,69,24,34,82,192
+1937011,Rajko Tavčar,Moški,Kranj,1974,45,False,11,62,33,49,239,277
+1937244,Minka Govekar,Ženska,Trebnje,1874,75,True,10,13,22,3,727,274
+1938947,Urška Žolnir,Ženska,Celje,1981,38,False,80,125,103,178,715,429
+1939671,Mitja Brodar,Moški,Ljubljana,1921,91,True,17,24,9,13,509,460
+1939707,Mitja Robar,Moški,Maribor,1983,36,False,20,74,47,30,610,378
+1968767,Josip Vidmar,Moški,Ljubljana,1895,96,True,135,175,484,55,3285,528
+1969431,Aleš Debeljak,Moški,Ljubljana,1961,54,True,86,131,333,140,2192,2198
+1969957,Rolando Pušnik,Moški,Celje,1961,57,False,19,56,18,41,195,194
+1973597,Gustave Satter,Moški,Brežice,1832,46,True,5,27,124,10,450,274
+1988873,Jasmin Kurtić,Moški,Črnomelj,1989,30,False,236,1714,9,135,177,1167
+1991329,Sašo Filipovski,Moški,Ljubljana,1974,45,False,40,461,7,31,259,455
+2016907,Rok Štraus,Moški,Maribor,1987,32,False,10,61,3,33,175,375
+2017721,Miral Samardžić,Moški,Jesenice,1987,32,False,63,266,18,109,303,946
+2022882,Miran Jarc,Moški,Črnomelj,1900,42,True,96,41,290,270,1916,964
+2024776,Dragutin Mate,Moški,Čakovec,1963,56,False,66,45,80,15,456,504
+2032509,Tomo Česen,Moški,Kranj,1959,59,False,116,403,58,48,617,361
+2032761,Miha Zupan,Moški,Kranj,1982,37,False,105,266,36,51,413,1220
+2033668,Gašper Vidmar,Moški,Ljubljana,1987,32,False,65,880,32,127,300,501
+2033827,Jaka Klobučar,Moški,Novo mesto,1987,32,False,102,422,31,39,770,508
+2046611,Jan Cvitkovič,Moški,Ljubljana,1966,53,False,115,92,325,25,384,274
+2057044,Slaviša Stojanović,Moški,,1969,49,False,68,1305,38,252,577,1264
+2058682,Jan Oblak,Moški,Škofja Loka,1993,26,False,863,32048,18,251,573,3889
+2063514,Samo Gostiša,Moški,,1972,47,False,11,14,26,21,137,129
+2066244,Danijel Brezič,Moški,Murska Sobota,1976,43,False,14,19,5,21,123,295
+2067069,Josip Pirmajer,Moški,,1944,74,True,13,223,1,107,154,755
+2071744,Dragotin Dežman,Moški,Idrija,1821,78,True,41,41,142,172,1088,1349
+2074921,Peter Florjančič,Moški,Bled,1919,100,False,367,201,17,14,337,443
+2080937,Zoran Ubavič,Moški,,1965,50,True,29,41,28,44,239,310
+2081084,Stane Kavčič,Moški,Ljubljana,1919,67,True,190,129,43,31,606,324
+2081618,Boris Kraigher,Moški,Sveta Trojica v Slovenskih goricah,1914,52,True,146,64,56,31,783,93
+2092750,Gašper Kopitar,Moški,Jesenice,1992,27,False,8,214,7,8,370,696
+2092911,Vinko Ošlak,Moški,Slovenj Gradec,1947,72,False,38,39,35,18,815,532
+2093546,Aleš Mertelj,Moški,Kranj,1987,32,False,24,70,6,48,172,348
+2097345,Tomaž Razingar,Moški,Jesenice,1979,40,False,21,60,80,43,937,200
+2107611,Rok Drakšič,Moški,,1987,32,False,14,43,13,49,150,222
+2110167,Primož Roglič,Moški,Trbovlje,1989,29,False,840,7716,99,342,364,2346
+2112771,Anja Eržen,Ženska,,1992,26,False,4,22,7,40,77,308
+2119646,Polona Batagelj,Ženska,Šempeter pri Gorici,1989,30,False,35,46,8,57,319,253
+2121167,Katarina Marinič,Ženska,Deskle,1899,110,True,20,13,9,11,284,4890
+2138787,Anton Lajovic,Moški,Vače,1878,81,True,71,53,301,9,1296,150
+2154877,Risto Savin,Moški,Žalec,1859,89,True,52,41,77,10,514,314
+2154996,Aljaž Sedej,Moški,Ljubljana,1988,31,False,6,24,7,23,86,176
+2165261,DJ Umek,Moški,Ljubljana,1976,43,False,155,1243,22,111,3148,1468
+2166258,Spasoje Bulajič,Moški,Slovenj Gradec,1975,43,False,19,85,44,58,166,500
+2166268,Alojz Rebula,Moški,,1924,94,True,131,113,561,151,5858,2542
+2194106,Anton Novačan,Moški,Zadobrova,1887,63,True,25,41,37,16,652,676
+2214109,Denis Halilović,Moški,Slovenj Gradec,1986,33,False,15,48,3,32,73,192
+2226789,Josip Kopinič,Moški,,1911,86,True,23,84,8,8,239,461
+2228682,Saša Prokofjev,Ženska,Ljubljana,1971,47,False,17,10,4,19,100,126
+2231223,Sašo Udovič,Moški,Ljubljana,1968,50,False,62,164,57,88,194,588
+2236373,Sandro Bloudek,Moški,Maribor,1986,33,False,38,185,5,29,142,340
+2239174,Robert Englaro,Moški,Novo mesto,1969,50,False,27,47,11,19,128,178
+2254997,Iztok Puc,Moški,Slovenj Gradec,1966,45,True,106,233,26,109,362,2827
+2256514,Primož Gliha,Moški,Ljubljana,1967,52,False,94,308,31,62,197,382
+2260816,Matjaž Ceraj,Moški,,1983,36,False,3,39,6,25,72,55
+2263124,Sebastian Skube,Moški,Novo mesto,1987,32,False,69,218,30,50,755,231
+2266523,Boris Kobe,Moški,Ljubljana,1905,75,True,51,53,400,19,1825,300
+2268845,Veno Pilon,Moški,Ajdovščina,1896,74,True,138,133,321,81,1195,348
+2272606,Radivoj Krivokapić,Moški,Ljubljana,1953,66,False,19,41,3,19,53,92
+2280312,Mitja Gaspari,Moški,Ljubljana,1951,67,False,52,62,266,22,1532,284
+2281895,Rudi Hiti,Moški,,1946,72,False,39,70,98,26,1295,230
+2282246,Zvest Apollonio,Moški,Koper,1935,73,True,40,55,318,249,1705,1793
+2282792,Domen Lorbek,Moški,Kranj,1985,34,False,30,147,23,33,465,310
+2291089,Uroš Slokar,Moški,Ljubljana,1983,36,False,51,356,41,131,579,843
+2306993,Džoni Novak,Moški,Ljubljana,1969,50,False,89,421,44,123,270,744
+2308816,Jožef Školč,Moški,Breginj,1960,59,False,93,54,432,33,2751,406
+2324642,Gregor Golobič,Moški,Novo mesto,1964,55,False,114,73,294,138,1206,1127
+2332578,Anton Malej,Moški,Ljubljana,1908,22,True,8,65,14,29,121,562
+2339347,Ivan Grohar,Moški,,1867,43,True,336,208,67,75,690,934
+2339787,Sebastjan Cimirotič,Moški,Ljubljana,1974,45,False,151,308,47,93,391,379
+2345954,Marjan Rožanc,Moški,,1930,59,True,115,54,553,129,3663,1858
+2345982,France Balantič,Moški,Kamnik,1921,21,True,151,95,133,135,1279,1192
+2346395,Jaka Avšič,Moški,Ljubljana,1896,81,True,74,120,132,147,800,345
+2353788,Josip Križaj,Moški,Kopriva,1911,37,True,69,42,8,69,1820,621
+2357478,Lizika Jančar,Ženska,Maribor,1919,23,True,19,57,6,5,102,300
+2362903,Rudolf Cvetko,Moški,Kranj,1880,97,True,43,50,19,54,393,284
+2367359,Dejan Nemec,Moški,Murska Sobota,1977,42,False,27,79,38,50,192,290
+2372001,Vesna Đukić,Ženska,Celje,1986,33,False,1,7,3,8,50,68
+2372013,Anamari Velenšek,Ženska,Celje,1991,28,False,51,129,20,68,167,217
+2372211,Raša Sraka,Ženska,Ljubljana,1979,40,False,132,126,21,42,866,142
+2378116,Vuk Ćosić,Moški,Beograd,1966,53,False,19,307,5,30,96,1059
+2380540,Viktor Avbelj,Moški,Prevoje pri Šentvidu,1914,79,True,81,71,51,31,490,103
+2382320,Janez Strnad,Moški,Ljubljana,1934,81,True,82,85,175,34,1915,1684
+2402238,Boris Gregorka,Moški,Brežice,1906,94,True,13,24,730,38,2096,734
+2404888,Karlo Cossutta,Moški,,1932,67,True,8,143,3,22,226,1512
+2410786,Denis Žvegelj,Moški,Jesenice,1972,47,False,25,75,26,29,227,654
+2413729,Jakob Alešovec,Moški,Skaručna,1842,59,True,34,17,37,22,425,248
+2419171,Armin Bačinovič,Moški,Maribor,1989,30,False,52,275,8,50,269,1069
+2420571,Goran Sankovič,Moški,Celje,1979,40,False,12,58,29,40,223,277
+2430383,Aljoša Žorga,Moški,Ljubljana,1947,72,False,25,71,18,57,156,247
+2440588,Tomaž Pandur,Moški,Maribor,1963,53,True,217,143,342,120,2247,352
+2440601,Tomaž Žemva,Moški,Kranj,1973,46,False,3,4,5,7,85,121
+2441000,Matija Čop,Moški,Žirovnica,1797,38,True,592,167,150,63,2408,581
+2444202,Jure Travner,Moški,Celje,1985,34,False,6,117,4,77,132,822
+2452206,Ariel McDonald,Moški,,1972,47,False,32,336,5,119,227,844
+2456412,Giliante D'Este,Moški,Izola,1910,86,True,0,23,3,141,101,503
+2472077,Janez Zavrl,Moški,Ljubljana,1982,36,False,13,21,5,16,117,225
+2472334,Zoran Dragić,Moški,Ljubljana,1989,30,False,123,3332,26,157,428,1543
+2474110,Janko Kersnik,Moški,Brdo pri Lukovici,1852,44,True,614,139,176,96,784,715
+2474664,Tomo Mahorič,Moški,Ljubljana,1965,54,False,27,94,6,20,160,106
+2478801,Uroš Lajovic,Moški,Ljubljana,1944,75,False,36,117,308,130,2234,566
+2497776,Rihard Jakopič,Moški,Ljubljana,1869,74,True,275,249,119,50,458,768
+2506568,Ferdinand Seidl,Moški,Novo mesto,1856,86,True,31,28,13,5,533,294
+2508496,Valentin Stanič,Moški,Bodrež,1774,73,True,45,53,38,53,1689,537
+2512445,Veljko Rus,Moški,Višnja Gora,1929,88,True,45,28,21,21,1298,600
+2517747,Igor Benedejčič,Moški,,1969,50,False,48,91,31,29,244,264
+2524734,Vili Resnik,Moški,Ljubljana,1963,55,False,218,105,79,127,643,184
+2531888,Rok Marguč,Moški,Celje,1986,33,False,22,27,11,48,299,257
+2534734,Ivan Šusteršič,Moški,Ribnica,1863,62,True,42,64,36,28,288,464
+2539082,Darijan Matič,Moški,Ljubljana,1983,36,False,15,42,7,42,136,199
+2539126,Saša Gajser,Moški,Maribor,1974,45,False,56,87,52,75,349,377
+2539609,Vinko Jelovac,Moški,,1948,71,False,42,233,54,146,423,598
+2550686,Franc Serafin Metelko,Moški,Škocjan,1789,71,True,72,56,48,68,300,566
+2557893,Stojan Puc,Moški,Novo mesto,1921,83,True,14,59,12,23,83,341
+2568024,Cene Prevc,Moški,Kranj,1996,23,False,31,79,17,40,279,387
+2570472,Marija Šestak,Ženska,Kragujevac,1979,40,False,246,291,21,72,246,443
+2576166,Uroš Pavlovčič,Moški,Jesenice,1972,47,False,7,12,7,12,173,154
+2579549,Gregor Balažic,Moški,Murska Sobota,1988,31,False,15,180,4,58,129,1326
+2591356,Matej Ferjan,Moški,Ljubljana,1977,34,True,19,114,4,68,137,342
+2596263,Maksimilijan Mihelčič,Moški,Ljubljana,1905,52,True,8,27,9,39,117,417
+2604682,Aleksandar Rodić,Moški,,1979,39,False,42,194,6,67,179,546
+2604829,Zmago Sagadin,Moški,Celje,1952,66,False,69,296,37,81,680,828
+2607662,Danilo Lokar,Moški,Ajdovščina,1892,97,True,27,45,322,65,1474,600
+2613011,Peter Šumi,Moški,Kranj,1895,85,True,10,20,12,105,179,627
+2613196,Petra Rampre,Ženska,Ljubljana,1980,39,False,11,79,4,213,497,1009
+2620536,Georg Mohr,Moški,Maribor,1965,54,False,14,62,16,15,137,164
+2620838,Peter Vilfan,Moški,Maribor,1957,62,False,106,236,33,61,900,868
+2626579,Marcos Tavares,Moški,Porto Alegre,1984,35,False,274,1293,57,185,598,2521
+2631003,Valerio Perentin,Moški,Izola,1909,88,True,0,39,2,138,75,473
+2631055,Renato Petronio,Moški,Piran,1891,85,True,1,169,3,145,81,477
+2631064,Giovanni Delise,Moški,Izola,1907,39,True,0,18,2,134,65,433
+2631737,Stane Derganc,Moški,Ljubljana,1893,88,True,16,54,20,80,181,508
+2631761,Josip Primožič,Moški,Ljubljana,1900,85,True,21,60,515,170,2569,938
+2634353,Ivo Daneu,Moški,Maribor,1937,82,False,118,1076,65,297,676,1227
+2646442,Boško Boškovič,Moški,Koper,1969,50,False,35,80,6,13,120,287
+2646595,Svetlana Makarovič,Ženska,Maribor,1939,80,False,1324,374,1405,140,7477,4135
+2646918,Jani Pate,Moški,Ljubljana,1965,54,False,44,77,26,36,220,255
+2662614,Gregor Urbas,Moški,,1982,36,False,7,68,9,148,397,944
+2665806,Mladen Dabanovič,Moški,Maribor,1971,48,False,44,106,42,55,136,314
+2666010,Andy Blueman,Moški,,1982,37,False,3,281,4,14,209,1864
+2666127,Dejan Rusič,Moški,Krško,1982,36,False,9,38,6,36,132,259
+2666422,Teodora Poštič,Ženska,Jesenice,1984,35,False,1,46,4,59,70,518
+2666448,Miran Vodovnik,Moški,Maribor,1977,42,False,41,37,12,41,152,316
+2675370,Ludvik Mrzel,Moški,Loka pri Zidanem Mostu,1904,67,True,30,27,32,11,301,612
+2679318,Davo Karničar,Moški,Zgornje Jezersko,1962,56,True,1079,2799,734,32,2224,463
+2679938,Vladimir Kokol,Moški,Maribor,1972,47,False,14,28,6,16,153,141
+2680148,Alfred Jermaniš,Moški,,1967,52,False,29,129,6,21,159,248
+2680191,Peter Binkovski,Moški,,1972,47,False,25,27,4,13,141,114
+2696861,Damir Dugonjič,Moški,Ravne na Koroškem,1988,31,False,8,55,6,80,251,381
+2698706,Radovan Žerjav,Moški,Maribor,1968,50,False,45,42,189,16,986,439
+2711906,Muamer Vugdalič,Moški,Ljubljana,1977,42,False,48,60,35,54,307,376
+2713817,Mirnes Šišić,Moški,Mostar,1981,38,False,25,243,7,46,544,684
+2719753,France Cukjati,Moški,Šentgotard,1943,76,False,76,55,363,107,1669,465
+2731993,Jan Koprivec,Moški,Koper,1988,31,False,12,561,5,84,320,612
+2741665,Žiga Svete,Moški,Bled,1985,34,False,1,18,9,6,498,123
+2745381,Fabijan Cipot,Moški,Murska Sobota,1976,43,False,39,81,8,14,125,397
+2757381,Nina Ivanišin,Ženska,Maribor,1985,34,False,115,365,11,27,214,412
+2778880,Nicolò Vittori,Moški,Izola,1909,79,True,1,21,3,143,75,498
+2790169,Nejc Skubic,Moški,Ljubljana,1989,30,False,41,317,3,70,170,348
+2803741,Katarina Čas,Ženska,Slovenj Gradec,1976,43,False,244,2836,24,32,433,508
+2813367,Peter Kauzer,Moški,Trbovlje,1983,36,False,62,153,68,130,614,1037
+2831887,Albin Felc,Moški,Jesenice,1941,78,False,20,42,41,15,280,225
+2832652,Alen Šket,Moški,Slovenska Bistrica,1988,31,False,552,847,5,26,90,282
+2832654,Alen Pajenk,Moški,Maribor,1986,33,False,1412,1865,5,24,132,443
+2832666,Alenka Godec,Ženska,Ljubljana,1964,54,False,81,326,90,20,1101,665
+2834991,Desa Muck,Ženska,Ljubljana,1955,64,False,1164,176,171,9,2005,528
+2837351,Aljaž Pegan,Moški,Ljubljana,1974,45,False,70,132,56,124,379,573
+2840063,Maruša Ferk,Ženska,Blejska Dobrava,1988,31,False,27,41,30,56,1208,356
+2846260,Andraž Vehovar,Moški,Ljubljana,1972,47,False,10,40,49,64,204,416
+2846519,Andrej Razinger,Moški,Jesenice,1967,52,False,21,8,25,3,556,140
+2857027,Anton Nanut,Moški,Kanal,1932,84,True,74,167,1283,164,5594,1804
+2884077,Barbara Špiler,Ženska,Brežice,1992,27,False,27,94,7,163,143,313
+2910958,Boris Gorenc,Moški,Ljubljana,1973,45,False,39,112,13,87,226,729
+2913497,Marjan Keršič,Moški,Ljubljana,1920,83,True,27,12,10,11,137,204
+2913514,Jože Pirjevec,Moški,Trst,1940,79,False,59,120,14,41,604,706
+2923166,Božidar Kantušer,Moški,Pavlovski Vrh,1921,77,True,14,138,19,25,2360,2628
+2944601,Matjaž Florijančič,Moški,Kranj,1967,52,False,7,89,4,37,123,434
+2983835,Dubravka Tomšič Srebotnjak,Ženska,,1940,79,False,152,400,698,137,2199,424
+2988892,Leo Funtek,Moški,Ljubljana,1885,79,True,38,122,3,28,219,535
+2988912,Aleš Šteger,Moški,Ptuj,1973,46,False,62,83,54,30,718,1230
+3015109,Danilo Pudgar,Moški,,1952,67,False,23,29,48,46,248,345
+3019299,Anže Semenič,Moški,Kranj,1993,26,False,24,36,32,67,676,488
+3019332,Andraž Pograjc,Moški,Trbovlje,1991,28,False,10,21,9,16,123,196
+3021362,Dejan Kralj,Moški,Ljubljana,1976,43,False,2,22,8,94,74,258
+3024402,Desha Delteil,Ženska,Ljubljana,1899,81,True,16,108,2,9,118,463
+3031611,Jurij Rovan,Moški,Brežice,1975,44,False,36,28,12,30,204,216
+3038431,Branko Filip,Moški,Novo mesto,1975,44,False,11,25,4,16,92,159
+3038660,Drago Mlinarec,Moški,,1960,59,False,16,34,33,8,464,171
+3039202,Dražen Žeželj,Moški,,1976,43,False,13,22,25,42,157,289
+3041797,Dušan Jovanović,Moški,Beograd,1939,80,False,274,147,324,121,2759,1783
+3044510,Primož Kopač,Moški,,1970,48,False,3,18,7,10,100,90
+3048188,Edo Murić,Moški,Ljubljana,1991,27,False,71,1369,25,97,267,1342
+3048193,Edo Terglav,Moški,Kranj,1980,39,False,17,32,30,17,542,245
+3056823,Ernest Aljančič starejši,Moški,Ljubljana,1916,89,True,10,21,29,12,322,360
+3061255,Eva Irgl,Ženska,Šempeter pri Gorici,1976,42,False,123,74,221,16,1279,312
+3061293,Eva Terčelj,Ženska,Ljubljana,1992,27,False,214,328,6,66,147,516
+3070939,Nejc Gazvoda,Moški,Novo mesto,1985,34,False,170,107,41,136,537,852
+3078852,Evald Flisar,Moški,Gerlinci,1945,74,False,100,126,576,35,2130,512
+3080044,Marij Kogoj,Moški,Trst,1895,60,True,133,107,86,58,599,329
+3080513,Franc Smolej (hokejist),Moški,Jesenice,1940,79,False,2,13,12,10,100,105
+3080757,France Štiglic,Moški,Kranj,1919,73,True,347,145,422,91,1950,441
+3091258,Goran Klemenčič,Moški,Kranj,1972,47,False,92,85,84,8,751,460
+3098105,Matija Murko,Moški,Drstelja,1861,91,True,41,106,43,40,684,766
+3107433,Rene Mlekuž,Moški,Slovenska Bistrica,1975,44,False,14,19,10,8,96,147
+3110763,Mitja Petkovšek,Moški,Ljubljana,1977,42,False,85,82,56,139,474,576
+3110828,Gorazd Hiti,Moški,,1948,71,False,16,40,25,14,394,205
+3139008,Tanja Žakelj,Ženska,Kranj,1988,31,False,20,64,7,28,425,471
+3148315,Igor Poznič,Moški,,1967,52,False,17,30,5,8,114,207
+3156327,Ivo Jan starejši,Moški,Jesenice,1942,77,False,9,32,20,22,135,131
+3160608,Jaka Ankerst,Moški,Kranj,1989,30,False,9,32,11,8,447,143
+3161770,Jan Urbas,Moški,Ljubljana,1989,30,False,9,62,19,42,589,296
+3161938,Jani Klemenčič,Moški,Bled,1971,48,False,30,45,26,41,143,158
+3176874,Jelena De Belder-Kovačič,Ženska,,1925,78,True,14,68,11,13,358,1463
+3179153,Vasilij Žbogar,Moški,Koper,1975,44,False,107,145,75,161,506,501
+3179164,Rožle Prezelj,Moški,Maribor,1979,40,False,29,57,14,46,111,393
+3186078,Josipina Toman,Ženska,Preddvor,1833,20,True,93,47,38,42,974,1073
+3187532,Jože Ciuha,Moški,Trbovlje,1924,90,True,58,72,505,134,3317,261
+3190166,Jure Meglič,Moški,Kranj,1984,35,False,5,34,8,24,180,272
+3190167,Jure Šterk,Moški,Zagreb,1937,71,True,126,522,4,21,364,443
+3190197,Jurij Goličič,Moški,Kranj,1981,38,False,15,17,36,12,536,145
+3195073,Ken Ograjenšek,Moški,Celje,1991,28,False,5,39,16,21,527,222
+3197800,Klemen Pretnar,Moški,Bled,1986,33,False,14,51,18,19,538,267
+3211365,Damjan Sitar,Moški,Maribor,1981,38,False,9,37,5,9,66,355
+3211770,Roman Kejžar,Moški,Kranj,1966,53,False,133,80,19,25,143,350
+3211776,Teja Zupan,Ženska,Radovljica,1990,28,False,8,16,8,17,66,267
+3217812,Lara-B,Ženska,Koper,1979,40,False,108,66,50,25,255,368
+3246961,Ante Šimundža,Moški,Maribor,1971,48,False,159,337,22,90,370,912
+3266990,Luka Rupnik,Moški,Ljubljana,1993,26,False,45,445,7,23,244,318
+3266992,Luka Tošič,Moški,Jesenice,1988,31,False,6,35,7,6,500,85
+3280424,Maja Vidmar (plezalka),Ženska,Kranj,1985,33,False,48,70,9,28,375,532
+3280433,Majda Sepe,Ženska,Ljubljana,1937,68,True,226,158,56,12,666,622
+3293920,Marjan Gorenc,Moški,Ljubljana,1964,55,False,9,22,64,9,336,207
+3293928,Marjetica Potrč,Ženska,Ljubljana,1953,66,False,33,143,323,146,1431,3306
+3298399,Matej Mohorič,Moški,Kranj,1994,25,False,81,505,12,137,217,968
+3298483,Matevž Lenarčič,Moški,Trbovlje,1959,60,False,46,38,10,9,286,341
+3299175,Matjaž Sekelj,Moški,Ljubljana,1960,58,False,6,17,91,13,272,119
+3304550,Sanja Grohar,Ženska,Kranj,1984,35,False,67,87,16,38,281,276
+3306631,Lana Trotovšek,Ženska,Ljubljana,1983,36,False,24,463,2,27,266,610
+3313052,Miha Valič,Moški,Ljubljana,1978,29,True,146,75,9,8,502,249
+3313990,Milan Janša,Moški,Jesenice,1965,54,False,10,22,26,26,144,167
+3314696,Mina Markovič,Ženska,Maribor,1987,31,False,32,290,6,56,201,811
+3317117,Mitja Gasparini,Moški,Izola,1984,35,False,1705,3197,6,31,78,176
+3328029,Murajica Pajič,Moški,,1961,58,False,15,22,20,12,391,167
+3333537,Janez Svetokriški,Moški,Vipavski Križ,1647,67,True,354,209,92,85,240,738
+3338766,Marko Snoj,Moški,Ljubljana,1959,60,False,29,89,54,34,1006,1141
+3341940,Nina Mozetič,Ženska,,1983,36,False,9,15,4,15,90,185
+3347416,Peter Jambrek,Moški,Ljubljana,1940,79,False,90,109,71,33,357,748
+3347423,France Bučar,Moški,Bohinjska Bistrica,1923,92,True,147,146,912,61,1422,1285
+3358752,Živa Dvoršak,Ženska,Ljubljana,1991,28,False,6,15,5,25,207,118
+3364524,Alenka Cuderman,Ženska,Kranj,1961,58,False,17,22,12,12,76,133
+3365220,Janez Polda,Moški,Mojstrana,1924,39,True,19,32,24,19,227,127
+3366414,Janez Gorišek,Moški,Ljubljana,1933,86,False,17,39,20,23,284,310
+3380003,Franc Palme,Moški,Ljubljana,1914,,False,3,12,10,7,113,180
+3380061,Božo Jemc,Moški,Bled,1940,50,True,4,11,6,8,112,130
+3380075,Peter Štefančič,Moški,Kranj,1947,72,False,8,9,16,8,115,125
+3403280,Primož Prošt,Moški,Trbovlje,1983,36,False,17,47,24,33,426,209
+3403285,Primož Čerin,Moški,Ljubljana,1962,57,False,13,34,5,24,70,144
+3435561,Borut Bilač,Moški,Postojna,1965,54,False,42,56,13,22,84,90
+3438411,Jakov Brdar,Moški,,1949,70,False,242,190,301,118,2358,1600
+3441042,Herta Haas,Ženska,Maribor,1914,95,True,118,2031,7,22,190,521
+3446388,Branko Pintarič,Moški,,1967,52,False,9,24,9,29,208,506
+3446399,Janez Trdina,Moški,Mengeš,1830,75,True,603,107,206,148,821,751
+3451547,Radko Polič,Moški,Črnomelj,1942,77,False,421,250,640,172,3258,1853
+3461131,Sadik Mujkič,Moški,Jesenice,1968,51,False,10,36,24,28,103,170
+3467366,Borut Mačkovšek,Moški,Koper,1992,27,False,31,209,32,64,416,302
+3471936,Sandra Piršić,Ženska,Kranj,1984,35,False,14,23,0,8,46,62
+3474892,Sašo Mirjanič,Moški,Koper,1968,26,True,39,30,16,21,86,90
+3487630,Peter Lovšin,Moški,Ljubljana,1955,64,False,264,166,73,29,1335,313
+3487725,Pavel Gantar,Moški,Gorenja vas,1949,69,False,66,53,289,33,2262,846
+3487765,Ciril Ribičič,Moški,Ljubljana,1947,72,False,172,180,269,22,1585,846
+3487786,Ljubo Germič,Moški,Maribor,1960,58,False,38,21,279,23,1806,528
+3487795,Janez Podobnik,Moški,Cerkno,1959,60,False,134,88,343,67,1937,492
+3487959,Janez Evangelist Krek,Moški,"Sveti Gregor, Ribnica",1865,51,True,101,89,93,104,611,648
+3488045,Janez Jalen,Moški,"Rodine, Žirovnica",1891,74,True,223,70,89,35,1095,514
+3489389,Janez Stanovnik,Moški,Ljubljana,1922,97,False,440,202,755,41,4047,785
+3491326,Branko Stanovnik,Moški,,1938,81,False,37,35,59,22,720,189
+3491574,Josip Jurčič,Moški,Muljava,1844,37,True,1689,273,244,187,1110,266
+3499111,Brane Mozetič,Moški,Ljubljana,1958,61,False,42,66,229,15,1579,787
+3499367,Niko Grafenauer,Moški,Ljubljana,1940,78,False,1873,172,749,130,4781,1609
+3499403,Luka Gregorc,Moški,Ljubljana,1984,35,False,9,79,5,119,635,779
+3499408,Janez Puhar,Moški,Kranj,1814,49,True,136,97,32,97,2171,1289
+3499450,Maksim Gaspari,Moški,Selšček,1883,97,True,66,56,295,12,977,364
+3499475,Ciril Zlobec,Moški,Ponikve,1925,93,True,273,167,1410,207,4519,820
+3499486,Damjan Prelovšek,Moški,Ljubljana,1945,74,False,31,19,212,10,1258,215
+3499494,Milan Dekleva,Moški,Ljubljana,1946,73,False,296,67,694,118,4348,1779
+3499501,Vid Pečjak,Moški,Ljubljana,1929,87,True,156,35,104,28,1227,294
+3499657,Jerca Vodušek Starič,Ženska,,1950,69,False,7,22,5,13,159,434
+3503544,Lovro Šturm,Moški,Ljubljana,1938,81,False,58,56,99,16,541,673
+3503549,Ferdo Kozak,Moški,Ljubljana,1894,63,True,38,28,305,23,1869,549
+3503598,Jože Mencinger,Moški,Jesenice,1941,78,False,95,80,810,25,2517,495
+3503611,Katja Boh,Ženska,,1929,79,True,48,81,46,17,336,446
+3503904,Miha Marinko,Moški,Trbovlje,1900,82,True,102,85,44,36,668,144
+3504069,Janez Zemljarič,Moški,Bukovci,1928,90,False,279,107,24,38,427,194
+3505192,Marijana Lubej,Ženska,Celje,1945,74,False,10,26,33,49,240,228
+3513069,Matija Bravničar,Moški,,1897,80,True,28,32,314,14,1287,262
+3513259,Ela Peroci,Ženska,Rogaška Slatina,1922,79,True,245,111,386,160,2641,2020
+3513280,Marjan Kozina,Moški,Novo mesto,1907,59,True,341,111,416,161,1452,1402
+3529139,Tina Zajc,Ženska,Ljubljana,1983,36,False,25,41,4,29,51,372
+3531587,Toni Tišlar,Moški,Jesenice,1967,52,False,10,25,44,4,504,156
+3552512,Urša Kragelj,Ženska,Šempeter pri Gorici,1988,31,False,39,41,6,35,100,302
+3555213,Klemen Pisk,Moški,Kranj,1973,46,False,16,28,12,28,654,729
+3559976,Vinci Vogue Anžlovar,Moški,Ljubljana,1963,56,False,79,61,33,19,309,187
+3576328,Zvone Šuvak,Moški,Jesenice,1958,61,False,12,16,17,16,295,156
+3594301,Štefan Škaper,Moški,Beltinci,1966,53,False,28,61,26,42,189,368
+3601119,Mihael Stroj,Moški,"Ljubno, Radovljica",1803,68,True,47,439,19,268,593,1076
+3609484,Aleksander Rajčević,Moški,Koper,1986,32,False,28,96,24,77,157,284
+3610904,Aleš Kačičnik,Moški,Celje,1973,46,False,36,84,2,10,97,170
+3610908,Aleš Križan,Moški,Maribor,1971,48,False,23,71,6,22,126,318
+3610910,Aleš Mejač,Moški,Kranj,1983,36,False,14,38,7,39,177,200
+3611385,Marko Gerbec,Moški,Šentvid pri Stični,1658,59,True,33,101,9,157,330,701
+3611871,Aljaž Struna,Moški,Piran,1990,29,False,177,1150,7,92,173,557
+3612407,Robert Berić,Moški,Krško,1991,28,False,86,2003,17,155,204,1088
+3612458,Christian Gostečnik,Moški,Šmihel nad Mozirjem,1955,64,False,57,32,7,8,185,771
+3612875,Slavko Duščak,Moški,Ljubljana,1974,45,False,24,30,13,8,230,149
+3614365,Amir Ružnič,Moški,Izola,1972,46,False,31,36,3,7,163,277
+3614849,Ana Bucik,Ženska,Nova Gorica,1993,26,False,45,35,16,22,296,372
+3616220,Andrej Urlep,Moški,Ljubljana,1957,62,False,7,243,21,14,243,79
+3616587,Anej Lovrečič,Moški,Koper,1987,32,False,19,57,4,48,98,429
+3617591,Anita Kravos,Ženska,Trst,1974,45,False,16,160,5,11,4816,531
+3619524,Antonio Delamea Mlinar,Moški,Celje,1991,28,False,25,490,4,80,156,388
+3622163,Josip Osti,Moški,Sarajevo,1945,74,False,31,54,243,17,1948,386
+3623371,Anton Bezenšek,Moški,Bezenškovo Bukovje,1854,61,True,33,53,13,78,1503,723
+3640894,Blaž Arnič,Moški,,1901,69,True,22,94,261,20,1363,675
+3642611,Boris Kristančič,Moški,Skopje,1932,83,True,22,57,716,20,2097,457
+3643776,Branko Zupan,Moški,Ljubljana,1964,55,False,105,41,3,5,106,167
+3643898,Bratko Kreft,Moški,Maribor,1905,91,True,165,56,353,46,1901,213
+3678133,Ciril Kotnik,Moški,Ljubljana,1895,52,True,15,99,6,17,328,570
+3699812,Cvetana Dekleva,Ženska,Subotica,1963,56,False,0,21,4,21,116,81
+3701301,Damjan Bohar,Moški,Mačkovci,1991,28,False,18,298,5,71,178,190
+3702759,Darko Bratina,Moški,,1942,55,True,11,57,7,29,706,688
+3703120,David Bunderla,Moški,Kranj,1987,32,False,4,24,3,14,208,310
+3704829,Dejan Djuranović,Moški,Postojna,1968,51,False,27,24,10,28,156,111
+3704833,Dejan Lazarević,Moški,Ljubljana,1990,29,False,38,190,7,79,156,363
+3705454,Denis Selimović,Moški,,1979,40,False,6,34,3,9,136,240
+3710554,Dragan Marušič,Moški,Koper,1953,66,False,35,228,54,44,609,992
+3715115,Dragotin Cvetko,Moški,Vučja vas,1911,81,True,24,61,398,176,2145,1665
+3715784,Dubravka Dačić,Ženska,Koper,1985,34,False,0,54,1,7,47,85
+3716760,Dušan Jelinčič,Moški,Trst,1953,66,False,51,54,30,21,535,420
+3716763,Dušan Kosič,Moški,Ljubljana,1971,48,False,75,102,24,51,208,283
+3717053,Džengis Čavušević,Moški,Ljubljana,1987,31,False,19,109,3,38,132,476
+3720013,Helena Blagne Zaman,Ženska,Jesenice,1963,56,False,1041,325,85,55,1392,357
+3724223,Emil Tahirovič,Moški,,1979,39,False,11,34,9,82,119,278
+3725211,Enej Jelenič,Moški,Koper,1992,26,False,9,149,2,57,166,291
+3731697,Erik Janža,Moški,Maribor,1993,26,False,39,314,5,73,149,244
+3739767,Alenka Bratušek,Ženska,Celje,1970,49,False,674,1041,74,106,1064,1522
+3742788,Feri Lainšček,Moški,Dolenci,1959,60,False,969,131,435,158,2771,1581
+3749279,Franc Frakelj,Moški,Dražgoše,1917,,True,47,69,5,65,153,207
+3773445,Goran Cvijanović,Moški,Šempeter pri Gorici,1986,33,False,21,83,5,91,144,280
+3776473,Gregor Židan,Moški,Ljubljana,1965,54,False,56,148,13,27,69,199
+3792439,Igor Primc,Moški,Novo mesto,1966,53,False,24,50,15,37,134,289
+3804689,Ivan Dolinar,Moški,Škofja Loka,1840,45,True,3,15,8,6,206,452
+3806219,Jaka Blažič,Moški,Jesenice,1990,29,False,125,2327,27,125,458,1097
+3809139,Tadeja Majerič,Ženska,Maribor,1990,29,False,14,100,4,243,1046,1703
+3810362,Josip Ribičič,Moški,,1886,82,True,115,51,88,58,1082,542
+3811380,Jure Balažič,Moški,Ljubljana,1980,39,False,61,255,17,55,305,325
+3812958,Karel Vladimir Truhlar,Moški,,1912,64,True,33,30,16,14,187,456
+3813876,France Adamič,Moški,Spodnje Blato,1911,92,True,9,27,728,13,1002,227
+3815836,Klemen Čebulj,Moški,Slovenj Gradec,1992,27,False,3123,6678,9,24,196,215
+3843583,Maja Erkić,Ženska,Slovenj Gradec,1985,34,False,4,18,1,12,102,98
+3849400,Marjan Kandus,Moški,Maribor,1932,87,False,13,26,5,32,81,242
+3849635,Marko Kravos,Moški,,1943,76,False,102,74,313,116,705,1840
+3849642,Marko Pridigar,Moški,Maribor,1985,34,False,24,47,6,30,185,439
+3851851,Matic Črnic,Moški,,1992,27,False,18,134,16,76,243,352
+3851898,Matjaž Cvikl,Moški,Slovenj Gradec,1967,32,True,17,25,5,19,151,295
+3851901,Matjaž Klopčič,Moški,Ljubljana,1934,73,True,100,72,426,73,2396,440
+3857304,Miha Mevlja,Moški,Ljubljana,1990,29,False,87,1005,4,83,169,711
+3857305,Miha Lokar,Moški,Celje,1935,84,False,8,41,4,25,81,224
+3857851,Milena Usenik,Ženska,Veliki Vrh,1934,85,False,3,7,9,9,184,164
+3857937,Milko Kos,Moški,,1892,79,True,35,60,309,21,1610,354
+3858776,Miran Hrovatin,Moški,Trst,1949,44,True,35,216,3,13,213,500
+3874545,Nemanja Mitrovič,Moški,Ljubljana,1992,27,False,85,374,21,60,113,288
+3878112,Natan Bernot,Moški,Ljubljana,1931,86,True,15,34,7,16,278,179
+3891870,Damjan Zlatnar,Moški,Ljubljana,1977,41,False,8,19,11,32,196,168
+3897779,Patrik Bordon,Moški,Koper,1988,31,False,16,143,4,11,82,386
+3898338,Pavle Merkù,Moški,Trst,1927,87,True,44,44,776,116,4753,502
+3907662,Polona Dornik,Ženska,Trbovlje,1962,56,False,47,36,17,54,144,269
+3914976,Dare Bernot,Moški,Ljubljana,1933,48,True,6,13,7,12,167,164
+3916403,Tomislav Ternar,Moški,Murska Sobota,1990,29,False,3,20,1,39,89,112
+3925174,Tadej Golob,Moški,Maribor,1967,52,False,152,76,41,13,130,372
+3946509,Samir Zulič,Moški,Koper,1966,53,False,38,23,6,21,117,218
+3948120,Sandi Čebular,Moški,Celje,1986,33,False,24,79,8,21,87,293
+3962737,Slavko Kotnik,Moški,Maribor,1962,56,False,58,53,12,11,278,352
+3976459,Suad Beširević,Moški,Ljubljana,1963,56,True,899,4148,2,64,221,572
+3991497,Timotej Dodlek,Moški,Čakovec,1989,29,False,14,74,7,37,126,397
+3997401,Davorin Dolar,Moški,,1921,84,True,6,29,55,82,601,707
+4015884,Vlado Miloševič,Moški,Ljubljana,1968,51,False,24,22,4,13,127,207
+4016064,Vojteh Ravnikar,Moški,Nova Gorica,1943,67,True,48,111,491,330,2547,2467
+4022080,Jani Virk,Moški,Ljubljana,1962,57,False,43,42,465,114,1998,427
+4024808,Zoran Zeljkovič,Moški,Ljubljana,1980,39,False,13,41,5,36,153,209
+4067213,Edvard Antosiewicz,Moški,Ljubljana,1902,57,True,5,33,6,29,106,438
+4069220,Natalija Golob,Ženska,Velenje,1986,32,False,2,15,1,7,86,138
+4116804,Irena Grafenauer,Ženska,Ljubljana,1957,62,False,102,165,1225,129,4911,1666
+4118853,Matija Duh,Moški,Novo mesto,1989,23,True,2,72,2,30,81,142
+4127236,Majda Vrhovnik,Ženska,Ljubljana,1922,23,True,37,108,6,6,121,869
+4164381,Mladen Dolar,Moški,Maribor,1951,68,False,57,638,19,38,160,502
+4171162,Iztok Mlakar,Moški,Postojna,1961,58,False,429,211,368,188,1057,2709
+4180489,Luka Žinko,Moški,Ljubljana,1983,36,False,22,61,7,49,201,692
+4194038,Nika Zorjan,Ženska,Petanjci,1992,26,False,424,348,65,20,798,784
+4219729,Vitomil Zupan,Moški,Ljubljana,1914,73,True,283,211,521,47,3539,1095
+4231808,Nejc Dežman,Moški,Kranj,1992,26,False,15,33,40,28,418,145
+4251404,Jernej iz Loke,Moški,Škofja Loka,1500,,True,19,19,16,22,564,385
+4252387,Andrej Rozman - Roza,Moški,Ljubljana,1955,64,False,392,92,555,125,3688,1856
+4274517,Fran Ramovš,Moški,Ljubljana,1890,62,True,166,78,335,17,1345,593
+4283422,Kristina Brenk,Ženska,Horjul,1911,98,True,263,54,846,24,3096,384
+4305233,Josip Rastko Močnik,Moški,Ljubljana,1944,75,False,39,214,23,32,779,820
+4309430,Boris A. Novak,Moški,Beograd,1953,65,False,828,188,1381,115,6666,1618
+4355186,Hilda Hölzl,Ženska,Beograd,1927,65,True,8,21,291,109,1388,1535
+4355190,Rok Kopitar,Moški,Celje,1959,60,False,24,52,12,39,201,229
+4362099,Andrej Pečnik,Moški,Dravograd,1981,38,False,16,51,6,25,88,175
+4372980,Janez Porenta,Moški,Ljubljana,1896,45,True,12,28,14,34,124,336
+4384835,Nina Pušlar,Ženska,Ivančna Gorica,1988,31,False,578,307,47,15,851,381
+4401157,Simon Rutar,Moški,"Krn, Kobarid",1851,51,True,21,60,23,55,335,1435
+4423164,Klemen Slakonja,Moški,Brežice,1985,34,False,118,799,23,10,859,1501
+4425639,Jože Snoj,Moški,Maribor,1934,85,False,171,55,622,129,3107,1817
+4438434,Danijel Sraka,Moški,Ljubljana,1975,43,False,12,95,7,10,233,441
+4442392,Matej Sternen,Moški,Verd,1870,78,True,82,140,42,59,275,490
+4454564,Anže Lanišek,Moški,Ljubljana,1996,23,False,26,55,19,48,838,251
+4460833,Jože Toporišič,Moški,Mostec,1926,88,True,256,80,956,147,1795,805
+4518395,Primož Čučnik,Moški,Ljubljana,1971,48,False,14,20,322,112,1747,316
+4521873,Matej Šebenik (šahist),Moški,,1983,36,False,10,30,8,13,74,217
+4527507,Luka Šulić,Moški,Maribor,1987,32,False,544,11773,61,48,782,1060
+4559570,Marlenka Stupica,Ženska,Maribor,1927,91,False,72,80,511,115,2319,1668
+4576873,Boštjan Šimunič,Moški,,1974,44,False,7,24,6,18,101,119
+4657024,Janez Matjašič,Moški,Ljubljana,1921,75,True,2,16,4,6,96,162
+4682119,Adem Kapič,Moški,Ljubljana,1975,44,False,7,65,1,20,121,237
+4682622,Adi Smolar,Moški,Slovenj Gradec,1959,60,False,847,314,62,17,436,276
+4712377,Albin Gutman,Moški,,1947,71,False,62,62,851,136,2909,567
+4712384,Albin Prepeluh,Moški,Ljubljana,1881,56,True,8,23,10,18,136,1060
+4712396,Albin Čižman,Moški,Ljubljana,1965,54,False,1,37,5,109,70,654
+4714950,Aleksander Kogoj,Moški,,1965,54,False,18,27,26,9,194,179
+4714953,Aleksander Konjajev,Moški,,1909,85,True,4,17,4,7,242,195
+4715003,Aleksander Čonda,Moški,Trbovlje,1990,29,False,2,18,3,44,106,258
+4715005,Aleksander Zorn,Moški,Maribor,1947,72,False,14,25,203,4,1240,247
+4716096,Alen Jelen,Moški,Maribor,1970,49,False,11,33,8,3,1588,1357
+4716102,Alen Omić,Moški,Tuzla,1992,27,False,61,1132,15,113,317,930
+4716155,Alenka Gerlovič,Ženska,Ljubljana,1919,91,True,39,48,439,231,459,1487
+4716156,Alenka Puhar,Ženska,Črnomelj,1945,74,False,68,70,18,38,437,1278
+4716159,Alenka Sottler,Ženska,Ljubljana,1958,61,False,28,41,355,111,1094,2151
+4721582,Aleš Berger,Moški,Ljubljana,1946,73,False,36,40,549,113,2883,1629
+4721595,Aleš Ušeničnik,Moški,Poljane nad Škofjo Loko,1868,83,True,19,31,82,25,591,281
+4721598,Aleš Čerin,Moški,,1949,70,False,31,125,112,98,526,297
+4721606,Aleš Čar,Moški,Idrija,1971,48,False,19,28,14,5,186,380
+4725613,Aliash Tepina,Moški,Kranj,1981,38,False,28,62,3,5,296,269
+4727604,Aljoša Buha,Moški,Ljubljana,1962,24,True,435,468,5,358,490,801
+4733829,Almir Tanjič,Moški,,1979,40,False,6,18,4,12,111,205
+4734275,Alojz Geržinič,Moški,Ljubljana,1915,92,True,6,63,8,12,757,345
+4734278,Alojz Ajdič,Moški,,1939,80,False,13,157,446,116,2318,1702
+4734280,Alojz Ihan,Moški,Ljubljana,1961,58,False,95,117,332,115,841,1708
+4734283,Alojzij Kuhar,Moški,,1895,63,True,47,34,12,29,323,500
+4738574,Alya,Ženska,Mozirje,1983,36,False,1378,676,75,27,2091,715
+4742449,Amer Jukan,Moški,,1978,40,False,13,41,5,15,103,185
+4750364,Ana Gros,Ženska,Ljubljana,1991,28,False,23,301,3,86,154,333
+4750386,Ana Kobal,Ženska,,1983,35,False,12,16,6,7,89,67
+4754719,Andraž Šporar,Moški,Ljubljana,1994,25,False,153,3757,33,144,144,1025
+4755589,Andrej Perlah,Moški,Svečina,1490,60,True,34,29,22,11,704,216
+4756029,Andrej Benedejčič,Moški,Ljubljana,1970,48,False,18,47,6,11,89,414
+4756038,Andrej E. Skubic,Moški,Ljubljana,1967,51,False,31,60,504,116,1551,1737
+4756045,Andrej Hieng,Moški,Ljubljana,1925,74,True,56,50,450,84,2468,416
+4756051,Andrej Kastelic,Moški,Ljubljana,1971,48,False,12,23,8,6,87,100
+4756052,Andrej Klinar,Moški,Jesenice,1942,69,True,4,20,8,10,108,101
+4756060,Andrej Medved,Moški,Ljubljana,1947,72,False,36,44,332,109,382,399
+4756063,Andrej Poljšak,Moški,Koper,1968,51,False,11,12,3,10,123,130
+4756066,Andrej Razdrh,Moški,Ljubljana,1976,42,False,54,121,19,52,163,227
+4756073,Andrej Zdravič,Moški,Ljubljana,1952,67,False,15,43,295,110,1380,2358
+4756074,Andrej Trobentar,Moški,Šent Jurij,1951,67,False,25,25,17,7,229,257
+4756075,Andrej Vidmar,Moški,Ljubljana,1956,63,False,3,25,17,9,188,87
+4756078,Andrej Šali,Moški,Kranj,1963,56,False,18,255,7,90,326,756
+4756079,Andrej Čadež,Moški,,1942,77,False,47,20,21,18,273,259
+4756084,Andreja Leskovšek,Ženska,Kranj,1965,54,False,13,15,35,40,156,150
+4764490,Anica Černej,Ženska,Čadram,1900,44,True,54,135,23,86,738,440
+4765700,Anja Prša,Ženska,,1994,25,False,6,35,1,11,101,130
+4765709,Anja Valant,Ženska,,1977,42,False,10,45,7,36,163,449
+4765711,Anja Zavadlav,Ženska,,1960,59,False,21,17,10,15,263,69
+4765714,Anja Štefan,Ženska,Šempeter pri Gorici,1969,50,False,165,51,75,19,639,609
+4771098,Ante Trstenjak,Moški,Slamnjak,1894,75,True,14,33,6,60,251,172
+4775702,Tone Cerer,Moški,Kamnik,1916,89,True,3,23,15,13,240,272
+4775703,Anton Cebej,Moški,,1722,51,True,22,31,57,77,381,303
+4775764,Anton Fister,Moški,,1808,73,True,11,62,3,15,348,542
+4775908,Anton Mavretič,Moški,Boldraž,1934,84,False,18,61,9,6,164,200
+4775953,Anton Peterlin,Moški,Ljubljana,1908,84,True,60,74,271,22,1244,450
+4775957,Anton Podobnik,Moški,Idrija,1755,54,True,3,14,110,96,504,563
+4775959,Anton Podbevšek,Moški,Novo mesto,1898,83,True,93,61,137,137,2006,1341
+4775969,Anton Ramovš,Moški,"Dolenja vas, Železniki",1924,86,True,7,38,11,15,375,231
+4776021,Anton Strle,Moški,Osredek,1915,88,True,38,48,68,24,1444,715
+4776041,Anton Trstenjak,Moški,Rodmošci,1906,90,True,128,45,772,11,3914,364
+4776060,Anton Vodnik,Moški,Ljubljana,1901,64,True,35,39,35,22,778,318
+4777963,Anuška Ferligoj,Ženska,,1947,72,False,15,60,8,21,458,317
+4778533,Ančka Gošnik Godec,Ženska,Celje,1927,92,False,74,48,42,14,252,242
+4809738,Andrej Blatnik,Moški,Ljubljana,1963,56,False,37,61,462,114,2803,939
+4828448,Avgust Demšar,Moški,Maribor,1962,57,False,132,48,31,6,730,107
+4828449,Avgust Berthold,Moški,Puštal,1880,39,True,32,39,11,6,1059,1113
+4829449,Avrelija Cencič,Ženska,Maribor,1964,48,True,6,26,2,15,104,518
+4858777,Barbara Brlec,Ženska,Domžale,1972,47,False,6,11,5,8,68,48
+4860319,Primož Kobe,Moški,Novo mesto,1981,38,False,38,30,3,15,90,184
+4863571,Goran Vojnović,Moški,Ljubljana,1980,39,False,167,241,463,118,1299,1765
+4881620,Bekim Kapić,Moški,,1979,40,False,12,27,2,16,134,165
+4889209,Benjamin Savšek,Moški,Ljubljana,1987,32,False,25,72,7,69,289,587
+4889546,Benka Pulko,Ženska,Ptuj,1967,52,False,97,272,39,87,687,1180
+4895406,Berta Bojetu,Ženska,Maribor,1946,51,True,267,72,55,16,688,350
+4895409,Berta Golob,Ženska,Kranj,1932,87,False,58,30,29,8,1880,781
+4895413,Berta Jereb,Ženska,Črneče,1925,,False,9,9,3,12,242,347
+4896138,Simona Škrabec,Ženska,Ljubljana,1968,51,False,29,69,4,17,156,1498
+4913811,Bina Štampe Žmavc,Ženska,,1951,68,False,1668,134,66,85,869,954
+4925675,Blaž Brezovački,Moški,Ljubljana,1987,32,False,8,15,3,12,103,146
+4925677,Blaž Kavčič (politik),Moški,Ljubljana,1951,68,False,36,18,138,13,420,207
+4925679,Blaž Jakopič,Moški,,1945,73,False,2,11,6,10,63,48
+4925682,Blaž Lomovšek,Moški,Ljubljana,1956,62,False,12,20,18,8,227,85
+4925683,Blaž Medvešek,Moški,Maribor,1980,39,False,7,35,7,120,85,931
+4934560,Boban Jović,Moški,Celje,1991,28,False,13,467,1,39,145,316
+4937682,Bogo Grafenauer,Moški,Ljubljana,1916,79,True,48,78,68,38,792,636
+4937702,Bogomir Magajna,Moški,Gornje Vreme,1904,59,True,94,47,41,44,829,686
+4937838,Bogumil Vošnjak,Moški,Celje,1882,76,True,15,31,14,28,310,1000
+4938534,Bojan Accetto,Moški,,1922,84,True,14,20,5,12,204,148
+4938567,Bojan Kraut,Moški,Kamnik,1908,83,True,30,39,9,5,374,275
+4938593,Bojan Prešern,Moški,Jesenice,1962,57,False,4,28,12,17,77,147
+4938598,Bojan Razpet,Moški,Jesenice,1960,59,False,2,19,9,5,76,84
+4938599,Bojan Savnik,Moški,Ljubljana,1914,,False,3,10,5,5,76,62
+4938612,Bojan Zdešar,Moški,Ljubljana,1984,34,False,5,16,5,19,71,115
+4945236,Boris Denič,Moški,,1967,52,False,30,63,21,55,543,224
+4945322,Boris M. Gombač,Moški,,1945,74,False,23,33,7,20,284,419
+4945579,Borka Jerman Blažič,Ženska,Skopje,1947,72,False,14,42,8,8,182,751
+4946837,Borut Javornik,Moški,,1967,52,False,10,7,6,9,71,95
+4946840,Borut Urh,Moški,Ljubljana,1974,45,False,5,92,4,24,172,205
+4952978,Boštjan Burger,Moški,,1966,53,False,7,38,3,13,51,1594
+4952980,Boštjan Buč,Moški,Slovenj Gradec,1980,39,False,17,41,13,38,142,314
+4952984,Boštjan Maček,Moški,,1979,40,False,9,12,9,21,126,142
+4952985,Boštjan Lipovšek,Moški,Celje,1974,45,False,29,48,298,109,1708,535
+4952986,Boštjan M. Zupančič,Moški,Ljubljana,1947,72,False,107,132,39,21,382,1999
+4952988,Boštjan Žitnik,Moški,Ljubljana,1971,48,False,0,25,8,86,75,610
+4953061,Božidar Debenjak,Moški,Ljubljana,1935,84,False,45,168,20,23,812,473
+4953063,Božidar Jakac,Moški,Novo mesto,1899,90,True,247,235,544,170,1951,1819
+4953089,Božo Kos,Moški,Maribor,1931,77,True,63,37,313,115,386,1634
+4957461,Branko Gradišnik,Moški,Ljubljana,1951,68,False,85,60,412,153,2332,1879
+4960103,Breda Pergar,Ženska,Maribor,1953,36,True,70,61,4,41,91,253
+4960105,Breda Smolnikar,Ženska,Herceg Novi,1941,78,False,33,32,74,9,1511,433
+4960130,Mojca Kumerdej,Ženska,Ljubljana,1964,55,False,24,36,298,11,1519,334
+4961451,Brent LaRue,Moški,,1987,32,False,5,59,2,17,83,227
+4969128,Neisha,Ženska,Ljubljana,1982,37,False,113,137,66,20,389,743
+5038599,Borut Plaskan,Moški,Slovenj Gradec,1966,53,False,5,18,1,5,338,76
+5104036,Lojze Zupanc,Moški,Ljubljana,1906,66,True,17,33,92,6,990,487
+5105304,France Avčin,Moški,Ljubljana,1910,73,True,45,129,16,7,1051,360
+5121899,Ciril Bergles,Moški,Repče,1934,79,True,9,31,32,8,278,399
+5121901,Ciril Cvetko,Moški,Vučja vas,1920,79,True,19,25,216,28,1159,222
+5121902,Ciril Praček,Moški,,1913,87,True,5,13,14,7,82,107
+5122359,Cita Potokar,Ženska,Dragatuš,1915,78,True,9,15,6,8,161,308
+5197145,Cvetka Bevc,Ženska,Slovenj Gradec,1960,58,False,34,38,10,7,580,318
+5197146,Cvetka Ahlin,Ženska,Ljubljana,1927,57,True,10,31,2,6,164,218
+5212543,Damijan Stepančič,Moški,Ljubljana,1969,50,False,38,31,71,7,327,510
+5212546,Damijan Šinigoj,Moški,,1964,55,False,206,47,8,4,420,275
+5212573,Damir Botonjič,Moški,Ljubljana,1981,38,False,16,153,3,11,118,392
+5212651,Damjan Gajser,Moški,,1970,49,False,56,41,6,15,126,178
+5212653,Damjan Kozole,Moški,Brežice,1964,55,False,167,111,238,196,1129,1064
+5212655,Damjan Ošlaj,Moški,,1976,43,False,9,13,8,11,91,118
+5216285,Danica Purg,Ženska,"Stogovci, Majšperk",1946,73,False,17,82,718,8,2114,549
+5219531,Danijel Demšar,Moški,Maribor,1954,65,False,28,27,71,9,229,351
+5219647,Danilo Žerjal,Moški,Dutovlje,1919,65,True,7,20,5,39,97,435
+5222757,Darijan Božič,Moški,,1933,85,True,20,58,261,20,1036,825
+5223053,Darja Škrlj,Ženska,Ljubljana,1985,34,False,7,9,2,16,49,89
+5223064,Darjan Petrič,Moški,Kranj,1964,55,False,40,62,17,67,1204,483
+5223731,Darko Djukič,Moški,Ljubljana,1980,39,False,3,38,1,21,110,282
+5223745,Darko Karapetrović,Moški,Ljubljana,1976,43,False,23,22,22,40,195,346
+5232903,David Dedek,Moški,Ljubljana,1971,48,False,5,29,3,9,651,190
+5242096,Davor Mizerit,Moški,Koper,1981,38,False,2,20,12,13,73,152
+5242104,Davorin Savnik,Moški,Kranj,1929,84,True,12,32,293,112,1561,420
+5242106,Davorin Trstenjak,Moški,Kraljevci,1817,72,True,21,59,65,50,399,761
+5242495,Franci Kek,Moški,,1964,55,False,128,50,156,12,760,192
+5242758,Josip Vošnjak,Moški,Šoštanj,1834,77,True,123,31,49,115,1310,918
+5243720,Tone Pavček,Moški,Šentjurij na Dolenjskem,1928,83,True,2918,391,676,170,2348,1312
+5243748,Daša Grm,Ženska,Celje,1991,28,False,11,120,2,109,90,1147
+5248571,Tine Debeljak,Moški,Škofja Loka,1903,85,True,37,19,109,81,1424,320
+5252650,Dejan Bravničar,Moški,Ljubljana,1937,80,True,15,57,447,118,1052,389
+5252651,Dejan Burnik,Moški,Ljubljana,1963,56,False,8,16,12,5,136,85
+5252654,Dejan Djermanović,Moški,Ljubljana,1988,31,False,33,94,2,58,116,375
+5252688,Dejan Prešiček,Moški,Celje,1970,48,False,53,46,10,10,310,624
+5252697,Dejan Stevanovič,Moški,,1976,42,False,6,12,8,17,109,205
+5252701,Dejan Trajkovski,Moški,,1992,27,False,21,95,4,61,142,341
+5252703,Dejan Urbanč,Moški,Brežice,1984,35,False,5,15,2,15,219,116
+5257308,Denis Kadić,Moški,Jesenice,1983,36,False,6,28,10,7,559,740
+5257606,Denis Štojs,Moški,Novo mesto,1978,41,False,6,23,4,66,177,285
+5264651,Janez Bitenc,Moški,Ljubljana,1925,79,True,112,30,988,14,4662,498
+5274861,Diego de Brea,Moški,,1969,50,False,37,87,14,6,348,397
+5277125,Dim Zupan,Moški,Ljubljana,1946,73,False,166,32,99,10,821,536
+5278552,Dino Seremet,Moški,Ljubljana,1980,39,False,18,65,4,18,112,287
+5290041,Domen Pociecha,Moški,,1985,34,False,1,13,7,7,59,165
+5290334,Domine Lomovšek,Moški,Ljubljana,1954,65,False,7,30,23,3,246,94
+5290958,Domen Beršnjak,Moški,Ljubljana,1981,38,False,15,16,3,25,104,260
+5290990,Dominik Smole,Moški,Ljubljana,1929,62,True,111,78,317,30,2076,898
+5304833,Draga Ahačič,Ženska,Črnomelj,1924,95,False,13,42,7,12,255,248
+5304925,Dragan Živadinov,Moški,,1960,59,False,111,92,26,16,668,387
+5304990,Drago Horvat,Moški,Jesenice,1958,61,False,3,42,10,13,97,89
+5304993,Drago Kolar,Moški,Ljubljana,1932,67,True,6,21,8,7,297,762
+5305490,Dragotin Lončar,Moški,Brdo pri Lukovici,1876,77,True,5,21,92,89,381,590
+5317703,Dušan Bavdek,Moški,Kranj,1971,48,False,19,22,9,10,166,264
+5317742,Dušan Pirjevec,Moški,Solkan,1921,56,True,73,93,60,121,957,2055
+5317746,Dušan Repovš,Moški,Ljubljana,1954,64,False,36,58,54,18,636,761
+5317755,Dušan Tuma,Moški,Ljubljana,1943,75,False,6,14,5,5,77,59
+5317761,Dušan Velkaverh,Moški,Georgetown,1943,72,True,183,102,125,9,1785,660
+5317765,Dušan Čater,Moški,Celje,1968,51,False,51,26,24,7,292,346
+5323249,Vlora Beđeti,Ženska,Celje,1991,28,False,4,15,3,22,119,113
+5335014,Ed Kastelic,Moški,Toronto,1964,55,False,8,83,17,30,456,477
+5338099,Edin Osmanović,Moški,,1964,55,False,15,68,84,115,896,1305
+5340138,Edo Marion,Moški,Ljubljana,1910,92,True,0,11,2,13,70,108
+5341369,Edvard Kovač,Moški,Gornja Radgona,1950,68,False,67,57,31,12,359,230
+5348222,Egon Zakrajšek,Moški,Ljubljana,1941,61,True,21,56,11,14,323,397
+5350267,Eka Vogelnik,Ženska,Ljubljana,1946,73,False,24,32,12,13,476,282
+5353084,Primož Ramovš,Moški,Ljubljana,1921,77,True,35,121,501,126,1182,531
+5359261,Eleonore Schoenfeld,Ženska,Maribor,1925,81,True,2,132,1,21,133,398
+5371208,Emil Cesar,Moški,Ljubljana,1927,,False,9,19,10,4,582,772
+5371230,Emil Filipčič,Moški,Beograd,1951,68,False,41,48,329,111,663,1588
+5377242,Enes Rujović,Moški,Ljubljana,1989,30,False,4,40,2,16,264,322
+5389029,Erika Vouk,Ženska,,1941,78,False,10,26,108,9,673,199
+5393686,Ernest Peterlin,Moški,Ljubljana,1903,43,True,111,199,12,70,117,1256
+5396033,Ervin Fritz,Moški,Prebold,1940,79,False,264,29,405,5,1544,463
+5402463,Etbin Henrik Costa,Moški,Novo mesto,1832,42,True,23,44,129,113,1636,734
+5402466,Etbin Kristan,Moški,Ljubljana,1867,86,True,36,73,61,16,589,412
+5418216,Evfemija Štorga,Ženska,,1975,44,False,6,18,5,17,68,105
+5441102,Fedja Marušič,Moški,Solkan,1971,48,False,5,24,13,23,91,225
+5441835,Feliks Suk,Moški,Zgornji Petelinjek,1845,69,True,2,32,44,7,392,246
+5443957,Ferdo Godina,Moški,Dolnja Bistrica,1912,81,True,45,42,113,12,1935,589
+5448513,Filip Robar Dorin,Moški,,1940,79,False,17,33,499,161,2613,579
+5478131,Fran Detela,Moški,Moravče,1850,75,True,35,23,44,56,590,874
+5478142,Fran Gerbič,Moški,Cerknica,1840,76,True,44,54,66,9,428,122
+5478207,Fran Zwitter,Moški,Bela Cerkev,1905,82,True,96,89,91,18,1177,698
+5478214,Franc Cifer,Moški,,1971,48,False,16,24,2,10,123,132
+5478219,Franc Breckerfeld,Moški,Ljubljana,1681,63,True,10,18,11,17,138,280
+5478230,Franc Hočevar,Moški,Metlika,1853,65,True,15,44,719,15,286,205
+5478237,Franc Trkman,Moški,,1903,75,True,10,16,4,5,316,364
+5478238,Franc Žitnik,Moški,Ljubljana,1941,78,False,0,25,5,12,72,218
+5478280,France Forstnerič,Moški,"Pobrežje, Videm",1933,74,True,27,29,392,108,2135,1546
+5478293,France Koblar,Moški,Železniki,1889,85,True,27,19,352,42,1580,416
+5478300,France Križanič,Moški,Maribor,1928,73,True,38,24,23,14,1349,586
+5478307,France Mihelič,Moški,Virmaše,1907,90,True,69,58,1002,20,3299,400
+5478309,France Planina,Moški,Škofja Loka,1901,90,True,13,21,15,7,450,188
+5478312,France Rode,Moški,Nožice,1934,82,True,27,74,6,7,205,1400
+5478314,France Vodnik,Moški,,1903,83,True,7,25,74,12,600,413
+5479793,Franci Slak,Moški,Krško,1953,54,True,37,51,329,127,1614,434
+5482898,Franc Pirc,Moški,Godič,1785,94,True,26,169,134,152,291,2263
+5484742,Frane Adam,Moški,Pivka,1948,70,False,13,40,9,11,313,343
+5484752,Frane Milčinski - Ježek,Moški,Ljubljana,1914,73,True,355,129,432,36,2121,479
+5484801,Franjo Malgaj,Moški,Hruševec,1894,24,True,100,115,15,28,622,753
+5486915,Frank Gorenc,Moški,Ljubljana,1957,62,False,17,494,18,31,550,2677
+5529295,Gašper Marguč,Moški,Celje,1990,29,False,30,172,35,74,1295,268
+5578986,Janez Bleiweis,Moški,Kranj,1808,73,True,191,111,120,112,1239,622
+5584546,Gorazd Kocijančič,Moški,Ljubljana,1964,55,False,172,422,374,120,1937,2766
+5585186,Ivan Bratko,Moški,Ljubljana,1946,73,False,28,125,59,11,530,328
+5606683,Gregor Strniša,Moški,Ljubljana,1930,56,True,415,88,684,125,3007,576
+5606684,Gregor Terdič,Moški,,1977,42,False,3,14,5,11,88,180
+5606686,Gregor Tomc,Moški,,1952,67,False,69,80,26,20,171,704
+5606698,Gregor Šparovec,Moški,,1977,41,False,1,16,4,13,78,154
+5739784,Herman Gvardjančič,Moški,Gorenja vas - Reteče,1943,76,False,45,28,318,113,2580,2500
+5787257,Janko Veber,Moški,Ljubljana,1960,59,False,70,58,365,27,2339,184
+5815191,Tine Hribar,Moški,Goričica pri Ihanu,1941,78,False,59,118,34,38,2068,791
+5921853,Tone Kralj,Moški,Zagorica,1900,75,True,272,97,300,53,1290,255
+5967960,Petra Nareks,Ženska,Žalec,1982,37,False,10,34,14,37,115,201
+5991206,Ifigenija Zagoričnik Simonović,Ženska,Kranj,1953,66,False,96,54,44,8,700,325
+5992778,Ignacij Mrak,Moški,Hotovlja,1810,90,True,11,60,14,44,466,467
+5993479,Igor Majcen (plavalec),Moški,Ljubljana,1969,50,False,20,56,43,78,305,458
+5993630,Igor Pretnar,Moški,Ljubljana,1924,53,True,17,64,261,61,908,451
+5993771,Igor Torkar,Moški,Kostanjevica na Krasu,1913,90,True,80,149,796,44,4872,1064
+5993798,Igor Vidmar,Moški,Ljubljana,1950,68,False,74,69,14,16,826,670
+5993851,Igor Zabel,Moški,Ljubljana,1958,46,True,14,62,35,8,532,326
+6068789,Irena Kazazić,Ženska,Beograd,1972,47,False,7,40,9,22,220,416
+6068885,Irena Žerjal,Ženska,Ricmanje,1940,78,True,16,39,9,11,309,297
+6085047,Ismet Ekmečić,Moški,Velenje,1969,50,False,13,44,26,50,180,300
+6095778,Ivan Ahčin,Moški,Domžale,1897,62,True,6,36,13,15,323,397
+6095976,Ivan Bratko (pisatelj),Moški,Celje,1914,87,True,14,25,73,5,552,273
+6096320,Ivan Grafenauer,Moški,,1880,84,True,37,43,35,14,625,352
+6096709,Ivan Kramberger,Moški,,1936,56,True,546,191,36,46,731,805
+6097001,Ivan Minatti,Moški,Slovenske Konjice,1924,88,True,373,116,626,182,1962,2184
+6097251,Ivan Potrč,Moški,Ptuj,1913,80,True,110,46,303,19,1309,435
+6097421,Ivan Savnik,Moški,"Trebež, Brežice",1879,71,True,14,14,4,4,129,99
+6097772,Ivan Vurnik,Moški,Radovljica,1884,87,True,86,123,347,93,1160,1127
+6097909,Ivan Ščap,Moški,Jesenice,1955,63,False,3,16,10,9,95,105
+6098624,Ive Šubic,Moški,Hotovlja,1922,67,True,41,43,566,265,2306,763
+6099029,Ivka Tavčar,Ženska,Ljubljana,1909,,True,1,17,3,10,56,116
+6099055,Ivo Brnčić,Moški,Sveta Trojica v Slovenskih goricah,1912,31,True,12,51,24,14,1755,549
+6099147,Ivo Petrić,Moški,Ljubljana,1931,87,True,59,128,535,140,4371,1602
+6099204,Ivo Svetina,Moški,Ljubljana,1948,71,False,93,42,382,113,1716,1756
+6099216,Ivo Urbančič,Moški,Robič,1930,85,True,22,76,21,39,568,729
+6099241,Ivo Zorman,Moški,Gora pri Komendi,1926,82,True,163,34,101,26,1037,543
+6101565,Izak Šantej,Moški,,1973,46,False,5,25,3,71,153,577
+6102149,Iztok Geister,Moški,Laško,1945,74,False,19,36,328,108,1679,1509
+6118610,Renata Salecl,Ženska,Slovenj Gradec,1962,57,False,109,673,12,39,893,1137
+6124430,Jaka Železnikar,Moški,Ljubljana,1971,47,False,16,12,6,14,202,429
+6125228,Jakob Aleksič,Moški,Obrež,1897,83,True,3,14,5,4,239,121
+6149660,Jan Pahor,Moški,Koper,1986,33,False,8,14,2,13,97,221
+6150578,Jana S. Rošker,Ženska,Murska Sobota,1960,59,False,44,86,18,19,797,989
+6153730,Janez Aljančič,Moški,Ljubljana,1982,37,False,12,13,3,14,133,151
+6153732,Janez Albreht (igralec),Moški,Ljubljana,1925,87,True,79,54,1009,114,2238,1425
+6153734,Janez Andrejašič,Moški,Ljubljana,1943,76,False,2,11,6,16,70,167
+6153738,Janez Bole,Moški,,1919,87,True,14,23,901,2,3099,250
+6153742,Janez Burger,Moški,Kranj,1965,54,False,36,61,26,18,990,499
+6153744,Janez Bončina - Benč,Moški,Ljubljana,1947,71,False,642,283,139,16,1026,1104
+6153756,Janez J. Švajncer,Moški,Ljubljana,1948,71,False,55,21,117,18,726,393
+6153762,Janez Janež,Moški,Dolsko,1913,77,True,35,41,4,24,943,849
+6153774,Janez Kalan,Moški,"Suha, Škofja Loka",1868,76,True,15,33,70,73,416,674
+6153778,Janez Krstnik Dolnitscher,Moški,Ljubljana,1626,66,True,2,17,106,97,505,565
+6153790,Janez Matičič,Moški,Ljubljana,1926,93,False,21,126,505,122,2354,1549
+6153800,Janez Menart,Moški,Maribor,1929,74,True,525,93,474,32,2817,841
+6153801,Janez Orešnik,Moški,Ljubljana,1935,83,False,24,45,60,21,411,502
+6153809,Janez Pleteršek,Moški,,1960,59,False,2,7,7,5,59,49
+6153815,Janez Ramoveš,Moški,Suša,1965,54,False,16,12,31,3,270,152
+6153823,Janez Stanič,Moški,Ljubljana,1937,59,True,4,17,10,6,192,282
+6153828,Janez Vidic,Moški,Ljubljana,1923,73,True,11,35,307,109,1648,1580
+6153842,Janez Zorko,Moški,Podgorje ob Sevnični,1937,81,False,3,18,6,7,179,159
+6154156,Jani Golob,Moški,Ljubljana,1948,71,False,81,147,543,121,4835,2379
+6154842,Janko Kos,Moški,Ljubljana,1931,88,False,151,52,83,35,833,432
+6154855,Janko Premrl,Moški,Podnanos,1920,22,True,62,86,26,20,1243,927
+6161726,Jasmina Keber,Ženska,,1988,30,False,15,75,1,12,2708,2797
+6172648,Peter Semolič,Moški,Ljubljana,1967,52,False,31,28,315,109,293,1599
+6176776,Jelica Šumič Riha,Ženska,,1958,61,False,1,77,7,19,774,494
+6176814,Jelka Reichman,Ženska,Ljubljana,1939,80,False,191,65,305,11,1088,191
+6176816,Jelka Godec Schmidt,Ženska,Ljubljana,1958,61,False,41,23,24,10,191,301
+6182417,Jernej Abramič,Moški,Nova Gorica,1964,54,False,5,32,8,117,103,656
+6182433,Jernej Župančič Regent,Moški,,1980,39,False,2,11,6,12,261,76
+6182435,Jerneja Perc,Ženska,Celje,1971,38,True,24,39,8,16,164,103
+6250706,Matej Žagar,Moški,Ljubljana,1983,36,False,27,198,4,210,178,919
+6261966,Janez Vertin,Moški,Dobliče,1844,54,True,12,39,8,38,311,497
+6272325,Jonas Žnidaršič,Moški,Novo mesto,1962,57,False,554,152,47,15,662,278
+6279912,Jožef Kalasanc Erberg,Moški,,1771,71,True,29,62,11,43,716,491
+6290870,Josip Globevnik,Moški,Ljubljana,1945,73,False,13,40,12,13,262,264
+6290897,Josip Lipokatić,Moški,Maribor,1921,,False,0,18,2,6,71,127
+6290937,Jožef Potočnik,Moški,Kropa,1753,55,True,6,16,111,96,986,562
+6290950,Josip Srebrnič,Moški,Solkan,1876,90,True,2,30,12,86,348,499
+6297802,Theodor Illek,Moški,Kranj,1984,35,False,7,22,4,3,1205,609
+6298581,Jože Benko,Moški,Murska Sobota,1980,39,False,6,16,4,30,80,171
+6298584,Jože Brodnik,Moški,,1936,83,False,18,15,4,16,58,188
+6298590,Jože Gazvoda,Moški,,1949,70,False,3,7,5,8,62,48
+6298592,Jože Ilija,Moški,Jesenice,1928,55,True,3,12,6,16,65,216
+6298601,Jože Pahor,Moški,Sežana,1888,76,True,11,21,93,81,343,337
+6298605,Jože Privšek,Moški,Ljubljana,1937,61,True,131,203,423,159,1983,1686
+6298607,Jože Vidmar,Moški,Ljubljana,1963,56,False,5,12,10,83,59,587
+6298611,Jožef Kerec,Moški,Prosečka vas,1892,81,True,7,15,5,56,170,475
+6301117,Juan Vasle,Moški,Buenos Aires,1954,65,False,20,26,7,6,431,588
+6315008,Jure Dolenec,Moški,Ljubljana,1988,30,False,56,301,45,75,326,269
+6315011,Jure Godler,Moški,Brežice,1984,35,False,295,87,26,11,501,171
+6315016,Jure Ivanušič,Moški,Maribor,1973,46,False,122,73,70,12,717,691
+6315163,Jurij Moškon,Moški,Novo mesto,1973,46,False,11,27,14,148,358,854
+6321064,Jožef Baša Miroslav,Moški,Beltinci,1894,21,True,9,124,13,9,135,150
+6321107,József Györkös,Moški,,1961,58,False,36,23,60,4,678,554
+6358043,Kamila Volčanšek,Ženska,Brežice,1950,69,False,12,19,10,11,407,257
+6369316,Karel Klančnik,Moški,Mojstrana,1917,92,True,1,9,8,14,146,209
+6369331,Karel Lavrič,Moški,Prem,1818,57,True,13,22,59,139,251,1258
+6372531,Karlo Hmeljak,Moški,,1983,36,False,8,22,30,74,133,490
+6372745,Karmen Mar,Ženska,,1987,32,False,6,33,5,7,193,208
+6373036,Karol Grossmann,Moški,Drakovci,1864,64,True,38,76,11,70,190,243
+6373315,Karpo Godina,Moški,Skopje,1943,76,False,94,131,608,139,2419,1601
+6375163,Katarina Majerhold,Ženska,Celje,1971,48,False,11,26,1,8,882,1376
+6375165,Katarina Marinčič,Ženska,Ljubljana,1968,51,False,18,25,37,9,325,286
+6377663,Katja Špur,Ženska,"Krapje, Ljutomer",1908,83,True,18,25,17,9,401,227
+6383312,Peter Eržen,Moški,Kranj,1941,77,False,9,8,8,11,118,127
+6420446,Klemen Bergant,Moški,Ljubljana,1966,53,False,14,11,5,9,92,55
+6420450,Klemen Klemen,Moški,Ljubljana,1975,44,False,214,128,24,18,101,204
+6420456,Klemen Prepelič,Moški,Maribor,1992,27,False,280,2547,20,76,326,747
+6420477,Klement Jug,Moški,Solkan,1898,25,True,90,53,30,83,401,839
+6433557,Kostja Gatnik,Moški,Ljubljana,1945,74,False,36,27,312,8,972,189
+6440769,Ksenja Povh,Ženska,Novo mesto,1987,32,False,2,26,2,4,138,154
+6469686,Ladislav Lipič,Moški,,1951,67,False,36,41,35,18,517,247
+6469779,Lado Kralj,Moški,Slovenj Gradec,1938,81,False,19,23,26,34,606,454
+6470851,Polona Juh,Ženska,Ljubljana,1971,48,False,170,141,453,117,2601,695
+6481872,Lamin Diallo,Moški,Ljubljana,1991,27,False,10,55,2,12,240,225
+6502816,Lavra Babič,Ženska,"Brezje, Novo mesto",1987,32,False,7,12,6,17,78,112
+6520687,Lela B. Njatin,Ženska,Ljubljana,1963,56,False,24,33,16,14,778,483
+6523085,Lenore Aubert,Ženska,Celje,1918,75,True,7,963,2,29,256,779
+6527063,Leopold Suhodolčan,Moški,Žiri,1928,51,True,598,92,108,38,1652,764
+6543691,Lidija Osterc,Ženska,,1928,78,True,7,11,16,9,108,178
+6547486,Lilijana Praprotnik Zupančič,Ženska,Celje,1955,64,False,83,111,327,114,1415,1641
+6591775,Slavko Šlander,Moški,"Dolenja vas, Prebold",1909,32,True,50,49,20,8,621,161
+6594028,Tomaž Hren,Moški,Ljubljana,1560,69,True,166,55,74,20,238,418
+6660962,Ljubo Sirc,Moški,Kranj,1920,96,True,41,103,35,39,804,811
+6668477,Lojze Krakar,Moški,Semič,1926,69,True,263,75,553,183,1814,1699
+6668480,Lojze Logar,Moški,Mežica,1944,70,True,33,44,321,117,1887,1389
+6668481,Lojze Slak,Moški,Jordankal,1932,79,True,756,253,751,52,2979,551
+6668485,Lojze Ude starejši,Moški,"Križe, Tržič",1896,85,True,14,23,14,29,374,199
+6692693,Lovro Toman,Moški,Kamna Gorica,1827,43,True,58,59,94,81,565,700
+6695785,Luc Menaše,Moški,Šentlambert,1925,77,True,13,16,12,7,199,221
+6697198,Lucija Mori,Ženska,Dravograd,1988,31,False,1,23,2,8,141,232
+6699134,Ludvik Toplak,Moški,"Mostje, Juršinci",1942,77,False,107,63,158,10,884,453
+6701595,Luka Božič,Moški,Šempeter pri Gorici,1991,28,False,78,187,8,105,142,802
+6701619,Luka Novak,Moški,Koper,1963,56,False,87,87,10,6,624,1190
+6701642,Luka Svetec,Moški,Podgorje,1826,94,True,31,33,17,19,401,514
+6701646,Luka Vidmar,Moški,Ljubljana,1986,33,False,6,40,12,18,469,633
+6737372,Maja Vidmar,Ženska,Nova Gorica,1961,58,False,43,38,313,10,333,257
+6737458,Majda Koren,Ženska,Ljubljana,1960,59,False,43,25,81,7,727,459
+6740102,Maks Gregorič,Moški,Ljubljana,1985,34,False,4,25,2,37,45,274
+6740267,Maksim Sedej,Moški,,1909,64,True,16,49,270,35,967,392
+6747195,Manca Marcelan,Ženska,Ljubljana,1995,24,False,4,25,1,14,168,315
+6750320,Manja Benak,Ženska,,1989,30,False,6,30,1,10,83,161
+6750322,Manja Rogan,Ženska,Murska Sobota,1995,24,False,7,28,1,12,98,151
+6757880,Marcos Luis Jerman,Moški,San Carlos de Bariloche,1957,62,False,6,30,6,13,320,313
+6763312,Marij Pregelj,Moški,Kranj,1913,53,True,36,77,287,84,1246,535
+6763317,Marija Makarovič,Ženska,Ljubljana,1930,89,False,12,16,21,10,903,252
+6763318,Marija Lucija Stupica,Ženska,Ljubljana,1950,51,True,114,77,316,116,2524,1523
+6763351,Marijan Majo Prosen,Moški,Brežice,1937,82,False,19,17,19,8,1794,110
+6763733,Marin Medak,Moški,Koper,1987,32,False,22,23,0,4,659,789
+6766159,Marijan Amalietti,Moški,Ormož,1923,64,True,22,24,10,7,278,304
+6766165,Marjan Manček,Moški,Novo mesto,1948,71,False,165,41,96,6,1160,164
+6766168,Marjan Pengov,Moški,Ljubljana,1913,,False,13,17,4,11,61,108
+6766172,Marjan Strojan,Moški,,1949,70,False,55,31,352,109,533,1580
+6766185,Marjanca Jemec Božič,Ženska,Maribor,1928,,False,42,34,27,10,292,181
+6771124,Marko Bezjak,Moški,Ptuj,1986,33,False,75,130,43,70,622,317
+6771133,Marko Božič,Moški,Koper,1984,35,False,2,17,1,17,198,337
+6771137,Marko Godina,Moški,Ljubljana,1943,42,True,44,116,5,11,182,312
+6771155,Marko Klasinc,Moški,,1951,68,False,17,21,6,9,392,201
+6771169,Marko Lihteneker,Moški,,1959,45,True,35,547,3,9,53,225
+6771203,Marko Modic,Moški,Ljubljana,1958,61,False,30,50,9,14,1184,1394
+6771221,Marko Oštir,Moški,,1977,42,False,3,10,7,15,56,172
+6771232,Marko Petkovšek,Moški,Ljubljana,1955,64,False,9,75,8,30,146,187
+6771245,Marko Račič,Moški,Adlešiči,1920,,False,18,28,5,27,81,697
+6771271,Marko Tkalec,Moški,Maribor,1977,42,False,4,40,3,24,376,296
+6774959,Martin Bauzer,Moški,Selo,1595,73,True,7,26,53,76,241,497
+6776190,Martin Milec,Moški,Maribor,1991,28,False,30,191,24,74,149,630
+6776409,Martin Pregelj,Moški,Koper,1977,42,False,11,31,3,10,70,95
+6786333,Mate Dolenc,Moški,Ljubljana,1945,74,False,81,53,393,115,2235,1904
+6786388,Matej Andraž Vogrinčič,Moški,,1970,49,False,12,42,4,17,169,824
+6786390,Matej Gaber,Moški,Kranj,1991,28,False,28,163,43,61,812,334
+6786414,Matej Prelog,Moški,Maribor,1980,39,False,3,23,19,15,225,151
+6786419,Mateja Zver,Ženska,,1988,31,False,27,184,5,30,161,387
+6786420,Mateja Šimic,Ženska,Ljubljana,1980,39,False,7,24,5,18,61,133
+6786715,Matevž Skok,Moški,Celje,1986,33,False,27,126,32,55,520,275
+6786717,Matevž Kos,Moški,Ljubljana,1966,53,False,19,6,36,8,409,284
+6787462,Matija Jama,Moški,Ljubljana,1872,75,True,101,115,46,26,440,565
+6787467,Matija Kranjc,Moški,Ljubljana,1984,35,False,15,41,8,37,77,318
+6787474,Matija Škerbec,Moški,Podcerkev,1886,76,True,2,31,8,42,141,900
+6787629,Matjaž Koželj,Moški,Maribor,1970,49,False,10,11,10,16,102,113
+6787634,Matjaž Markič,Moški,,1983,36,False,21,36,8,54,95,227
+6787635,Matjaž Schmidt,Moški,Ljubljana,1948,62,True,20,16,80,9,408,187
+6787638,Matjaž Šinkovec (diplomat),Moški,Ljubljana,1951,68,False,39,40,14,16,298,736
+6812930,Melita Vovk,Ženska,Bled,1928,,False,18,32,16,9,409,509
+6822300,Meta Kušar,Ženska,Ljubljana,1952,67,False,12,21,50,8,296,250
+6822309,Meta Vidmar,Ženska,Ljubljana,1899,76,True,30,50,17,11,145,426
+6824164,Metka Sparavec,Ženska,Maribor,1978,40,False,23,25,33,44,179,247
+6824191,Metod Gabršček,Moški,Ljubljana,1900,,True,3,4,4,5,75,60
+6827180,Mia Žnidarič,Ženska,,1962,56,False,23,39,27,13,346,342
+6844980,Miha Krek,Moški,Leskovica,1897,72,True,49,82,22,31,363,808
+6844985,Miha Likar,Moški,Ljubljana,1923,86,True,10,17,7,7,183,302
+6844987,Miha Remec,Moški,Ptuj,1922,97,False,30,59,32,41,957,284
+6844988,Miha Šporar,Moški,,1972,47,False,30,137,4,7,118,201
+6844992,Miha Pirih,Moški,Jesenice,1978,41,False,25,25,12,12,75,46
+6844996,Mihael Ambrož,Moški,Ljubljana,1808,56,True,5,16,112,97,538,74
+6845008,Mihael Vončina,Moški,,1969,50,False,6,12,3,10,114,104
+6845211,Mihajlo Rostohar,Moški,Brege,1878,88,True,113,58,179,24,1373,1532
+6845366,Miháo Gaber,Moški,Dolnji Slaveči,1753,62,True,9,15,19,62,161,376
+6850008,Miklavž Komelj,Moški,Kranj,1973,46,False,116,50,485,114,2797,1533
+6850494,Milan Apih,Moški,Celje,1906,85,True,58,61,14,8,322,461
+6850497,Milan Arnejčič,Moški,Maribor,1942,77,False,12,56,4,8,73,475
+6850658,Milan Pogačnik,Moški,Celje,1946,73,False,24,55,1065,118,591,2231
+6850722,Milan Zadel,Moški,Ljubljana,1930,89,False,2,6,3,9,106,137
+6851250,Milena Mileva Blažić,Ženska,,1956,63,False,78,34,34,11,1147,855
+6857925,Miša Lajovic,Moški,Ljubljana,1921,86,True,3,37,6,31,152,236
+6860476,Miloš Krofta,Moški,Ljubljana,1912,90,True,1,42,3,4,225,414
+6860635,Miloš Mikeln,Moški,Celje,1930,83,True,30,38,765,81,2735,831
+6872763,Miran Hladnik,Moški,Jesenice,1954,64,False,111,67,107,46,699,606
+6872769,Miran Ravter,Moški,Velenje,1972,47,False,3,7,3,6,72,90
+6872771,Miran Srebrnič,Moški,,1970,49,False,24,54,7,19,118,184
+6872837,Miranda Rumina,Ženska,Celje,1959,60,False,30,41,2,19,775,620
+6873683,Mirko Javornik,Moški,Cerknica,1909,76,True,13,31,11,2,329,437
+6873690,Mirko Koršič,Moški,Ljubljana,1914,67,True,3,11,11,12,610,124
+6873746,Mirko Vindiš,Moški,Ptuj,1963,55,False,22,45,10,58,90,421
+6873822,Miro Steržaj,Moški,,1933,86,False,16,20,16,66,1190,405
+6873983,Miroslav Košuta,Moški,,1936,83,False,372,62,570,116,3014,1449
+6874120,Miroslav Zei,Moški,,1914,92,True,50,29,15,9,542,444
+6881793,Mitja Saje,Moški,Ljubljana,1947,72,False,41,37,12,11,658,786
+6885327,Miša Molk,Ženska,Vrhnika,1954,65,False,245,150,48,30,470,569
+6895026,Mojca Dežman,Ženska,Kranj,1967,52,False,11,10,7,11,72,57
+6895030,Mojca Osojnik,Ženska,Kranj,1970,49,False,9,19,70,7,387,310
+6895055,Mojca Sagmeister,Ženska,Slovenj Gradec,1996,23,False,5,24,4,18,93,164
+6899845,Moni Kovačič,Ženska,,1960,59,False,203,266,16,13,852,292
+6943241,Mustafa Bešić,Moški,,1961,58,False,10,47,17,11,357,89
+6957082,Nace Majcen,Moški,Ljubljana,1968,51,False,4,28,8,35,70,219
+6957390,Nada Mali,Ženska,,1979,40,False,4,12,7,7,85,84
+6959430,Romina Stefancic,Ženska,Ljubljana,1978,41,False,3,13,3,15,71,169
+6960157,Tomaž Pirih,Moški,Jesenice,1981,38,False,3,13,11,14,91,115
+6960179,Rok Kolander,Moški,Maribor,1980,39,False,4,22,15,16,286,77
+6960377,Tomaž Pisanski,Moški,Ljubljana,1949,70,False,29,195,60,69,162,889
+6960456,Teja Melink,Ženska,,1980,39,False,6,22,7,20,64,190
+6960645,Miki Muster,Moški,Murska Sobota,1925,92,True,263,175,276,34,1163,874
+6960669,Janez Gradišnik,Moški,"Stražišče, Ravne na Koroškem",1917,91,True,39,53,547,120,2719,1774
+6960751,Pavel Golia,Moški,Trebnje,1887,72,True,79,46,101,152,1280,766
+6961002,Rok Roj,Moški,Maribor,1986,33,False,4,142,6,28,59,330
+6961248,Urša Bežan,Ženska,Kranj,1994,25,False,1,11,4,17,85,83
+6961472,Slavko Fras,Moški,Maribor,1928,81,True,5,15,5,5,153,281
+6962409,Rok Rozman,Moški,Kranj,1988,31,False,66,95,11,11,253,45
+6962433,Renata Strašek,Ženska,Celje,1972,47,False,17,21,8,15,69,111
+6967718,Nastja Kolar,Ženska,Celje,1994,25,False,18,199,4,209,438,1133
+6968536,Nataša Kejžar,Ženska,Jesenice,1976,43,False,22,48,15,28,52,328
+6968538,Nataša Lačen,Ženska,,1971,47,False,16,52,8,18,157,114
+6985367,Neca Falk,Ženska,Maribor,1950,69,False,694,344,51,12,450,469
+6989757,Nejc Vidmar,Moški,Ljubljana,1989,30,False,96,371,18,48,171,230
+6989970,Neli Kodrič,Ženska,Postojna,1964,55,False,135,23,72,9,791,276
+7021704,Neža Maurer,Ženska,Podvin pri Polzeli,1930,88,False,145,56,112,13,1551,496
+7034644,Nik Omladič,Moški,Celje,1989,30,False,15,169,6,71,149,554
+7034657,Nik Razboršek,Moški,Ljubljana,1993,26,False,12,31,1,57,86,705
+7034687,Nika Barič,Ženska,Trbovlje,1992,27,False,20,144,3,65,149,251
+7070333,Nuša Šenk,Ženska,Kranj,1981,38,False,18,67,2,8,394,780
+7086723,Olga Šikovec,Ženska,Trbovlje,1933,86,False,0,36,7,39,115,471
+7106909,Oskar Drobne,Moški,Celje,1975,44,False,31,60,5,28,196,304
+7106923,Oskar Kogoj,Moški,Miren,1942,76,False,98,86,313,129,1554,1661
+7108908,Oto Pustoslemšek,Moški,Mežica,1943,76,False,3,10,4,7,69,49
+7111536,Kristina Erman,Ženska,Ljubljana,1993,26,False,10,84,1,17,111,165
+7145603,Patricia Gleščič,Ženska,Ljubljana,1994,25,False,6,30,1,43,83,314
+7154694,Pavla Gruden,Ženska,Ljubljana,1921,92,True,9,45,6,21,279,473
+7155614,Pavel Grošelj,Moški,Ljubljana,1883,56,True,8,19,12,9,396,650
+7155673,Pavle Kunaver,Moški,Ljubljana,1889,98,True,31,41,30,10,1356,384
+7171754,Petar Stojanović,Moški,Ljubljana,1995,24,False,179,2348,10,94,162,802
+7172536,Peter Andrej,Moški,,1959,60,False,8,38,10,18,296,343
+7172922,Peter Božič,Moški,Bled,1932,76,True,70,41,1168,120,3933,1819
+7174438,Peter Guzelj,Moški,Ljubljana,1949,70,False,7,9,6,5,74,55
+7175238,Peter Klemenc,Moški,Jesenice,1956,63,False,1,6,8,7,106,76
+7175273,Peter Kovačič Peršin,Moški,,1945,74,False,23,24,25,7,216,234
+7175333,Peter Lakota,Moški,Slovenski Javornik,1937,81,False,6,17,6,8,75,50
+7176017,Peter Musevski,Moški,Ljubljana,1965,54,False,85,61,316,116,1534,181
+7176329,Peter Pavel Glavar,Moški,Ljubljana,1721,62,True,85,44,26,50,564,653
+7176414,Peter Poles,Moški,Slovenj Gradec,1978,41,False,292,182,52,26,243,464
+7176573,Peter Rezman,Moški,Celje,1956,63,False,16,19,6,3,415,374
+7177507,Peter Vodopivec,Moški,Beograd,1946,73,False,34,49,18,21,617,430
+7177974,Peter Štih,Moški,,1960,58,False,39,55,42,38,803,638
+7196383,Pino Mlakar,Moški,Novo mesto,1907,99,True,224,105,954,20,2993,223
+7209226,Polde Bibič,Moški,Maribor,1933,79,True,526,326,1152,133,2694,772
+7225928,Polonca Kovač,Ženska,Ljubljana,1937,82,False,256,48,99,6,999,486
+7243653,Primož Jakopin,Moški,Ljubljana,1949,70,False,14,43,21,19,293,2159
+7243658,Primož Kozak,Moški,Ljubljana,1929,52,True,40,28,607,124,2388,573
+7281498,Rado L. Lenček,Moški,Mirna,1921,83,True,7,45,753,51,2300,584
+7282009,Rafael Ajlec,Moški,Mokronog,1915,62,True,7,15,3,49,236,221
+7286274,Rajko Pavlovec,Moški,Ljubljana,1932,81,True,0,24,11,12,634,187
+7286275,Rajko Perušek,Moški,Ljubljana,1854,63,True,3,15,9,4,250,262
+7312918,Rene Maurin,Moški,Maribor,1971,48,False,13,34,3,9,447,860
+7346888,Robert Lešnik,Moški,Limbuš,1971,48,False,110,1012,3,17,208,270
+7348868,Robert Pevnik,Moški,Celje,1969,50,False,29,50,21,34,197,162
+7350626,Robert Volk,Moški,,1965,54,False,13,171,2,11,95,143
+7351480,Robert Žan,Moški,,1967,52,False,9,11,7,10,59,92
+7351482,Robert Žbogar,Moški,Kranj,1989,30,False,1,20,4,43,59,142
+7359947,Rok Golob,Moški,Ljubljana,1975,44,False,101,65,78,17,339,355
+7362070,Roman Lešek,Moški,Celje,1937,82,False,20,18,6,26,369,233
+7375523,Roža Piščanec,Ženska,Lovrenc na Dravskem polju,1923,83,True,6,26,14,8,363,180
+7376978,Rudi Španzel,Moški,,1948,70,False,22,48,291,114,1530,1525
+7377282,Rudolf Pečjak,Moški,"Hinje, Žužemberk",1891,49,True,10,10,12,4,604,381
+7398588,Safet Hadžić,Moški,Ljubljana,1968,50,False,156,403,30,54,242,268
+7409881,Samo Resnik,Moški,,1962,49,True,3,18,5,3,273,342
+7416317,Sandi Valentinčič,Moški,,1967,52,False,13,43,4,17,135,239
+7428256,Savin Sever,Moški,Krško,1927,75,True,31,44,586,111,3124,1630
+7429511,Saša Tabaković,Moški,,1981,38,False,59,42,10,8,424,388
+7429515,Saša Vegri,Ženska,Beograd,1934,76,True,576,82,93,12,764,308
+7429529,Sašo Taljat,Moški,Šempeter pri Gorici,1989,30,False,14,28,6,91,236,665
+7442458,Sebastijan Krelj,Moški,Vipava,1538,30,True,420,142,37,269,628,450
+7442614,Sebastijan Pregelj,Moški,Ljubljana,1970,49,False,92,46,14,14,566,558
+7442707,Sebastjan Gobec,Moški,Celje,1979,39,False,30,107,5,26,127,334
+7454162,Sergij Vilfan,Moški,Trst,1919,76,True,19,35,11,19,144,638
+7519003,Simon Hočevar,Moški,Ljubljana,1974,45,False,20,45,14,100,129,636
+7539402,Slaviša Dvorančič,Moški,Brežice,1979,40,False,9,15,5,13,200,179
+7539427,Slavko Avsenik mlajši,Moški,Ljubljana,1958,61,False,51,43,253,45,1158,409
+7539455,Slavko Pregl,Moški,Ljubljana,1945,74,False,2009,202,295,18,2022,441
+7544774,Smiljan Rozman,Moški,Celje,1927,80,True,36,48,387,108,2432,1693
+7547708,Snežana Maleševič,Ženska,,1985,33,False,0,14,0,9,88,123
+7561907,Sonja Merljak Zdovc,Ženska,,1972,46,False,56,23,9,7,319,638
+7578936,Spomenka Hribar,Ženska,Beograd,1941,78,False,103,123,23,66,713,1830
+7585772,Srečko Brodar,Moški,Ljubljana,1893,93,True,84,58,277,22,1520,476
+7597846,Stanley Reddick,Moški,Toronto,1969,49,False,12,90,18,11,318,395
+7599014,Stanislav Komočar,Moški,Postojna,1967,52,False,161,125,3,9,88,218
+7599082,Stanislava Brezovar,Ženska,Zagorje ob Savi,1937,66,True,22,189,14,12,104,230
+7599368,Stanko Kotnik,Moški,Maribor,1928,76,True,11,16,720,7,309,243
+7599638,Stanley Gorenc,Moški,Brezovica pri Trebelnem,1953,66,False,7,83,17,6,598,1154
+7618395,Stojan Plešinac,Moški,Postojna,1960,59,False,13,17,3,5,127,136
+7650696,Suzana Bricelj,Ženska,Ljubljana,1971,48,False,9,32,61,6,373,404
+7680789,Tamara Griesser Pečar,Ženska,Ljubljana,1947,72,False,41,35,20,18,445,510
+7683357,Tanja Godina,Ženska,Maribor,1970,49,False,10,16,4,17,62,104
+7683370,Tanja Vrabel,Ženska,,1990,28,False,0,21,0,14,101,128
+7683374,Tanja Šmid,Ženska,Kranj,1990,29,False,27,23,9,32,398,155
+7695178,Teja Černe,Ženska,Koper,1984,35,False,7,18,7,20,62,170
+7700992,Teo Spiller,Moški,Ljubljana,1965,53,False,5,83,2,23,1229,1043
+7807818,Tin Vodopivec,Moški,Brežice,1982,37,False,115,94,3,9,133,372
+7807943,Tina Mrak,Ženska,Koper,1988,31,False,12,40,7,31,196,264
+7808017,Tinca Stegovec,Ženska,"Planina, Semič",1927,91,True,13,26,449,110,1435,1639
+7808071,Tine Logar,Moški,Horjul,1916,86,True,35,58,30,27,386,265
+7810590,Tjaša Oder,Ženska,Slovenj Gradec,1994,25,False,16,61,4,48,66,163
+7810596,Tjaša Tibaut,Ženska,Murska Sobota,1989,30,False,2,40,1,16,87,153
+7810598,Tjaša Vozel,Ženska,Trbovlje,1994,25,False,53,65,6,41,66,118
+7818585,Tomaž Jemc,Moški,Bled,1964,55,False,11,12,14,5,89,49
+7818586,Tomaž Marušič,Moški,,1932,78,True,15,22,36,85,254,429
+7818590,Tomaž Tomšič,Moški,Postojna,1972,47,False,19,21,7,9,87,101
+7820078,Tomo Virk,Moški,Ljubljana,1960,59,False,60,27,49,7,371,380
+7820833,Tone Hočevar (kanuist),Moški,Ljubljana,1951,68,False,3,10,4,6,69,60
+7820843,Tone Perčič,Moški,Ljubljana,1954,64,False,16,20,36,4,364,262
+7820844,Tone Partljič,Moški,Maribor,1940,79,False,675,110,1031,121,4898,1821
+7820847,Tone Peršak,Moški,Ločki Vrh,1947,72,False,38,27,225,7,1076,308
+7820849,Tone Pogačnik,Moški,,1919,94,True,5,17,14,14,141,357
+7820867,Tone Čufar,Moški,Jesenice,1905,36,True,48,53,52,48,884,754
+7829404,Toussaint Hočevar,Moški,Ljubljana,1927,59,True,5,28,6,17,308,466
+7844745,Rok Trkaj,Moški,Ljubljana,1984,35,False,192,72,38,25,827,449
+7901070,Uroš Bundalo,Moški,Ljubljana,1989,30,False,21,30,20,28,421,208
+7901073,Uroš Kodelja,Moški,Nova Gorica,1974,45,False,13,21,10,13,69,159
+7901082,Uroš Seljak,Moški,Nova Gorica,1966,53,False,72,122,26,22,546,346
+7901089,Uroš Zupan,Moški,Trbovlje,1963,56,False,29,27,458,114,2845,1631
+7916849,Vasko Simoniti,Moški,,1951,68,False,61,36,74,28,788,650
+7919028,Velimir Varga,Moški,Ljubljana,1980,39,False,9,26,7,8,98,142
+7923253,Vesna Lemaić,Ženska,,1981,38,False,34,20,8,6,501,379
+7923257,Vesna Mitrovič,Ženska,,1990,28,False,0,3,0,3,78,147
+7927629,Majda Peterlin,Ženska,Šentrupert,1925,60,True,20,26,73,42,845,499
+7927639,Vida Jeraj Hribar,Ženska,Dunaj,1902,100,True,28,10,95,7,509,268
+7930202,Vili Ameršek,Moški,Trbovlje,1948,71,False,46,101,8,22,92,262
+7932612,Vinko Möderndorfer,Moški,Celje,1958,61,False,838,143,586,125,2443,2198
+7936721,Vital Ahačič,Moški,,1933,61,True,16,15,5,6,546,84
+7936988,Vitan Mal,Moški,Ljubljana,1946,73,False,238,63,18,6,646,812
+7937183,Vito Žuraj,Moški,Maribor,1979,40,False,16,123,293,116,132,1532
+7938266,Vladimir Batagelj,Moški,Idrija,1948,71,False,25,201,10,25,142,680
+7938760,Vladimir Šubic,Moški,Ljubljana,1894,52,True,46,76,19,21,269,552
+7938949,Vlado Badžim,Moški,Koper,1964,55,False,35,47,3,18,298,264
+7938950,Vlado Brinovec,Moški,Kranj,1937,69,True,5,19,3,23,209,203
+7938974,Vlado Žabot,Moški,Šafarsko,1958,61,False,36,32,326,122,1671,1571
+7939030,Vlasta Zorko,Ženska,Maribor,1934,85,False,15,14,62,6,769,203
+7939831,Vojislav Simeunović,Moški,,1942,77,False,17,32,13,29,244,179
+7939843,Vojko Lajovec,Moški,Ljubljana,1962,57,False,3,16,11,5,149,78
+7940551,Volodja Balžalorsky,Moški,,1956,63,False,9,28,5,10,82,526
+8061483,Jurij Bradač,Moški,Maribor,1973,46,False,27,287,3,8,275,405
+8067921,Zdenka Badovinac,Ženska,Ljubljana,1958,61,False,15,97,21,15,319,594
+8067929,Zdenka Žebre,Ženska,Ljubljana,1920,,False,8,39,12,13,380,320
+8073017,Zlatko Šugman,Moški,Gorišnica,1932,76,True,241,59,1314,119,6747,1606
+8074307,Zora Tavčar,Ženska,Loka pri Zidanem Mostu,1928,91,False,27,45,25,14,576,313
+8074344,Zoran Hočevar,Moški,Metlika,1944,74,False,16,16,36,8,353,169
+8074348,Zoran Jerin,Moški,Celje,1925,79,True,6,20,12,5,207,162
+8074357,Zoran Jovičič,Moški,Tuzla,1975,43,False,14,19,6,9,87,100
+8074393,Zoran Rant,Moški,Ljubljana,1904,67,True,56,145,21,11,4224,172
+8074481,Zorko Prelovec,Moški,Idrija,1887,52,True,9,143,47,14,202,205
+8075519,Zvezdan Martič,Moški,Celje,1963,56,False,25,58,7,11,258,358
+8075572,Zvonimir Ciglič,Moški,,1921,84,True,8,14,13,3,574,253
+8075592,Zvonko Čoh,Moški,Celje,1956,63,False,50,32,462,114,2284,474
+8082853,Špela Ponomarenko Janić,Ženska,Koper,1981,38,False,30,47,18,51,181,238
+8082870,Štefan Kardoš,Moški,,1966,53,False,19,24,32,5,450,203
+8082875,Štefan Planinc,Moški,Ljubljana,1925,91,True,10,26,453,115,1153,1574
+8083602,Žana Jereb,Ženska,Kranj,1989,29,False,9,16,6,11,198,169
+8083643,Željko Filipović,Moški,Ljubljana,1988,31,False,23,225,7,80,124,386
+8083700,Živa Vadnov,Ženska,,1982,37,False,70,57,4,42,42,181
+8138638,Jure Bučar,Moški,Ljubljana,1966,53,False,7,14,9,23,94,113
+8138685,Marko Milenkovič,Moški,Kranj,1976,43,False,16,16,6,28,71,124
+8139801,Jernej Godec,Moški,Ljubljana,1986,33,False,3,97,7,50,83,600
+8565338,France Dejak,Moški,,1925,77,True,35,36,3,4,521,344
+8837730,Klemen Mohorič,Moški,Bled,1975,44,False,9,35,29,12,502,355
+8841395,Igor Beribak,Moški,Ljubljana,1964,55,False,14,16,47,7,359,112
+8841404,Jože Kovač,Moški,Ljubljana,1961,58,False,14,15,14,8,137,79
+8841410,Cveto Pretnar,Moški,Jesenice,1957,61,True,8,35,14,8,251,108
+9143202,Karin Lušnic,Ženska,Ljubljana,1971,48,False,14,26,5,24,83,473
+9154900,Anja Javoršek,Ženska,,1996,23,False,4,17,8,6,184,140
+9156359,Anton Krošl,Moški,Brežice,1905,39,True,6,16,9,10,601,644
+9176343,Bojan Globočnik,Moški,Kranj,1962,57,False,3,10,3,6,86,124
+9179002,Branko Dolhar,Moški,Ljubljana,1949,70,False,5,23,7,6,108,125
+9210606,Drago Pudgar,Moški,,1949,70,False,6,5,7,7,110,129
+9266529,Gašper Fistravec,Moški,Maribor,1987,32,False,9,6,5,9,59,119
+9296657,Valentin Zarnik,Moški,Repnje,1837,51,True,19,16,19,5,290,56
+9311057,Robert Renner,Moški,Celje,1994,25,False,20,73,4,32,111,250
+9312551,Roman Perko,Moški,,1977,42,False,17,7,5,5,57,123
+9348494,Suzana Tratnik,Ženska,Murska Sobota,1963,56,False,108,84,311,114,255,396
+9398006,Žan Rudolf,Moški,Ljubljana,1993,26,False,20,47,4,33,89,254
+10326618,Marko Mušič,Moški,Ljubljana,1941,78,False,42,110,33,20,218,352
+10403066,Simon Sešlar,Moški,Celje,1974,45,False,98,122,6,21,206,187
+10403110,Patrik Ipavec,Moški,Piran,1977,42,False,16,17,2,11,126,143
+10494054,Matej Šnofl,Moški,,1977,42,False,13,12,6,9,123,179
+10509596,Milan Ćalasan,Moški,Maribor,1954,64,False,11,186,2,26,121,506
+10527795,Blaž Vrhovec,Moški,Ljubljana,1992,27,False,10,100,19,77,180,333
+10528335,Larissa Šoronda,Ženska,Metlika,1995,24,False,5,33,2,8,76,112
+10528424,Monika Žunkovič,Ženska,,1989,30,False,2,8,0,4,104,134
+10556851,Benjamin Verbič,Moški,Celje,1993,25,False,124,2194,8,133,173,1361
+10957833,Stanko Prek,Moški,,1915,84,True,12,32,5,11,113,449
+10982217,Aleš Bebler,Moški,Idrija,1907,74,True,92,67,44,17,2202,260
+10985421,Josip Pavčič,Moški,Velike Lašče,1870,79,True,7,38,45,8,626,200
+11015464,Aleksandra Kornhauser Frazer,Ženska,Škofja Loka,1926,93,False,1886,299,772,6,2883,484
+11048024,Gašper Okorn,Moški,Ljubljana,1973,46,False,12,197,4,17,128,94
+11182262,Miroslav Adlešič,Moški,Postojna,1907,94,True,23,20,50,53,201,319
+11182265,Robert Blinc,Moški,Ljubljana,1933,77,True,135,95,787,22,3012,288
+11203762,Adriana Maraž,Ženska,Ilirska Bistrica,1931,83,True,18,66,316,136,1604,1481
+11205709,Stane Sever,Moški,,1914,56,True,157,64,413,56,2176,320
+11208145,Jurij Hudolin,Moški,Ljubljana,1973,46,False,60,43,13,5,293,443
+11264961,Nina Kolarič,Ženska,Ptuj,1986,32,False,16,35,8,30,108,258
+11313830,Fran Milčinski,Moški,Lož,1867,64,True,516,97,97,46,755,695
+11714314,Ivan Dizma Florjančič de Grienfeld,Moški,Ljubljana,1691,65,True,21,21,19,9,243,296
+11719746,Janez Demšar,Moški,Jesenice,1951,68,False,3,9,6,10,141,130
+11719747,Janez Jurše,Moški,Maribor,1989,30,False,3,8,4,8,59,119
+11719749,Janez Zupanc,Moški,Brestanica,1986,32,False,2,7,4,6,62,117
+11724272,Jernej Jurše,Moški,Maribor,1987,32,False,0,3,4,8,59,119
+11735668,Karel Janež,Moški,Ljubljana,1914,92,True,0,6,6,14,74,122
+11780559,Miha Tišler,Moški,Ljubljana,1926,,False,58,18,107,6,1331,198
+11781682,Miro Oman,Moški,,1936,76,True,6,22,11,13,283,254
+11833692,Rajko Hrvat,Moški,Koper,1986,33,False,10,13,1,11,82,70
+11835154,Rok Tršan,Moški,Logatec,1992,27,False,6,26,1,17,98,70
+11867304,Jože Bertoncelj,Moški,Jesenice,1922,90,True,5,12,5,6,74,96
+11879331,Ernest Petrič,Moški,Tržič,1936,82,False,196,107,51,16,850,631
+11882998,Miroslav Lap,Moški,Ljubljana,1950,69,False,3,12,11,5,90,74
+11957253,Albin Novšak,Moški,Bohinjska Bistrica,1915,76,True,3,9,10,6,104,124
+11961054,Bine Rogelj,Moški,Ljubljana,1929,90,False,14,7,302,113,1564,242
+11978180,Janez Pristov,Moški,Jesenice,1907,,True,1,5,4,12,64,120
+11989406,Mihael Oswald,Moški,Ljubljana,1892,,False,1,8,8,14,85,116
+11989616,Miroslav Forte,Moški,Trbovlje,1911,,True,3,17,5,12,83,123
+12001434,Stane Hlastan,Moški,Trbovlje,1897,,False,3,5,9,13,124,116
+12002640,Stane Žilič,Moški,Ljubljana,1897,83,True,0,13,6,16,86,114
+12016826,Franc Snoj,Moški,Zagorje ob Savi,1902,60,True,24,42,7,17,292,239
+12016827,Franc Bogovič,Moški,Veliki Kamen,1963,56,False,100,74,155,16,888,130
+12226160,Ivan Kern,Moški,Žužemberk,1898,92,True,15,37,9,5,361,291
+12630270,Dušan Hauptman,Moški,Ljubljana,1960,59,False,34,35,8,22,158,364
+12747819,Josip Šolar,Moški,Ljubljana,1903,52,True,8,11,6,10,70,119
+12748430,Ančka Goropenko,Ženska,Ljubljana,1914,90,True,0,6,3,7,80,124
+12751559,Emil Goršek,Moški,Celje,1914,30,True,0,11,1,7,60,120
+12752126,Ivan Valant,Moški,Ljubljana,1909,,True,2,16,2,7,56,118
+12752136,Ivan Krevs,Moški,Višnja Gora,1912,77,True,2,24,5,4,78,124
+12752652,Katarina Hribar,Ženska,Ljubljana,1913,,False,5,8,4,6,60,124
+12754990,Marta Pustišek,Ženska,Ljubljana,1917,48,True,3,9,6,7,288,126
+12759624,Stanislav Šporn,Moški,Ljubljana,1904,,True,0,9,5,7,60,119
+12761027,Ciril Pelhan,Moški,Ljubljana,1921,89,True,9,9,4,5,257,140
+12783947,Ada Vidovič Muha,Ženska,Pivka,1940,79,False,53,23,23,17,645,203
+12783948,Ada Krivic,Ženska,"Dvor, Žužemberk",1914,81,True,29,82,12,9,278,360
+12783951,Ada Smolnikar,Ženska,Jesenice,1935,84,False,2,9,6,6,59,113
+12783960,Adela Žgur,Ženska,Komen,1909,82,True,4,24,8,9,277,935
+12783961,Adela Šajn,Ženska,Ljubljana,1990,29,False,31,84,6,37,232,138
+12784159,Albin Jakopič,Moški,Mojstrana,1912,,False,3,8,6,7,76,127
+12784239,Alenka Ermenc,Ženska,Ljubljana,1963,56,False,154,293,27,10,352,458
+12784368,Alojz Colja,Moški,Bled,1943,76,False,4,15,7,6,81,100
+12784377,Alojz Klančnik,Moški,Mojstrana,1912,59,True,0,10,6,9,114,125
+12784422,Alojzija Štebi,Ženska,Ljubljana,1883,73,True,28,27,9,9,733,1495
+12784565,Andrej Jezeršek,Moški,Kranj,1982,37,False,4,9,2,7,70,123
+12784573,Andrej Koželj,Moški,Maribor,1955,63,False,7,10,5,8,60,122
+12785198,Asja Hrvatin,Ženska,Ljubljana,1990,28,False,46,43,4,6,235,297
+12785430,Baltazar Baebler,Moški,Vrhnika,1880,56,True,4,14,4,2,93,187
+12785679,Benedikt Kuripečič,Moški,Gornji Grad,1490,,True,12,76,8,25,237,574
+12785795,Bert Sotlar,Moški,Kočevje,1921,71,True,557,128,436,61,2057,111
+12785997,Blaž Trupej,Moški,Ljubljana,1972,47,False,10,22,4,5,64,115
+12786103,Bojan Ropret,Moški,Kranj,1952,67,False,18,16,9,19,131,107
+12786194,Boris Režek,Moški,Ljubljana,1908,77,True,3,8,10,6,160,143
+12786354,Branka Jurca,Ženska,Kopriva,1914,84,True,130,59,168,90,860,639
+12787018,Ciril Klinar,Moški,Jesenice,1937,82,False,5,13,25,7,136,126
+12787187,Cveto Pavčič,Moški,,1933,86,False,8,12,7,11,188,125
+12787274,Danica Guberinič,Ženska,Domžale,1955,64,False,0,11,1,15,163,85
+12787312,Danilo Zavrtanik,Moški,Nova Gorica,1953,66,False,14,28,53,74,612,585
+12787358,David Miklavčič,Moški,Grosuplje,1983,36,False,15,80,35,47,231,221
+12787433,Dejan Židan,Moški,Maribor,1967,52,False,236,367,151,51,670,293
+12787826,Drago Marušič,Moški,Opatje selo,1884,79,True,21,55,19,20,342,364
+12787829,Drago Savič,Moški,Ljubljana,1949,70,False,2,27,11,9,83,89
+12787846,Drago Šoštarič,Moški,Maribor,1943,76,False,4,8,2,7,62,118
+12788033,Duša Počkaj,Ženska,Lendava,1924,57,True,226,55,601,157,1907,442
+12788087,Dušan Đurišič,Moški,Jesenice,1961,58,False,5,6,1,12,77,124
+12788201,Edvard Delorenco,Moški,Ljubljana,1921,49,True,0,8,3,5,60,107
+12788358,Emil Žnidar,Moški,Jesenice,1914,,False,4,7,7,6,61,125
+12788807,Feliks Dev,Moški,Tržič,1732,54,True,65,16,50,4,3999,198
+12788884,Filip Leščak,Moški,Maribor,1960,58,False,16,19,12,15,124,131
+12788993,Fran Bradač,Moški,Jama pri Dvoru,1885,84,True,5,14,15,5,239,356
+12789009,Fran Roš,Moški,Kranj,1898,78,True,39,18,46,76,1080,953
+12789054,Franc Cvenkelj,Moški,,1925,72,True,1,14,10,8,73,125
+12789085,Franc Hafner,Moški,Ljubljana,1936,83,False,8,21,6,9,74,122
+12789149,Franc Očko,Moški,Slovenska Bistrica,1960,59,False,18,19,6,10,79,123
+12789167,Franc Pribošek,Moški,Ljubljana,1917,63,True,2,9,8,6,64,112
+12789204,Franc Červan,Moški,Podgora,1936,55,True,8,19,7,15,99,126
+12789208,Franc Škerlj (kolesar),Moški,Ljubljana,1941,78,False,14,13,6,10,68,114
+12789224,France Bezlaj,Moški,,1910,82,True,26,30,282,10,589,326
+12789228,France Ačko,Moški,Maribor,1904,70,True,19,22,4,10,229,146
+12789265,France Žajdela,Moški,Ljubljana,1920,87,True,1,25,8,5,374,207
+12789281,Franci Čop,Moški,Jesenice,1914,88,True,5,17,301,113,91,126
+12789413,Franček Rudolf,Moški,,1944,75,False,60,35,333,114,3107,1560
+12789919,Gizela Bravničar,Ženska,Trst,1908,81,True,5,16,6,6,268,248
+12790414,Gregor Sračnjek,Moški,Kranj,1979,40,False,2,12,6,9,85,116
+12791256,Ignac Kavec,Moški,Ljubljana,1953,66,False,7,20,13,5,191,80
+12791267,Ignazio Francesco Scodnik,Moški,Kanal,1804,73,True,3,10,9,45,77,831
+12791288,Igor Radin,Moški,,1938,76,True,11,50,13,10,183,133
+12791307,Ilija Arnautović,Moški,Niš,1924,84,True,19,59,299,123,1564,312
+12791440,Irena Kohont,Ženska,Maribor,1941,77,False,110,25,25,8,90,192
+12791669,Ivan Vidmajer,Moški,Slovenska Bistrica,1949,69,False,0,11,1,4,58,123
+12791736,Ivo Čarman,Moški,Kranj,1959,60,False,12,17,7,12,116,124
+12791768,Iztok Božič,Moški,Maribor,1971,48,False,9,19,9,19,59,497
+12791894,Jakob Šubelj,Moški,Ljubljana,1922,,False,1,9,5,12,44,116
+12791965,Jana Kolarič,Ženska,Maribor,1954,65,False,16,23,11,19,2491,1135
+12791972,Janez Albreht (hokejist),Moški,Ljubljana,1940,79,False,6,20,12,5,85,80
+12792015,Janez Gorjanc,Moški,Kranj,1948,71,False,6,9,2,5,63,121
+12792016,Janez Gregor Dolničar,Moški,Ljubljana,1655,64,True,9,12,17,4,375,487
+12792053,Janez Lampič,Moški,Kranj,1963,56,False,14,16,5,10,76,272
+12792074,Janez Mlakar,Moški,Jesenice,1944,75,False,6,15,14,8,84,125
+12792090,Janez Pavčič,Moški,Ljubljana,1928,,False,2,28,8,20,95,125
+12792092,Janez Petač,Moški,Jesenice,1949,62,True,3,14,33,6,319,90
+12792103,Janez Puterle,Moški,Ljubljana,1952,67,False,2,20,11,11,98,99
+12792114,Janez Skok (kajakaš),Moški,Ljubljana,1963,56,False,7,14,7,15,132,118
+12792126,Janez Vrečko,Moški,Ljubljana,1946,73,False,25,30,14,3,1245,746
+12792134,Janez Zibler,Moški,,1958,61,False,5,7,6,7,63,123
+12792150,Janez Žirovnik,Moški,Ljubljana,1935,84,False,9,15,6,10,82,119
+12792158,Jani Likavec,Moški,Trebnje,1968,51,False,15,6,4,11,60,189
+12792162,Janja Vidmar,Ženska,Ptuj,1962,57,False,966,111,121,14,1973,1464
+12792181,Janko Lavrin,Moški,,1887,99,True,24,69,262,19,1427,544
+12792185,Janko Orožen,Moški,Turje,1891,97,True,26,11,38,76,608,447
+12792189,Janko Pleterski,Moški,Maribor,1923,95,True,24,40,745,21,1013,337
+12792417,Jernej Šugman,Moški,Ljubljana,1968,48,True,760,279,326,120,1492,1946
+12792713,Josip Križaj,Moški,,1887,81,True,8,20,7,28,181,328
+12792717,Josip Marn,Moški,Dragovšek,1832,60,True,6,26,30,3,755,1074
+12792776,Joža Lovec,Moški,Maribor,1939,79,False,1,18,6,7,58,218
+12792789,Jože Berc,Moški,Bled,1944,74,False,4,21,7,7,91,98
+12792800,Jože Brilej,Moški,Dobje pri Planini,1910,71,True,28,44,21,34,503,1131
+12792880,Jože Pogačnik,Moški,Maribor,1932,83,True,22,52,305,168,1492,1701
+12792899,Jože Valenčič,Moški,Ljubljana,1948,71,False,9,11,4,10,144,127
+12792905,Jože Vrtačič,Moški,,1980,39,False,9,8,7,12,91,123
+12792911,Jože Zidar,Moški,Jesenice,1927,85,True,1,10,7,9,135,129
+12792935,Jože Šmit,Moški,"Tlake, Rogatec",1922,82,True,29,27,80,9,569,411
+12792981,Jožef Petkovšek,Moški,Verd,1861,37,True,50,58,22,39,616,1327
+12793016,Jožko Kavalar,Moški,Rateče,1968,51,False,3,8,7,9,74,123
+12793057,Julia Doria,Ženska,Ljubljana,2000,19,False,41,37,11,13,641,534
+12793099,Jure Detela,Moški,Ljubljana,1951,40,True,25,33,35,7,452,353
+12793104,Jure Potočnik,Moški,Bled,1949,70,False,1,9,4,5,70,117
+12793119,Jurij Gustinčič,Moški,Trst,1921,92,True,60,29,14,13,720,328
+12793168,Juro Adlešič,Moški,Adlešiči,1884,84,True,22,33,237,100,888,619
+12793434,Karel Pečko,Moški,Vuhred,1920,95,True,31,22,716,10,2131,402
+12793692,Klara Maučec,Ženska,,1977,41,False,22,16,13,19,102,79
+12793991,Konrad Grilc,Moški,Celje,1909,,True,1,8,3,19,83,122
+12794326,Krista Fanedl,Ženska,Maribor,1941,78,False,5,17,7,8,65,120
+12794734,Leon Bebler,Moški,Ljubljana,1912,,True,0,13,6,5,58,123
+12794742,Leon Knap,Moški,Kranjska Gora,1911,,False,1,13,4,7,86,126
+12794883,Lina Kuduzović,Ženska,Ljubljana,2002,16,False,106,266,33,47,535,389
+12795089,Lojze Kolman,Moški,Ljubljana,1967,52,False,13,18,10,9,121,119
+12795209,Lovro Žemva,Moški,Zgornje Gorje,1911,70,True,4,7,9,6,69,129
+12795302,Luka Bašič,Moški,Ljubljana,1989,30,False,15,28,8,5,474,99
+12795310,Luka Gračnar,Moški,Jesenice,1993,25,False,13,92,15,35,455,186
+12795437,Maja Benedičič,Ženska,Kranj,1982,37,False,4,5,9,11,100,300
+12795448,Maja Novak,Ženska,Jesenice,1960,59,False,101,47,325,108,1859,235
+12795635,Mara Rekar,Ženska,Mojstrana,1937,82,False,3,8,6,6,73,120
+12795802,Marina Tomić,Ženska,Celje,1983,36,False,2,32,3,45,62,437
+12795878,Marjan Šarec,Moški,Ljubljana,1977,41,False,1313,3629,140,352,1357,914
+12795883,Marjan Šemrl,Moški,,1954,65,False,2,15,5,9,73,260
+12795914,Marko Kavčič,Moški,Ljubljana,1949,70,False,10,10,8,7,58,120
+12796060,Matej Cigale,Moški,"Lome, Idrija",1819,69,True,23,36,27,5,394,447
+12796079,Matej Soklič,Moški,Bled,1973,46,False,4,11,6,7,82,123
+12796084,Matej Tonin,Moški,,1983,36,False,234,165,30,32,499,202
+12796086,Mateja Vraničar Erman,Ženska,Ljubljana,1965,53,False,23,52,88,34,590,478
+12796100,Matevž Lukanc,Moški,,1926,,False,6,12,8,8,65,121
+12796130,Matija Pavšič,Moški,Koper,1979,39,False,2,13,5,6,64,119
+12796134,Matija Šestak,Moški,Ljubljana,1972,46,False,63,31,11,27,91,270
+12796408,Meta Štoka,Ženska,Ljubljana,1949,70,False,3,8,4,8,135,90
+12796421,Metka Jerman,Ženska,Ljubljana,1963,56,False,56,16,7,11,129,122
+12796667,Milena Kordež,Ženska,Kranj,1953,66,False,6,3,7,8,144,120
+12796674,Milena Čelesnik,Ženska,Ljubljana,1933,86,False,0,6,4,6,59,120
+12796676,Milenko Kersnič,Moški,Ljubljana,1946,73,False,2,9,3,9,73,120
+12796678,Milica Rožman,Ženska,Ljubljana,1932,87,False,0,3,4,7,59,113
+12796724,Miloš Vratič,Moški,Ljubljana,1948,71,False,7,7,7,8,58,120
+12796765,Miran Gašperšič,Moški,Jesenice,1948,71,False,4,6,7,7,59,122
+12796823,Miro Kocuvan mlajši,Moški,Celje,1971,48,False,16,11,3,19,77,284
+12796967,Mojca Mavrič,Ženska,Ljubljana,1980,39,False,3,12,4,11,74,117
+12797182,N'toko,Moški,Novo mesto,1980,39,False,92,99,42,28,1717,340
+12797211,Nada Kotlušek,Ženska,Ljubljana,1934,85,False,4,10,4,11,92,125
+12797276,Nana Forte,Ženska,Zagorje ob Savi,1981,38,False,71,164,12,5,132,539
+12797432,Nevin Birsa,Moški,Branik,1947,56,True,11,18,6,75,256,545
+12797505,Nina Prešiček,Ženska,,1976,42,False,13,20,2,6,102,110
+12797510,Nina Bednarik,Ženska,Škofja Loka,1982,37,False,18,10,7,8,127,231
+12797511,Nina Šenk,Ženska,,1982,37,False,24,85,295,7,1491,276
+12798410,Paul John Sifler,Moški,,1911,89,True,9,23,5,9,189,467
+12798438,Pavla Jesih,Ženska,Ljubljana,1901,75,True,82,34,13,5,344,390
+12798623,Peter Klofutar,Moški,Kranjska Gora,1897,,False,0,18,5,6,59,127
+12799103,Polde Milek,Moški,Ljubljana,1948,70,False,1,13,4,7,73,121
+12799767,Rado Istenič,Moški,Ljubljana,1915,,False,2,16,6,6,61,124
+12799904,Rastko Poljšak,Moški,Ljubljana,1899,,False,1,9,7,14,89,116
+12800280,Robert Kaštrun,Moški,,1964,55,False,3,2,2,6,117,123
+12800281,Robert Kerštajn,Moški,Kranjska Gora,1967,52,False,8,8,7,8,280,124
+12800361,Rok Vilčnik,Moški,Maribor,1968,51,False,60,49,91,3,938,588
+12800362,Rok Rogelj,Moški,Ljubljana,1987,32,False,3,11,4,8,74,112
+12800378,Roman Ambrožič,Moški,Bled,1973,46,False,2,10,4,5,70,118
+12800383,Roman Kenk,Moški,Ljubljana,1898,89,True,10,24,12,6,222,332
+12800512,Rudi Knez,Moški,Jesenice,1944,75,False,13,36,13,12,84,130
+12800518,Rudi Valenčič,Moški,"Pristava, Nova Gorica",1941,78,False,15,10,5,9,77,114
+12800620,Ruža Vojsk,Ženska,Maribor,1930,89,False,2,10,2,10,57,199
+12800651,Sabina Cvilak Damjanovič,Ženska,Maribor,1977,42,False,46,108,299,138,1599,1988
+12800728,Sandi Papež,Moški,Novo mesto,1965,54,False,23,15,7,13,98,121
+12800733,Sandi Klavžar,Moški,,1962,57,False,21,45,57,21,863,195
+12800794,Saša Golob,Ženska,Ljubljana,1991,28,False,8,27,11,33,306,240
+12800800,Sašo Jereb,Moški,Žiri,1983,36,False,16,7,10,16,94,342
+12802718,Simo Važič,Moški,Celje,1934,85,False,3,11,3,11,66,121
+12802729,Simon Razgor,Moški,Celje,1985,34,False,9,83,18,32,476,181
+12802863,Slava Zupančič,Ženska,Kranj,1931,68,True,7,16,8,11,115,130
+12802875,Slavko Beravs,Moški,Jesenice,1946,,True,4,7,17,10,143,131
+12802895,Slavko Lukanc,Moški,,1921,,False,3,8,7,6,63,122
+12802904,Slavko Špan,Moški,Ljubljana,1938,81,False,2,16,3,7,71,121
+12803151,Sonja Rozman,Ženska,Jesenice,1934,76,True,1,13,5,7,64,113
+12803333,Stane Bervar,Moški,Ljubljana,1905,,True,2,10,7,5,67,126
+12803344,Stane Granda,Moški,Novo mesto,1948,71,False,78,19,16,3,299,306
+12803345,Stane Jagodič,Moški,Celje,1943,76,False,20,92,297,193,1612,1666
+12803346,Stane Kmet,Moški,Ljubljana,1905,63,True,2,10,5,6,57,126
+12803401,Stanislav Rapotec,Moški,Trst,1913,84,True,9,69,7,23,248,619
+12803939,Tatjana Smolnikar,Ženska,Ljubljana,1962,56,False,1,12,3,12,75,121
+12804150,Tina Čarman,Ženska,Kranj,1978,41,False,20,17,6,9,64,358
+12804152,Tine Šrot,Moški,Celje,1938,81,False,13,8,6,16,131,120
+12804225,Tomaž Cerkovnik,Moški,Ljubljana,1960,44,True,48,19,13,13,206,49
+12804246,Tomaž Lepša,Moški,Ljubljana,1955,64,False,3,15,15,9,102,91
+12804252,Tomaž Pengov,Moški,Ljubljana,1949,65,True,1228,342,63,34,1822,363
+12804287,Tone Gale,Moški,Jesenice,1944,73,True,26,11,28,16,185,137
+12804293,Tone Janša,Moški,Ormož,1943,76,False,14,49,32,7,189,247
+12804310,Tone Đurišič,Moški,Mojstrana,1961,58,False,5,18,1,11,64,125
+12805080,Urban Acman,Moški,Celje,1976,43,False,8,20,2,14,70,126
+12805108,Uroš Krek (skladatelj),Moški,Ljubljana,1922,85,True,42,87,414,21,2232,574
+12805203,Valentin Perko,Moški,Ljubljana,1950,69,False,14,16,18,3,799,848
+12805323,Vekoslav Skalak,Moški,Bled,1938,81,False,2,14,5,7,81,95
+12805645,Vida Juvan,Ženska,,1905,93,True,46,23,919,4,4113,159
+12805736,Vilko Ukmar,Moški,Postojna,1905,86,True,31,41,501,108,2497,1310
+12805782,Vinko Polončič,Moški,Ljubljana,1957,62,False,10,34,4,13,66,111
+12805811,Violeta Tomič,Ženska,Sarajevo,1963,56,False,156,334,32,24,296,238
+12805930,Vladimir Rybář,Moški,Sežana,1894,51,True,21,63,8,5,628,767
+12805932,Vladimir Skrbinšek,Moški,Ljubljana,1902,84,True,31,25,299,4,1374,91
+12805961,Vlado Dimovski,Moški,Postojna,1960,59,False,153,111,39,9,588,478
+12805962,Vlado Jug,Moški,Jesenice,1947,72,False,30,14,15,10,136,123
+12806581,Zdravko Pečar,Moški,,1950,69,False,9,23,3,9,76,163
+12806582,Zdravko Mlinar,Moški,,1933,86,False,25,16,724,9,3051,1232
+12806583,Zdravko Hlebanja,Moški,Mojstrana,1929,90,False,2,5,4,8,89,125
+12807052,Črtomir Nagode,Moški,Metlika,1903,44,True,54,92,17,7,369,698
+12807333,Štefan Cuk,Moški,Celje,1962,57,False,3,11,3,7,61,121
+12807346,Štefan Robač,Moški,Ravne na Koroškem,1931,88,False,0,9,3,7,96,127
+12807349,Štefan Seme,Moški,Ljubljana,1947,72,False,8,18,37,11,177,125
+12807464,Žan Kranjec,Moški,Ljubljana,1992,26,False,111,116,16,28,700,458
+13380568,Samo Kukovica,Moški,Brežice,1998,21,False,0,18,2,21,172,95
+13395144,Marinko Šarkezi,Moški,,1972,47,False,23,52,5,10,94,184
+13415424,Franc Fridl,Moški,Ptuj,1972,47,False,22,22,2,5,125,264
+13416785,Krešo Omerzel,Moški,Brežice,1957,59,True,4,16,5,22,217,254
+13439571,Emil Šterbal,Moški,,1970,49,False,5,18,1,5,98,164
+13473119,Štefka Drolc,Ženska,Ponikva,1923,94,True,259,63,939,12,2763,308
+13566336,Branko Ziherl,Moški,Ljubljana,1916,25,True,8,11,7,7,179,149
+13566407,Draško Vilfan,Moški,Trst,1914,82,True,5,17,7,9,307,135
+13566963,Lidija Benedetič-Lapajne,Ženska,Jesenice,1959,60,False,38,20,39,51,199,220
+13566996,Milan Stepišnik,Moški,Ljubljana,1910,40,True,22,25,8,6,153,127
+13605947,Anton Karinger,Moški,Ljubljana,1829,40,True,37,19,22,10,235,142
+13639014,Janez Kajzer,Moški,,1938,81,False,13,21,80,4,554,299
+13639017,Janez Lenarčič,Moški,Ljubljana,1967,51,False,561,1020,14,24,192,447
+13640005,Jože Babič,Moški,Povžane,1917,79,True,50,58,509,159,2615,1666
+13641108,Katra Zajc,Ženska,,1967,52,False,50,60,9,10,163,298
+13649140,Milan Bizovičar,Moški,Ljubljana,1927,79,True,20,21,14,5,218,376
+13649477,Miran Božovič,Moški,Ljubljana,1957,62,False,11,79,4,17,91,157
+13653486,Nikolaj Omersa,Moški,Idrija,1911,70,True,24,41,488,109,963,1564
+13654412,Nuša Tome,Ženska,Ljubljana,1960,55,True,66,29,14,14,130,109
+13843338,Marina Gržinić,Ženska,,1958,60,False,9,141,9,17,96,1188
+14375817,Bojan Šrot,Moški,Celje,1960,59,False,81,38,20,21,289,408
+14389692,Roman Smolej,Moški,Jesenice,1946,73,False,5,15,34,15,199,94
+14438005,Tone Dečman,Moški,Ljubljana,1913,75,True,1,7,6,6,71,125
+14469091,Marija Vojskovič,Ženska,Ljubljana,1915,81,True,1,25,68,11,601,189
+14475900,Slavko Pengov,Moški,Ljubljana,1908,57,True,44,43,266,9,1043,233
+14541770,Doris Debenjak,Ženska,Ljubljana,1936,77,True,23,49,13,10,464,440
+14570831,Henrik Freyer,Moški,Idrija,1802,64,True,20,25,18,9,657,174
+14623441,Vita Mavrič,Ženska,Celje,1965,54,False,43,46,242,79,1498,368
+14623663,Gramatik,Moški,Portorož,1984,35,False,70,4476,6,61,247,1209
+14635388,Milan Komar,Moški,Ljubljana,1921,84,True,22,78,6,30,862,1071
+15104367,Katarina Lavtar,Ženska,Jesenice,1988,31,False,11,11,10,12,121,130
+15104770,Lea Jagodič,Ženska,Celje,1991,28,False,1,5,2,2,38,94
+15109943,Klemen Kosi,Moški,Maribor,1991,28,False,13,19,23,30,189,128
+15119239,Alenka Čebašek,Ženska,Kranj,1989,30,False,9,16,5,30,82,315
+15136497,Barbara Kralj,Ženska,Ljubljana,1994,25,False,6,25,3,7,61,99
+15262168,Adnan Zildžović,Moški,,1969,49,False,20,210,2,35,214,517
+15270439,Tjaša Iris,Ženska,Kranj,1968,51,False,11,33,6,34,585,2986
+15407024,Janez Karl Filip Kobencl,Moški,Ljubljana,1712,57,True,9,88,8,28,97,789
+15430307,Matjaž Mulej,Moški,Maribor,1941,78,False,22,22,9,10,360,373
+15548295,Andrej Jelenc,Moški,Ljubljana,1963,56,False,6,23,44,38,203,269
+15622038,Josip Kosmatin,Moški,Ljubljana,1897,,False,2,7,4,7,57,106
+15623306,Pamela Begič,Ženska,,1994,25,False,11,52,1,25,209,325
+15630129,Miha Verlič,Moški,Maribor,1991,28,False,8,51,17,25,476,247
+15632201,Nika Razinger,Ženska,Jesenice,1993,26,False,3,13,5,17,65,395
+15646904,Martin Čater,Moški,Celje,1992,26,False,18,17,8,17,181,227
+15658008,Milena Zupančič,Ženska,Jesenice,1946,72,False,570,176,542,176,2759,655
+15658373,Majda Potokar,Ženska,Ljubljana,1930,71,True,346,94,531,178,2459,589
+15658756,Anže Kuralt,Moški,Kranj,1991,27,False,3,38,15,28,486,167
+15710343,Bojan Kumar,Moški,Ljubljana,1950,69,False,2,10,11,8,80,92
+15710344,Marjan Žbontar,Moški,Jesenice,1954,65,False,6,16,8,10,75,94
+15710345,Franci Žbontar,Moški,Jesenice,1952,67,False,6,33,26,15,154,114
+15710350,Silvo Poljanšek,Moški,Jesenice,1951,67,False,3,14,12,11,87,89
+15710353,Bogdan Jakopič,Moški,Ljubljana,1948,71,False,5,7,15,7,94,73
+15710354,Božidar Beravs,Moški,Jesenice,1948,70,False,2,15,13,11,107,114
+15715093,Matic Podlipnik,Moški,Jesenice,1992,27,False,5,45,8,18,400,244
+15726413,Cilka Sadar,Ženska,Ljubljana,1991,28,False,6,37,5,15,79,104
+15727252,Tim-Kevin Ravnjak,Moški,Velenje,1996,22,False,24,41,7,23,266,119
+15729440,Izidor Šušteršič,Moški,Medvode,1977,42,False,1,11,8,13,76,147
+15729441,Glorija Kotnik,Ženska,Slovenj Gradec,1989,30,False,9,28,9,24,75,148
+15733316,Jan Kralj,Moški,,1995,24,False,4,10,2,9,86,112
+15733545,Alek Glebov,Moški,Maribor,1983,36,False,16,22,7,12,132,57
+15822477,Kaja Jerina,Ženska,Ljubljana,1992,27,False,2,15,1,9,97,245
+15830617,Dalila Jakupović,Ženska,Jesenice,1991,28,False,18,454,18,465,191,1582
+15832842,Luzija Grad,Ženska,Ljubljana,1983,36,False,1,14,1,10,116,129
+15845238,Staš Skube,Moški,Novo mesto,1989,29,False,32,604,5,13,545,95
+15859682,Klemen Cehte,Moški,Brežice,1986,33,False,24,85,26,27,170,193
+15867203,Mario Šoštarič,Moški,Slovenj Gradec,1992,26,False,16,61,7,24,527,205
+15912352,Dorjan Marušič,Moški,Koper,1957,62,False,63,73,105,9,312,260
+15930860,Maruša Mišmaš,Ženska,Grosuplje,1994,25,False,201,702,7,42,197,271
+15945220,Ksenija Predikaka,Ženska,Ljubljana,1970,49,False,10,14,6,12,82,186
+15955830,Vlado Gorišek,Moški,Ljubljana,1925,72,True,13,26,11,9,162,160
+15971386,Josip Pogačnik,Moški,Podnart,1866,65,True,26,41,17,8,504,106
+16029101,Rozalija Sršen,Ženska,Žužemberk,1897,70,True,26,53,8,6,280,314
+16061455,Dean Bombač,Moški,Koper,1989,30,False,16,315,37,57,639,236
+16063078,Miška Madjarič,Moški,,1825,57,True,0,27,4,29,100,182
+16089810,Romana Tomc,Ženska,Ljubljana,1965,53,False,87,84,92,14,597,172
+16107324,Majda Grbac,Ženska,Maribor,1946,73,False,30,28,12,46,92,311
+16186989,Ivo Boscarol,Moški,Postojna,1956,63,False,64,192,9,14,358,968
+16192594,Milan Balažic,Moški,Ljubljana,1958,61,False,82,38,13,13,679,764
+16193547,Franci Demšar,Moški,,1960,59,False,102,34,47,11,266,88
+16211500,Sara Frece,Ženska,,1984,35,False,2,11,1,8,64,119
+16213477,Sigrid Corneo,Ženska,,1971,48,False,4,40,5,37,72,493
+16216701,Alenka Novak,Ženska,,1977,42,False,4,13,2,10,63,126
+16222343,Nataša Kramberger,Ženska,Maribor,1983,36,False,68,40,10,4,995,90
+16223884,Urša Pintar,Ženska,Ljubljana,1985,34,False,5,50,3,49,75,216
+16225794,Špela Kern,Ženska,,1990,29,False,7,27,2,32,75,212
+16231331,Jaka Ihbeisheh,Moški,Ljubljana,1986,33,False,36,362,6,84,220,465
+16234875,Nives Orešnik,Ženska,Maribor,1991,28,False,49,73,3,8,79,247
+16235709,Matej Palčič,Moški,Koper,1993,26,False,10,178,2,89,186,203
+16318360,Andreja Nikl,Ženska,,1985,33,False,3,25,1,13,96,206
+16318365,Anisa Rola,Ženska,Maribor,1994,25,False,3,28,1,8,101,129
+16323019,Bogdan Borčić,Moški,Ljubljana,1926,87,True,55,32,524,4,2365,418
+16561918,Janez Frančišek Gnidovec,Moški,Veliki Lipovec,1873,65,True,55,42,70,19,457,1431
+16592011,Viktor Tišlar,Moški,Jesenice,1941,71,True,5,14,20,16,316,138
+16666591,Nina Jeriček,Ženska,Celje,1984,35,False,5,30,1,41,71,94
+16725872,Matic Šušteršič,Moški,Ljubljana,1980,25,True,4,53,5,22,90,128
+16732934,Dušan Mramor,Moški,Ljubljana,1953,65,False,55,59,38,18,552,351
+16733488,Ajda Novak,Ženska,Ljubljana,2000,19,False,38,39,2,27,61,266
+16734358,Patricia Peklar,Ženska,,1989,30,False,12,41,0,58,72,197
+16736690,Tim Čeh,Moški,Ljubljana,1994,25,False,8,22,2,12,231,125
+16745259,Gaber Dobrovoljc,Moški,Ljubljana,1993,26,False,6,75,1,29,87,168
+16745457,Aleks Pihler,Moški,Ptuj,1994,25,False,12,89,20,56,176,320
+16847719,Rudi Požeg Vancaš,Moški,Novo mesto,1994,25,False,119,217,19,57,144,190
+16864363,Miha Štebih,Moški,Maribor,1992,27,False,3,25,4,6,395,155
+16875935,Boštjan Frelih,Moški,Ljubljana,1993,26,False,11,10,4,6,117,121
+16901145,Ivan Firer,Moški,Celje,1984,34,False,11,55,2,30,145,236
+16901212,Rajko Rotman,Moški,Maribor,1989,30,False,17,217,2,59,103,372
+16901322,Miha Zajc,Moški,Šempeter pri Gorici,1994,25,False,96,1505,8,99,173,525
+16972270,Aleš Čeh,Moški,Ptuj,1980,39,False,14,18,2,14,62,159
+16980060,Jure Matjašič,Moški,Maribor,1992,27,False,8,48,1,30,100,120
+16980164,Dušan Radonjič,Moški,,1941,78,False,12,20,5,8,61,458
+17117413,Miro Cerar,Moški,Ljubljana,1963,56,False,388,1095,102,158,919,1391
+17120046,Igor Šoltes,Moški,Ljubljana,1964,55,False,150,173,9,14,410,397
+17275136,Vesna Dekleva,Ženska,Koper,1975,44,False,8,15,13,21,93,70
+17305868,Sven Dodlek,Moški,Maribor,1995,24,False,13,35,2,10,108,208
+17351036,Matej Krajnc,Moški,Maribor,1975,43,False,33,38,26,12,1296,689
+17351189,Narte Velikonja,Moški,Predmeja,1891,54,True,36,53,80,18,767,899
+17385664,Klemen Bolha,Moški,,1993,26,False,9,119,3,42,99,170
+17388372,Franc Gartner,Moški,Ljubljana,1904,,True,6,11,5,13,61,123
+17402293,Alojz Bajc,Moški,Duplje,1932,87,False,6,7,5,5,223,106
+17402332,Jadran Barut,Moški,Izola,1940,78,False,3,7,4,4,76,100
+17402350,Mirko Bavče,Moški,,1942,77,False,1,8,5,10,104,124
+17402363,Amalija Belaj,Ženska,Celje,1939,80,False,2,16,11,7,107,129
+17402416,Vili Bečaj,Moški,,1967,52,False,10,4,3,5,130,91
+17402592,Marjana Bremec Homar,Ženska,Ljubljana,1946,73,False,5,23,6,10,133,101
+17402620,Nejc Brodar,Moški,Škofja Loka,1982,37,False,0,6,8,14,103,124
+17402622,Janez Brodnik,Moški,Golnik,1944,75,False,10,20,5,16,168,125
+17411824,Ada Škerl,Ženska,Ljubljana,1924,85,True,35,22,14,12,523,695
+17484120,Milan Brglez,Moški,Ljubljana,1967,52,False,202,183,70,35,932,407
+17486574,Marko Jakolić,Moški,Brežice,1991,28,False,10,14,13,17,145,217
+17566337,Matevž Kordež,Moški,Kropa,1919,,False,3,7,10,13,151,125
+17566339,Jože Knific,Moški,Jesenice,1915,,False,4,12,8,8,93,126
+17566343,Miloš Janša,Moški,Bled,1950,69,False,13,10,13,6,58,117
+17566344,Boštjan Fridrih,Moški,,1979,40,False,3,13,7,30,72,126
+17566345,Borut Ingolič,Moški,Ptuj,1939,80,False,6,11,7,5,58,119
+17566346,Peter Zupanc,Moški,Ljubljana,1982,37,False,12,18,11,9,74,336
+17566347,Bogo Jan,Moški,Jesenice,1944,74,True,3,15,20,14,210,134
+17566349,Franc Smolej,Moški,Jesenice,1908,88,True,3,11,9,14,123,84
+17566351,Janko Štefe,Moški,Tržič,1923,78,True,5,9,8,10,68,122
+17566353,Janko Mežik,Moški,Kranjska Gora,1921,76,True,1,2,5,6,65,125
+17566354,Draga Stamejčič,Ženska,Ljubljana,1937,78,True,10,20,21,18,276,238
+17566355,Boris Klavora,Moški,Bled,1941,78,False,1,8,7,4,76,94
+17566357,Lucijan Kleva,Moški,Izola,1942,64,True,2,8,6,6,97,150
+17566358,Breda Babošek,Ženska,Maribor,1951,68,False,9,13,35,12,181,122
+17566362,Boštjan Horvat,Moški,Ljubljana,1975,44,False,4,12,4,16,66,125
+17566363,Meta Mačus,Ženska,Šempeter pri Gorici,1975,44,False,8,13,5,16,78,126
+17566364,Natalija Prednik,Ženska,Maribor,1973,46,False,1,5,5,4,83,109
+17566365,Hubert Hajm,Moški,Jesenice,1914,56,True,0,16,5,5,57,122
+17566366,Jani Kršinar,Moški,Ljubljana,1962,57,False,8,8,2,15,92,121
+17566367,Jana Mlakar,Ženska,Jesenice,1962,57,False,11,12,5,9,71,127
+17566368,Andreja Smrekar,Ženska,Ljubljana,1967,52,False,5,8,4,10,72,121
+17566370,Metka Munih,Ženska,Ljubljana,1959,60,False,4,11,3,9,77,121
+17566371,Robert Šebenik,Moški,Ljubljana,1965,54,False,9,8,2,7,59,116
+17566372,Franc Podlesek,Moški,Ljubljana,1952,67,False,8,17,2,9,62,123
+17566374,Slavko Janjušević,Moški,Nikšić,1941,66,True,3,8,2,5,62,122
+17566375,Mirko Kolnik,Moški,Ljubljana,1936,83,False,8,13,3,5,54,117
+17566376,Janez Kocmur,Moški,Maribor,1937,82,False,2,15,2,7,61,131
+17566378,Alma Butia,Ženska,Teharje,1929,90,True,8,29,3,10,68,205
+17566380,Neža Černe,Ženska,Maribor,1933,72,True,1,11,3,7,120,116
+17566381,Vida Gerbec,Ženska,Trst,1925,85,True,3,10,4,8,89,119
+17566382,Jože Vadnov,Moški,Ljubljana,1912,83,True,1,6,2,12,63,119
+17641420,Tina Trstenjak,Ženska,Celje,1990,29,False,46,184,50,88,1088,616
+17747772,Evelina Kos,Ženska,Nova Gorica,1996,23,False,4,36,3,13,62,127
+17794024,Aleksej Nikolić,Moški,Postojna,1995,24,False,51,645,20,53,352,526
+18062210,Ula Ložar,Ženska,Ljubljana,2002,17,False,26,151,11,75,192,426
+18115962,Srečko Lisjak,Moški,Ljubljana,1948,71,False,12,5,736,6,2234,132
+18119176,Anže Berčič,Moški,Kranj,1990,28,False,12,37,1,34,103,298
+18121366,Vesna Györkös Žnidar,Ženska,Ljubljana,1977,41,False,71,83,44,14,385,542
+18129402,Blaž Zbičajnik,Moški,Celje,1995,24,False,2,6,4,4,142,153
+18180907,Stanislav Zore,Moški,Znojile,1958,61,False,64,44,286,11,698,145
+18200474,Andrej Osterman,Moški,Kranj,1960,59,False,48,37,25,5,230,64
+18206589,Miroslav Hubmajer,Moški,Ljubljana,1851,59,True,11,42,1,2,530,899
+18206716,Violeta Bulc,Ženska,Ljubljana,1964,55,False,165,909,20,182,437,618
+18228694,Elvis Ribarič,Moški,,1972,47,False,8,6,2,10,104,82
+18250109,Janez Zakotnik,Moški,Ljubljana,1950,69,False,3,16,4,9,50,135
+18341255,Danijel Vrhovšek,Moški,Celje,1943,76,False,2,9,6,5,70,119
+18341293,Marko Cuderman,Moški,Kranj,1960,59,False,13,8,6,5,63,108
+18341303,Bojan Udovič,Moški,Kranj,1957,57,True,9,17,7,14,119,199
+18341987,Alojz Kerštajn,Moški,Jesenice,1943,56,True,1,15,6,8,120,124
+18342077,Stanko Topolčnik,Moški,Slovenska Bistrica,1947,65,True,3,11,6,13,70,126
+18487931,Adolf Potočar,Moški,Ljubljana,1932,87,False,0,13,3,6,72,119
+18488151,Aleš Česen,Moški,Kranj,1982,37,False,62,79,9,7,320,723
+18502378,Antonija Javornik,Ženska,Maribor,1893,81,True,8,93,1,15,187,466
+18505582,Erik Tul,Moški,Izola,1975,44,False,7,7,5,18,59,117
+18506203,Ludvig Dornig,Moški,,1930,65,True,2,8,7,8,87,172
+18506424,Avgust Jakopič,Moški,Bled,1913,,False,2,13,7,7,86,129
+18506488,Maksimilijan Jelenc,Moški,Kranj,1951,68,False,2,5,5,8,68,125
+18506542,Janko Janša,Moški,Mojstrana,1900,,False,2,14,6,7,64,122
+18506703,Jože Klemenčič,Moški,Ljubljana,1962,57,False,5,12,2,11,152,122
+18506749,Janko Kobentar,Moški,"Hrušica, Novo mesto",1940,79,False,1,13,5,7,70,122
+18506944,Miran Krmelj,Moški,Jesenice,1941,68,True,1,27,10,7,193,150
+18506977,Marijan Kristan,Moški,Jesenice,1937,69,True,4,13,7,8,87,125
+18507087,Miro Longyka,Moški,Ljubljana,1913,94,True,6,9,7,11,380,120
+18507164,Tine Mulej,Moški,Lesce,1921,61,True,4,13,14,11,91,128
+18507165,Saša Molnar,Moški,Bled,1920,,False,1,12,6,7,64,118
+18507166,Janez Mlinar,Moški,Rateče,1941,78,False,0,13,5,7,91,125
+18507179,Nevenka Pogačnik,Ženska,Ljubljana,1936,83,False,0,15,3,7,72,119
+18507180,Janez Pintar,Moški,Ljubljana,1931,75,True,2,12,4,13,100,123
+18507185,Ivo Ratej,Moški,Celje,1941,78,False,4,8,16,15,209,134
+18507194,Tone Razinger,Moški,Jesenice,1921,85,True,2,6,9,7,119,143
+18507195,Franc Razinger,Moški,Jesenice,1944,74,False,3,7,9,8,78,123
+18507198,Viktor Ravnik,Moški,Jesenice,1941,78,False,1,10,16,13,125,134
+18507202,Lado Senčar,Moški,Ljubljana,1908,89,True,1,6,4,6,64,124
+18507203,Roman Seljak,Moški,Žiri,1934,59,True,3,13,5,7,90,128
+18507208,Marija Težak,Ženska,Ljubljana,1957,62,False,0,8,4,8,67,116
+18507209,Vinko Valentar,Moški,Jesenice,1934,85,False,2,9,9,8,75,125
+18507374,Andrej Hrabar,Moški,Koper,1978,41,False,3,16,4,6,64,119
+18507823,Barbara Miklič Türk,Ženska,Ljubljana,1948,71,False,24,121,10,21,211,420
+18507824,Barbara Mulej,Ženska,Kranj,1974,45,False,13,29,7,46,206,420
+18507884,Elvira Dolinar,Ženska,Krško,1870,91,True,4,33,5,17,473,427
+18507902,Felicita Kalinšek,Ženska,Podgorje,1865,72,True,26,23,10,6,302,153
+18507950,Irena Yebuah Tiran,Ženska,Novo mesto,1974,45,False,157,60,15,8,316,144
+18508096,Juta Krulc,Ženska,Radovljica,1913,102,True,21,20,15,5,569,247
+18529522,France Jerman,Moški,Dol pri Ljubljani,1920,59,True,12,7,8,7,678,130
+18529592,Igor Krivokapič,Moški,,1965,53,False,32,38,6,5,220,929
+18529685,Ivan Oman,Moški,Zminec,1929,89,True,95,59,870,7,2938,263
+18529741,Ivan Žužek,Moški,Ljubljana,1924,79,True,4,29,4,10,294,323
+18571621,Alenka Smerkolj,Ženska,Ljubljana,1963,55,False,38,105,29,12,269,472
+18587216,Janez Peternelj,Moški,"Delnice, Gorenja vas - Poljane",1913,29,True,7,10,2,4,143,100
+18601868,Peter Svet,Moški,Celje,1949,70,False,23,24,3,10,102,321
+18604231,Josip Urbanija,Moški,Ljubljana,1877,66,True,3,40,5,9,252,1586
+18608636,Jure Zupan,Moški,Ljubljana,1943,76,False,43,66,56,21,285,439
+18608735,Katka Zupančič,Ženska,Grič pri Dobličah,1889,77,True,11,44,7,39,276,1110
+18608743,Lea Sirk,Ženska,Koper,1989,30,False,1271,501,77,213,810,1030
+18627634,Luka Mesec,Moški,Kranj,1987,32,False,517,376,11,19,458,435
+18627779,Marjetka Jeršek,Ženska,Kranj,1961,58,False,5,15,7,7,182,157
+18635332,Urška Poje,Ženska,Postojna,1997,22,False,4,17,6,21,81,131
+18639181,Saša Dončić,Moški,Šempeter pri Gorici,1974,45,False,557,2148,13,21,500,388
+18643132,Vlatka Oršanić,Ženska,Zabok,1958,61,False,7,31,4,12,1556,961
+18644524,Marko Naberšnik,Moški,Maribor,1973,46,False,68,56,75,10,1172,162
+18644639,Miha Kralj,Moški,Ljubljana,1949,70,False,56,50,25,5,749,812
+18644675,Milan Jazbec,Moški,Spodnja Pohanca,1956,63,False,35,42,13,6,869,493
+18684375,Laura Unuk,Ženska,Ljubljana,1999,19,False,43,156,4,14,143,497
+18811347,Anamarija Lampič,Ženska,Ljubljana,1995,24,False,17,60,9,43,121,510
+18812881,Iztok Kapušin,Moški,Brežice,1974,45,False,21,61,5,12,331,136
+18921443,Blaž Blagotinšek,Moški,Celje,1994,25,False,21,297,42,66,566,409
+19320890,Mirt Komel,Moški,,1980,39,False,95,75,10,6,505,709
+19420836,Nik Kapun,Moški,Ljubljana,1994,25,False,11,72,15,47,156,243
+19514448,Jože Možina,Moški,Šempeter pri Gorici,1968,51,False,87,39,299,107,1858,364
+19518341,Tjaša Kokalj,Ženska,Ljubljana,1986,33,False,46,97,4,49,160,222
+19518645,Petra Zrimšek,Ženska,,1988,31,False,7,15,3,19,60,109
+19518897,Tjaša Rutar,Ženska,Postojna,1984,34,False,2,15,3,21,68,118
+19661750,Anja Rugelj,Ženska,Ljubljana,1986,33,False,5,13,1,8,46,110
+19661751,Tesa Vilar,Ženska,,1995,24,False,2,7,0,11,43,146
+19661776,Urška Žigart,Ženska,Slovenska Bistrica,1996,22,False,18,61,3,33,53,179
+19661810,Anita Žnidaršič,Ženska,,1996,23,False,1,8,1,6,50,108
+19661863,Laura Šimenc,Ženska,Bled,1990,29,False,8,40,3,10,43,118
+19844712,Luka Dončić,Moški,Ljubljana,1999,20,False,1913,70697,52,501,6575,7647
+19915305,Tim Gajser,Moški,Ptuj,1996,23,False,333,2336,4,78,299,1251
+19935925,Ljudmila Plesničar Gec,Ženska,Sežana,1931,76,True,4,30,506,15,2189,1731
+19937993,Peter Čeferin,Moški,Ljubljana,1938,81,False,206,696,9,9,641,822
+19955894,Polona Barič,Ženska,Izola,1992,27,False,31,80,3,34,66,165
+20029036,Štefan Hadalin,Moški,,1995,24,False,59,62,17,27,414,270
+20080917,Gašper Potočnik,Moški,Ljubljana,1980,38,False,15,80,4,22,290,289
+20205020,Teja Belak,Ženska,Ljubljana,1994,25,False,28,182,4,65,77,149
+20522962,Gregor Sikošek,Moški,Brežice,1994,25,False,25,111,5,54,258,378
+20640593,Damir Črnčec,Moški,Maribor,1973,46,False,380,121,6,12,1140,1039
+20641055,Tomaž Kavčič,Moški,Novo mesto,1953,65,False,81,167,28,38,2002,1555
+20655498,Tomaž Petrovič,Moški,Brežice,1979,40,False,20,15,7,10,121,183
+20671499,Saša Zagorac,Moški,Ljubljana,1984,35,False,38,879,10,62,619,350
+20744966,Miha Lapornik,Moški,Celje,1993,26,False,23,219,5,16,262,275
+20745107,Mitja Nikolić,Moški,Postojna,1991,28,False,27,92,4,11,209,242
+20751689,Luka Janežič,Moški,Ljubljana,1995,23,False,30,219,5,38,68,395
+20751730,Maja Mihalinec,Ženska,,1989,29,False,198,716,4,34,256,476
+20801789,Anton Gvajc,Moški,Ljubljana,1865,69,True,10,14,9,2,155,80
+20830267,Tamara Zidanšek,Ženska,Postojna,1997,21,False,24,500,11,225,87,1576
+20891280,Nejc Pačnik,Moški,Slovenj Gradec,1990,28,False,8,33,1,8,774,482
+20897728,Žiga Dimec,Moški,Celje,1993,26,False,58,649,11,35,291,302
+20901625,Miro Alilović,Moški,,1977,42,False,36,270,6,13,627,218
+20902361,Boban Tomić,Moški,Ljubljana,1988,31,False,8,36,1,7,96,76
+20902362,Aleksander Sekulić,Moški,Ljubljana,1978,41,False,14,122,3,19,560,76
+21089375,David Bučar,Moški,Brežice,1994,25,False,4,19,2,10,114,89
+21100540,Gorazd Sotler,Moški,Šentrupert,1930,56,True,5,13,3,33,1124,919
+21193141,Marta Brilej,Ženska,Dobje pri Planini,1917,99,True,12,8,3,14,321,1135
+21403041,Domen Prevc,Moški,Kranj,1999,20,False,58,211,31,47,1526,695
+21406232,Maja Makovec Brenčič,Ženska,Borovnica,1969,50,False,72,56,49,7,588,94
+21436475,Eva Lisec,Ženska,Celje,1995,24,False,13,63,2,19,535,232
+21503640,Anton Kosmač,Moški,,1976,42,False,8,20,7,13,128,138
+21552901,Erni Gregorčič,Moški,Ljubljana,1976,43,False,23,26,1,6,1720,1913
+21587517,Marijan Mole,Moški,Ljubljana,1924,38,True,10,48,6,0,1267,1200
+21642699,Barbara Lazović,Ženska,Brežice,1988,31,False,26,299,2,38,258,160
+21777932,Tilen Bartol,Moški,,1997,22,False,18,38,20,32,200,391
+22006047,Špela Kratochwill,Ženska,Ljubljana,1998,21,False,7,22,1,14,210,330
+22231012,Raiven,Ženska,,1996,23,False,253,226,20,10,738,759
+22250454,Nataša Erjavec,Ženska,,1968,51,False,9,14,5,16,185,176
+22278297,Neli Irman,Ženska,Celje,1986,33,False,6,31,2,46,66,176
+22340515,Bor Pavlovčič,Moški,,1998,21,False,5,28,11,22,256,154
+22712868,Nika Križnar,Ženska,,2000,19,False,14,43,20,42,1039,197
+22958800,Darko Cingesar,Moški,Ljubljana,1990,29,False,23,121,34,49,552,300
+22964793,Manuella Brečko,Ženska,Celje,1989,30,False,31,173,66,209,557,780
+23007593,Daneja Grandovec,Ženska,,1984,35,False,20,41,5,18,98,339
+23007858,Žiga Jelar,Moški,,1997,22,False,21,27,9,24,149,168
+23055594,Andrej Grabrovec,Moški,Maribor,1959,60,False,34,20,2,8,789,791
+23418897,Andreja Katič,Ženska,Slovenj Gradec,1969,49,False,164,142,56,23,411,338
+23721072,Jurij iz Brežic,Moški,Brežice,1360,56,True,7,44,127,3,421,863
+23760899,Franci Cerar,Moški,Ljubljana,1945,73,False,2,59,2,3,519,434
+23761907,Vid Poteko,Moški,Celje,1991,28,False,32,123,32,40,524,265
+23761908,Miha Zarabec,Moški,Novo mesto,1991,28,False,67,399,32,75,841,328
+23770313,Jure Leskovec,Moški,,1980,39,False,87,790,4,24,490,237
+23771268,Eva Sajovic,Ženska,,1976,43,False,0,28,2,19,98,873
+23887800,Lara Prašnikar,Ženska,,1998,21,False,71,193,2,36,107,184
+23887802,Lara Ivanuša,Ženska,,1997,22,False,6,86,2,17,66,353
+23892332,Blaž Janc,Moški,Brežice,1996,22,False,33,313,35,69,1131,244
+23892608,Tine Slabe,Moški,Koper,1980,39,False,7,20,1,2,761,391
+23893332,Urban Lesjak,Moški,Celje,1990,29,False,28,566,28,42,360,175
+23893337,Žiga Mlakar,Moški,Celje,1990,29,False,9,195,0,33,237,137
+24006553,Tjaša Šeme,Ženska,Ljubljana,1986,32,False,14,20,3,15,80,126
+24192342,Peter John Stevens,Moški,Kranj,1995,24,False,21,123,1,44,113,238
+24256691,Ignac Gregorač,Moški,,1916,99,True,10,14,2,3,1260,1370
+24262632,Meta Hrovat,Ženska,,1998,21,False,44,70,12,23,360,255
+24262646,Vid Vrhovnik,Moški,Velenje,1999,20,False,5,29,5,16,101,189
+24649544,Veronika Domjan,Ženska,,1996,23,False,6,29,2,21,127,229
+24678886,Jan Barbarič,Moški,Koper,1995,24,False,24,36,3,10,242,125
+25641654,Jože Smole (kolesar),Moški,Novo mesto,1965,53,False,1,27,3,21,69,121
+25997899,Tanja Elsner,Ženska,Ljubljana,1993,26,False,4,9,2,7,69,126
+26209646,Janja Garnbret,Ženska,Šmartno pri Slovenj Gradcu,1999,20,False,299,4721,29,103,317,1636
+26218945,Nik Henigman,Moški,Ljubljana,1995,23,False,12,158,28,42,299,236
+26236490,Adrian Gomboc,Moški,Murska Sobota,1995,24,False,20,45,6,29,184,189
+26237985,Anže Tavčar,Moški,,1994,24,False,3,32,3,16,73,197
+26250579,Mihael Žgank,Moški,Celje,1994,25,False,7,153,4,24,97,227
+26263631,Martin Bau,Moški,,1994,25,False,8,27,3,32,67,121
+26268866,Veronika Macarol,Ženska,,1987,32,False,9,33,6,22,180,72
+26276681,Špela Perše,Ženska,,1996,23,False,3,37,3,22,67,148
+26710020,Maruša Černjul,Ženska,Celje,1992,27,False,17,139,4,18,68,197
+26819142,Aleksander Čeferin,Moški,Ljubljana,1967,52,False,363,5130,15,82,247,1545
+26904312,Tadej Pogačar,Moški,,1998,21,False,180,1623,4,89,106,707
+26936268,Snegulka Detoni,Ženska,Begunje pri Cerknici,1921,94,True,11,15,5,4,380,178
+26982007,Domen Škofic,Moški,Ljubljana,1994,25,False,31,299,4,32,140,376
+27049368,Tjaša Pintar,Ženska,Ljubljana,1997,22,False,3,23,5,21,72,122
+27063708,Janja Šegel,Ženska,,2001,18,False,4,33,2,17,72,121
+27452442,Sanja Štiglic,Ženska,,1970,49,False,11,43,6,57,115,336
+27656193,Franc Abulnar,Moški,Ljubljana,1909,,True,9,29,4,4,121,94
+27940448,Tjaša Stanko,Ženska,Maribor,1997,21,False,33,176,3,53,76,225
+27973711,Janja Rebolj,Ženska,Trbovlje,1993,26,False,7,10,2,34,71,91
+27973715,Katja Čerenjak,Ženska,Celje,1983,36,False,4,9,2,39,79,90
+27973717,Lea Krajnc,Ženska,Izola,1993,26,False,14,26,2,48,67,115
+27973720,Miša Marinček,Ženska,Celje,1985,34,False,9,19,4,44,70,108
+27973722,Sergeja Stefanišin,Ženska,Ljubljana,1974,45,False,22,9,3,41,70,91
+27973723,Teja Ferfolja,Ženska,Gorica,1991,28,False,3,28,2,58,73,140
+27973724,Valentina Panger,Ženska,Izola,1991,28,False,3,6,1,34,70,90
+27978743,Maja Užmah,Ženska,Pulj,1988,31,False,3,6,0,35,67,109
+27978750,Nina Zulič,Ženska,Ljubljana,1995,23,False,29,108,2,75,68,139
+28039874,Urh Kastelic,Moški,Brežice,1996,23,False,20,145,22,38,677,236
+28039905,Tilen Kodrin,Moški,Celje,1994,25,False,17,87,22,26,469,178
+28100644,Aljaž Osterc,Moški,,1999,20,False,4,26,3,16,123,167
+28467442,Tilen Debelak,Moški,,1991,28,False,10,8,6,4,91,88
+28483884,Jan Grebenc,Moški,,1992,27,False,14,140,23,35,456,209
+28672685,Janez Lampič mlajši,Moški,Ljubljana,1996,23,False,3,16,7,14,117,375
+28858466,Sandi Čolnik,Moški,Maribor,1937,80,True,45,28,13,9,279,300
+28861650,Alja Koren,Ženska,Celje,1990,28,False,69,321,3,43,74,174
+28916554,Ana Roš,Ženska,Šempeter pri Gorici,1972,46,False,183,1205,5,12,363,705
+28967979,Hanna Slak,Ženska,Varšava,1975,44,False,25,85,23,15,268,170
+29048797,Anja Bah Žibert,Ženska,Koper,1973,46,False,43,18,14,9,388,60
+29413707,Urška Arlič Gololičič,Ženska,Celje,1980,39,False,40,48,2,12,91,525
+29478863,Kaja Juvan,Ženska,Ljubljana,2000,18,False,63,853,5,201,211,1205
+29957156,Vili Kovačič,Moški,,1941,77,False,183,163,8,31,917,1021
+30076730,Miroslava Geč - Korošec,Ženska,Maribor,1939,63,True,9,9,37,3,294,179
+30331236,Andrés Vombergar,Moški,Villa Luzuriaga,1994,24,False,29,268,6,41,335,297
+31200193,Nina Donneli,Ženska,,1997,22,False,470,148,4,5,246,268
+32083031,Anže Logar,Moški,Ljubljana,1976,43,False,89,19,21,9,451,215
+33320188,Tilka Paljk,Ženska,Postojna,1997,22,False,1,47,1,41,49,172
+35110551,Anita Horvat,Ženska,,1996,23,False,61,191,4,19,79,122
+35218588,Hipolit Novomeški,Moški,Novo mesto,1667,55,True,10,27,10,6,110,206
+35523006,Agata Zupin,Ženska,,1998,21,False,53,43,3,17,96,245
+40091779,Timi Zajc,Moški,,2000,19,False,147,91,15,28,849,325
+42432884,Nadiya Bychkova,Ženska,,1989,30,False,73,59598,10,113,117,856
+47466248,Bogomil Ferfila,Moški,,1951,68,False,133,38,3,1,511,253
+50097591,Tim Mastnak,Moški,Celje,1991,28,False,25,34,4,22,165,176
+50505528,Anže Tomić,Moški,Kranj,1983,36,False,61,39,2,2,104,297
+52557281,Nadežda Tokareva,Ženska,,1977,41,False,33,70,2,7,569,1111
+55614943,Jasmin B. Frelih,Moški,Kranj,1986,33,False,45,58,5,5,402,218
+56810238,Marianne Elisabeth Lloyd-Dolbey,Ženska,Drešinja vas,1919,74,True,11,46,2,8,952,823
+57338487,Marija Strojnik Scholl,Ženska,Ljubljana,1950,69,False,84,149,6,6,478,536
+60322708,Senidah,Ženska,Ljubljana,1985,34,False,2153,16485,9,22,408,1529
+61994009,Klemen Grošelj,Moški,Kranj,1976,43,False,61,82,7,8,116,140
+63105766,Klavdija Kutnar,Ženska,Ljubljana,1980,38,False,30,33,3,12,723,876
+63228412,Iča Putrih,Ženska,Ljubljana,1942,77,True,43,19,5,6,181,219
+63400148,Irena Joveva,Ženska,Kranj,1989,30,False,171,255,5,11,186,134
+63456996,Matej Accetto,Moški,,1974,45,False,405,1180,32,10,350,985
+65037618,Denis Trček,Moški,Kranj,1963,56,False,23,52,1,3,399,440
+65645601,Gordana Šövegeš Lipovšek,Ženska,,1976,43,False,14,0,6,0,185,200

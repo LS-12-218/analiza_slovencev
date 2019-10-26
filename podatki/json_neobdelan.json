@@ -1460,49 +1460,6 @@
   {
     "id": {
       "type": "uri",
-      "value": "http://www.wikidata.org/entity/Q245198"
-    },
-    "ime": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Željko Ražnatović"
-    },
-    "spol": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "moški"
-    },
-    "rojstvo": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1952-04-17T00:00:00Z"
-    },
-    "smrt": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "2000-01-15T00:00:00Z"
-    },
-    "kraj": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Brežice"
-    },
-    "poklici": {
-      "type": "literal",
-      "value": "Željko Ražnatović;General armade;podjetnik;politik;vojska;kickboksar;vojak"
-    },
-    "WikiSlo": {
-      "type": "uri",
-      "value": "https://sl.wikipedia.org/wiki/%C5%BDeljko_Ra%C5%BEnatovi%C4%87"
-    },
-    "WikiAng": {
-      "type": "uri",
-      "value": "https://en.wikipedia.org/wiki/Arkan"
-    }
-  },
-  {
-    "id": {
-      "type": "uri",
       "value": "http://www.wikidata.org/entity/Q239269"
     },
     "ime": {
@@ -9380,49 +9337,6 @@
   {
     "id": {
       "type": "uri",
-      "value": "http://www.wikidata.org/entity/Q361108"
-    },
-    "ime": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Santorio Santorio"
-    },
-    "spol": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "moški"
-    },
-    "rojstvo": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1561-04-08T00:00:00Z"
-    },
-    "smrt": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1636-02-22T00:00:00Z"
-    },
-    "kraj": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Koper"
-    },
-    "poklici": {
-      "type": "literal",
-      "value": "fiziolog;izumitelj;zdravnik"
-    },
-    "WikiSlo": {
-      "type": "uri",
-      "value": "https://sl.wikipedia.org/wiki/Santorio_Santorio"
-    },
-    "WikiAng": {
-      "type": "uri",
-      "value": "https://en.wikipedia.org/wiki/Santorio_Santorio"
-    }
-  },
-  {
-    "id": {
-      "type": "uri",
       "value": "http://www.wikidata.org/entity/Q363287"
     },
     "ime": {
@@ -13905,49 +13819,6 @@
     "WikiAng": {
       "type": "uri",
       "value": "https://en.wikipedia.org/wiki/Rok_Kronaveter"
-    }
-  },
-  {
-    "id": {
-      "type": "uri",
-      "value": "http://www.wikidata.org/entity/Q1293498"
-    },
-    "ime": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Stevo Žigon"
-    },
-    "spol": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "moški"
-    },
-    "rojstvo": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1926-12-08T00:00:00Z"
-    },
-    "smrt": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "2005-12-28T00:00:00Z"
-    },
-    "kraj": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Ljubljana"
-    },
-    "poklici": {
-      "type": "literal",
-      "value": "filmski igralec;televizijski igralec;gledališki igralec;pisatelj;igralec"
-    },
-    "WikiSlo": {
-      "type": "uri",
-      "value": "https://sl.wikipedia.org/wiki/Stevo_%C5%BDigon"
-    },
-    "WikiAng": {
-      "type": "uri",
-      "value": "https://en.wikipedia.org/wiki/Stevo_%C5%BDigon"
     }
   },
   {
@@ -83285,39 +83156,6 @@
   {
     "id": {
       "type": "uri",
-      "value": "http://www.wikidata.org/entity/Q112145"
-    },
-    "ime": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Valentin Inzko"
-    },
-    "spol": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "moški"
-    },
-    "rojstvo": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1949-05-22T00:00:00Z"
-    },
-    "poklici": {
-      "type": "literal",
-      "value": "jezikoslovec;prevajalec;diplomat;politik"
-    },
-    "WikiSlo": {
-      "type": "uri",
-      "value": "https://sl.wikipedia.org/wiki/Valentin_Inzko"
-    },
-    "WikiAng": {
-      "type": "uri",
-      "value": "https://en.wikipedia.org/wiki/Valentin_Inzko"
-    }
-  },
-  {
-    "id": {
-      "type": "uri",
       "value": "http://www.wikidata.org/entity/Q123878"
     },
     "ime": {
@@ -83521,44 +83359,6 @@
     "WikiAng": {
       "type": "uri",
       "value": "https://en.wikipedia.org/wiki/Anna_Muzychuk"
-    }
-  },
-  {
-    "id": {
-      "type": "uri",
-      "value": "http://www.wikidata.org/entity/Q257181"
-    },
-    "ime": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "Lucien Tesnière"
-    },
-    "spol": {
-      "xml:lang": "sl",
-      "type": "literal",
-      "value": "moški"
-    },
-    "rojstvo": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1893-05-13T00:00:00Z"
-    },
-    "smrt": {
-      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-      "type": "literal",
-      "value": "1954-12-06T00:00:00Z"
-    },
-    "poklici": {
-      "type": "literal",
-      "value": "jezikoslovec;prevajalec;pisatelj"
-    },
-    "WikiSlo": {
-      "type": "uri",
-      "value": "https://sl.wikipedia.org/wiki/Lucien_Tesni%C3%A8re"
-    },
-    "WikiAng": {
-      "type": "uri",
-      "value": "https://en.wikipedia.org/wiki/Lucien_Tesni%C3%A8re"
     }
   },
   {

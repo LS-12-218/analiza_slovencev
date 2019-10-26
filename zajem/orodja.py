@@ -35,3 +35,10 @@ def preberi_stran(url):
         print("Napaka")
         return
     return html
+
+def zapisi_csv(datoteka, seznam_slovarjev):
+    ustvari_mape(datoteka)
+    with open(datoteka, "w", encoding = "utf-8") as dat:
+        zapisi = csv.DictWriter(f = dat, fieldnames = list(seznam_slovarjev[0]))
+        zapisi.writeheader()
+        zapisi.writerows(seznam_slovarjev)
