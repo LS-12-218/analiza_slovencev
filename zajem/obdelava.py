@@ -7,8 +7,8 @@ import datetime
 
 zacasni_json = os.path.join("..", "podatki", "json_zacasni.json")
 novi_json = os.path.join("..", "podatki", "json_obdelan.json")
-podatki_csv = os.path.join("..", "podatki", "csv_podatki.csv")
-poklici_csv = os.path.join("..", "podatki", "csv_poklici.csv")
+podatki_csv = os.path.join("..", "podatki", "podatki.csv")
+poklici_csv = os.path.join("..", "podatki", "poklici.csv")
 neslovenski_koreni = [" von ", "W", "pp", "orio", "Ražnatović", "Inzko"]
 spol = {"moški": "Moški", "ženski": "Ženska"}
 smrt = {True: "Mrtev", False: "Živ"}
