@@ -12,6 +12,7 @@ V datoteki _poklici.csv_ so shranjeni poklici z ID-jem osebe.
 Poizvedba.py zahteva poizvedbo in shrani podatke v json_neobdelan.json.  
 Obdelava.py in wiki_zajem.py zajameta ustrezne Wikipedia strani in obdelata podatke, ki se shranjujejo v pomožni datoteki json_zacasni.json in json_obdelan.json.
 
+</br></br></br>
 #### Podatki, ki jih bom pridobil:
 * Ime in spol osebe
 * Letnica rojstva in smrti
