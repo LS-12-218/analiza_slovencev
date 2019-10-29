@@ -11,6 +11,7 @@ podatki_csv = os.path.join("..", "podatki", "csv_podatki.csv")
 poklici_csv = os.path.join("..", "podatki", "csv_poklici.csv")
 neslovenski_koreni = [" von ", "W", "pp", "orio", "Ražnatović", "Inzko"]
 spol = {"moški": "Moški", "ženski": "Ženska"}
+smrt = {True: "Mrtev", False: "Živ"}
 
 def starost(rojstvo, smrt, smrt_type):
     if smrt_type == "bnode":
@@ -56,8 +57,12 @@ def filtriraj(slovar_podatkov):
         slovar_podatkov["Mrtev"] = True
     else:
         if star > 90:
-            if not slovar_podatkov["Mrtev"] and slovar_podatkov.get("Ogledi Ang", 0) <= 40 or slovar_podatkov["Leto Rojstva"] <= 1700:
+            if not slovar_podatkov["Mrtev"] and slovar_podatkov.get("Ogledi Ang", 0) <= 40:
                 slovar_podatkov["Starost"] = None
+                slovar_podatkov["Mrtev"] = None
+            elif slovar_podatkov["Leto Rojstva"] <= 1700:
+                slovar_podatkov["Starost"] = None
+    slovar_podatkov["Stanje"] = smrt.get(slovar_podatkov.pop("Mrtev"), None)
     return slovar_podatkov
 
 def obdelaj_json():
@@ -69,7 +74,7 @@ def obdelaj_json():
 
     for slovar_podatkov in neobdelani:
         id_osebe = wiki.id(slovar_podatkov["id"]["value"])
-        if id_osebe in obdelani or not slovensko_ime(slovar_podatkov["ime"]["value"]):
+        if id_osebe in obdelani:
             continue
         else:
             obdelani[id_osebe] = predelaj_slovar(slovar_podatkov)
