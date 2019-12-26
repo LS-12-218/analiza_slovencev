@@ -5,9 +5,9 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 path_json = os.path.join("..","podatki", "json_neobdelan.json")
 dat_rq = "poizvedba.rq"
 
-def rezultat(url, pz):
+def rezultat(url, poizvedba):
     sparql = SPARQLWrapper(url)
-    sparql.setQuery(pz)
+    sparql.setQuery(poizvedba)
     sparql.setReturnFormat(JSON)
     vrnjen_slovar = sparql.query().convert()
     return vrnjen_slovar["results"]["bindings"]
